@@ -1,0 +1,13 @@
+##### 肓门
+
+〔定位〕在第一腰椎棘突下，[悬枢](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.5.md)（督脉）旁开3寸处（图71）。
+
+〔解剖〕有背阔肌，髂肋肌，有第一腰动、静脉背侧支，布有第十二胸神经后支外侧支，深层为第一腰神经后支。
+
+〔功能〕活血，散瘀，行滞。
+
+〔主治〕上腹痛，痞块，乳疾，便秘。
+
+〔刺灸〕直刺0. 5〜1寸。可灸。
+
+〔讲述〕见于《甲乙》。出入之处为门，穴在[三焦俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.22.md)之旁，内连三焦，上有膏肓，前有[肓俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.16.md)，此穴犹肓穴之门户，因名。《甲乙》：用治妇人乳疾，《千金》：主心下大坚。临床常配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)治癃闭或尿失禁。 

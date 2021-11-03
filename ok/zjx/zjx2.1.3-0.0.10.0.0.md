@@ -1,0 +1,77 @@
+### 癃闭
+
+癃闭，又称：小便不通。是以排尿困难，甚则小便闭塞不通为主症的疾患。癃，指小便不畅，点滴而下，尿液潴留膀胱，小腹充盈隆起；闭，指小便闭塞，点滴不出。
+
+本节讨论的以各种原因引起的尿潴留为范围。至于因肾功能衰竭等引起的无尿症，是水液不能下输膀胱、永泉枯涸，与膀胱有尿而不能排出的癃闭截然不同，自当分别论治。
+
+〔病因病机〕
+
+虚证：多因年老体弱，肾阳不足，[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，致使膀恍气化无权，而尿不能排出；或久病体弱，中气不足，膀胱传送无力，尿液难以排出，潴留于膀胱所致。
+
+实证：中焦湿热移注膀胱，阻遏膀胱气化；或因跌打外伤，以及下腹部手术引起的瘀血凝滞；或肿块砂石压迫阻塞尿路，小便难以排出，而形成癃闭。
+
+〔辨证论治〕
+
+体针
+
+（一）虚证
+
+症状  小便淋漓不爽。排出无力，甚至点滴不出，小腹膨癃，神疲乏力，面色㿠白，气短而语声低细，腰膝痠软，大便溏薄，时觉肛坠，舌质淡白，舌苔微腻，脉沉细而弱。
+
+治则  温阳益气，启闭利尿。取足少阴、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、背俞和任脉经穴。
+
+处方  [阴谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.10.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)  [三焦俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.22.md)  [委阳](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.39.md)  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)
+
+方义  肾阳不足，[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，脾胃虚弱，中气不足，治当温补脾肾，益气助阳为主，故取肾经合穴[阴谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.10.md)，配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)以补益脾肾之气，启闭利尿。又因脾肾气虚而致三焦决渎无力，故取[三焦俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.22.md)及三焦的下合穴[委阳](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.39.md)以通调三焦气机。复灸任脉经穴[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)温补下焦元气，以助膀胱气化，而达启闭通尿之效。如有肛坠加[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)补下焦以提陷；心烦加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以宁心安神。
+
+治法  毫针刺用补法，一般先针四肢穴位，后针腹部或腰部穴位，留针20～30分钟，每隔5～10分钟行针1次，每日针刺1～2次。
+
+（二）实证
+
+症状  小便点滴不下，努责无效，小腹胀急而痛，烦躁口渴，口苦而粘，面赤气粗，舌苔黄腻，舌质红赤，脉弦数。若属瘀血者，舌质隐青或见紫斑点，脉涩。因外伤或手术引起者，有病史可查。若湿毒内攻或上犯清窍，可见喘急，心烦，甚至神昏等症。
+
+治则  清热利湿，行气活血。取足太阴、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、任脉经穴为主。
+
+处方  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  [阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)  [膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)  [中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)
+
+方义  本证  多因湿热下注，或因外伤，气血凝滞，阻闭尿道所致，故取[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)疏通足三阴的气血，使瘀得散，清利脾经湿热，膀胱气化得通。又取[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)为俞募相配，以疏通膀胱气化而通利小便。如出现湿毒上犯喘急加[尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)、[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)放血以清肺降气；心烦加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以宁心安神；神昏加[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)放血以泄热醒脑。
+
+治法  毫针刺用泻法，不灸。针刺取得疗效的关键是“气至病所"，即针刺达到一定深度后，需找到痠、麻、胀感等，然后运用手法，使针感到达下腹及[会阴](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.1.md)部，直到患者出现尿急或下腹收縮感为止。如获得这种针感效应，则往往可在起针后立即自动排尿。
+
+耳针
+
+取穴  膀胱、肾、尿道、三角
+
+刺法  中等刺激，每次选2～3穴，留针30～50分钟，每10分钟捻转1次。
+
+电针
+
+取穴  双侧[维道](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.28.md)。
+
+刺法  双侧皆沿皮刺，针尖向[曲骨](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.2.md)透刺，约二寸。通电15～30分钟。
+
+〔应用例案〕
+
+宋××，3岁，女孩。代诉：不能排尿已18小时。患儿碰伤[会阴](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.1.md)部后，即不能自行排尿。查：腹部膀胱充盈，[会阴](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.1.md)前方有擦伤，尿道口右侧有一小伤口，局部肿胀。诊断为：[会阴](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.1.md)部外伤，尿潴留。治取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)后，立即解出大量小便（摘自《现代针灸医案选》）。
+
+〔文献摘录〕
+
+小便不通：[阴谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.10.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)（《神应经》）。
+
+小便不利：[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)（《针灸大成》)。
+
+有人报道106例尿潴留治疗经验，由多种疾病所致，故治疗时须严密观察，针刺治疗是在膀胱充盈数小时不能排出小便，且在未插导尿管的情况下施针，故针后40~50分钟尚不排尿时，应临时插导尿管导尿；等下次膀胱充盈时，再行针灸。不愈者反复施行，直至痊愈。针刺取穴以[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)为主穴。对脑脊髓疾患所致者加[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)；腹部手术所致者，因腹部刀口不宜施针，故不用[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)，另加[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)。针刺手法，因神经麻痹所致者，用补法， 留针10~15分钟，中间捻针1~2次；并配合艾条灸，隔日1次。其它疾病所致者，用泻法，留针20~25分钟，中间捻针2~3次，每日1次。用上法治疗后，1次痊愈者82例，占77.3%；5次以上痊愈者6例，占5.7%；无效者3例，占2.8%(《针灸医学验集》)。
+
+复习思考题
+
+1．何谓癃与团？其发病原因是什么？
+
+2．如何辨别癃闭的虚实？
+
+3．简述虚证癃闭的针灸治则、治法、处方和方义。
+
+4．简述实证癃闭的针灸治则、治法、处方和方义。
+
+5．癃闭证与淋证在病因和症状上有何不同？
+
+ 

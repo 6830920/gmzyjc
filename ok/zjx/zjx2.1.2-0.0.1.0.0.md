@@ -1,0 +1,117 @@
+### 呕吐 附：呃逆
+
+**呕吐**是由于胃失和降，气逆于上所引起的病证，常伴发于多种疾病。有物有声谓之呕，有物无声谓之吐，无物有声谓之干呕，因呕与吐常同时出现，所以一般并称呕吐。
+
+神经性呕吐、急慢性胃炎、胃扩张、贲门痉挛、[幽门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.21.md)痉挛等，均可参照本节治疗。
+
+**〔病因病机〕**
+
+胃之受纳，腐熟水谷，其气下行，以降为顺。若外感或内伤扰乱胃气，失其和降，则发生呕吐。
+
+外邪犯胃：感受风、寒．暑、湿之邪以及秽浊之气，内犯胃腑，以致胃失和降，水谷随气逆而上，发生呕吐。
+
+饮食所伤：暴饮暴食，或恣食生冷甘肥以及误食腐败食物，食积不化，胃气不降而成呕吐。
+
+情志所伤：恼怒怫郁，肝失条达，横逆犯胃，胃失和降，饮食随气上逆而呕吐。
+
+脾胃虚弱：平素或病后脾胃虚弱，中阳不振，运化失常，湿浊内生，停痰留饮，积于胃中，痰饮上逆，亦能产生呕吐。
+
+**〔辨证论治〕**
+
+体针
+
+（一）外邪犯胃
+
+症状  有寒、热之分；偏寒者，突然呕吐，来势较急，胸脘痞满，或兼腹泻，伴有恶寒发烧，头痛等症，舌苔薄白，脉浮；偏热者，呕吐频繁，多进食即吐，吐出酸苦胆液，口渴欲得冷饮，伴有发烧微恶寒，头痛，舌质红，舌苔黄腻，脉浮数。
+
+治则  解表和中。偏寒取太阴、厥阴经穴为主；偏热取少阳、阳明经穴为主。
+
+处方  偏寒：[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)  [支正](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.7.md)  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)；偏热：[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md) [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)
+
+方义  外感病初期发生呕吐多属实热，故取[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)配[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)，疏散风热，和解少阳；[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)清泄阳明，和胃止呕，外感病后期发生呕吐多属虚寒，故取[支正](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.7.md)解表散寒；[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)安胃；[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)补脾；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)平肝；共奏扶土抑木、安胃止呕之效。如干呕灸[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)七壮以和胃止呕；眩晕针[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)以清头目；呕吐黄水加[丘墟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.40.md)以清胆热。
+
+治法  偏热多用泻针法，偏寒多用灸法。
+
+（二）饮食所伤
+
+症状  呕吐多为未消化食物，吐后轻快，嗳气食臭，恶进饮食，脘腹胀满或疼痛拒按，进食更甚，便秘转矢气，舌苔厚腻，脉滑实。
+
+治则  行气导滞。取任脉、足阳明经穴为主。
+
+处方  [下脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.9.md)  [璇玑](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [腹结](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.14.md)
+
+方义  [下脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.9.md)、[璇玑](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.md)行气导滞而消宿食，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)和胃降逆止呕，[腹结](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.14.md)除脘腹胀满，亦治便秘。如腹胀甚可加刺[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以理气消胀。
+
+治法  针用泻法。
+
+（三）情志所伤
+
+症状  呕吐多在食后精神受刺激时发作，往往吐尽为快。常伴有胸胁满胀，嗳气吞酸，烦闷不舒，恶心干呕等症，舌边红，舌苔薄白，脉弦。
+
+治则  疏肝和胃。取足厥阴、少阳、阳明经穴为主。
+
+处方  [上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)  [阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)  [梁丘](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.34.md)  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)
+
+方义  [上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)宽胸和胃，配[梁丘](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.34.md)平胃止呕；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)平肝降火，配[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)疏肝理气，解郁和胃；取[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)安神定志，以助情志平稳。泛酸干呕加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)以制酸止呕。
+
+治法  针用泻法。
+
+（四）脾胃虚弱
+
+症状  饮食稍多即胃脘不适，呕吐痰涎多于食物，吐后喜得热饮，或劳累之后眩晕作呕，心悸，倦怠乏力。喜暖恶寒，面色不华，甚则四肢不温，大便溏薄，舌质淡，苔白腻，脉滑或濡。
+
+治则  健脾化痰，和胃止呕。取足太阴、足阳明经穴为主。
+
+处方  [章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)  [公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)
+
+方义  脾募[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)，配[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)健脾化痰；胃募[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)，配[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)健运脾胃，化痰止呕。四穴同用则脾健痰除，胃气和降而呕吐可止。
+
+治法  针灸并用。
+
+**〔应用例案〕**
+
+壬申岁，行人虞绍东翁，患膈气之疾，形体羸瘦，药饵难愈。召视之，六脉沉涩，须取[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)，以调和其膈：再取[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)，以保养其源，而元气充实，脉息自盛矣。后择时针上穴，行六阴之数，下穴行九阳之数，各灸七壮，遂痊愈。今任扬州府太守。庚辰过扬，复睹形体丰厚（《针灸大成》）。
+
+周xx，女性，26岁。半年来脘痛，呕吐，吐物不化，吐时不伴恶心。经X线检查，胃部未发现器质性改变。诊为神经性呕吐。经用各种疗法无效，随改用针灸治疗。取[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)等穴加减施治，用透天凉手法。除[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)其余各穴得气后皆留针15分钟，针三次呕吐减轻，六次吐止，共八次而愈（《针
+灸学简编》)。
+
+李xx，男，60岁。自诉：于1972年4月因患胃十二指肠溃疡住院治疗，现经常呃逆，呕吐，非常痛苦，住院前曾服中西药治疗无效，住院期间用过维生素B6等药亦无效。后改用针刺治疗。取[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)透[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，中等刺激，每天一次，每次留针5分钟。针一次后，呃逆次数明显减少，呕吐停止，针二次后呃逆消失
+（摘自《现代针灸医案选》)。
+
+**〔文献摘录〕**
+
+呕吐：[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)、[通里](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.5.md)、[劳宫](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.8.md)、阳陵(泉)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[大都](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.2.md)、[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)，通谷、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)(《针灸大成》)。
+
+腹中雷鸣，食不化，逆气而吐，取[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[下脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.9.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，灸[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)（《神应经》)。
+
+吐逆呕不得食，灸[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)百壮。吐逆饮食却去，灸脾募百壮（《千金要方》）。
+
+针刺[大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)穴直下5分处，用1到1.5寸毫针，呈15或30度角向中指端进针，透向手针疗法穴位“胃肠点”，大幅度捻转强刺激，留针10分钟左右，小儿可不留针。轻者刺一侧，重者双侧同取。观察26例，均有效果，一般针1次即可(《针灸处方集》)。
+
+针刺治疗呕吐，收到理想效果。主穴：[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)，[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)。配穴：[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)。每次选用3~5穴，多采用强刺激泻法或平补平泻手法，对虚寒者用补法、灸法。根据病情每日或隔日治疗一次。留针15~30分钟，可间歇运针1——2次，5次为一疗程，疗程间隔3~5天。用上述方法共治疗65例，近期全愈50例，显效7例，好转5例，不明3例（经针1次而未复诊者），近期痊愈率占76.9%，有效率占95.4%(《针灸医学验集》)。
+
+**附：呃逆**
+
+呃逆的发生，主要是胃气上逆所致。如因饮食不节，过食生冷，或过食辛辣，或情志郁怒；或久病脾阳衰惫；或热病胃阴被灼等，均足以导致胃气不降，上逆胸膈，气机逆乱而为呃逆。
+
+呃逆初起，呃声响亮有力，形神未衰，多属实证；久病呃逆，气怯声低无力，神疲形枯，多属虚证。
+
+冶疗宜宽膈和胃，降逆调气为主。寒证多用灸以温阳，热证多用针以清热，气滞者疏肝理气，阳虚者温中益气，阴虚者益胃生津。一般可取[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)等穴。胃寒加灸[梁门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.21.md)；胃热针泻[陷谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.43.md)；阳虚加灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)；阴虚针补[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)；肝气横逆针泻[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)。
+
+**复习思考题**
+
+1．何谓呕吐？呕与吐有何区别？
+
+2．哪些疾病可出现呕吐？
+
+3．呕吐的主要原因是什么？
+
+4．如何辨别呕吐的虚实？
+
+5．外邪犯胃、饮食所伤呕吐症状鉴别？分述其针灸治则、处方、方义和治法。
+
+6．情志所伤和脾胃虚弱所致呕吐在针灸治疗上有何不同，简述其处方和方义。
+
+7．简述呃逆病因症状和针灸治疗方法。
+
+

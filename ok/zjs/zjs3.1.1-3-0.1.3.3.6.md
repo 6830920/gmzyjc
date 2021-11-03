@@ -1,0 +1,13 @@
+##### 颊车
+
+〔定位〕下颌角前上方一横指凹陷中，咀嚼时咬肌的隆起处 （图27）。
+
+〔解剖〕在咬肌中，有咬肌动静脉；布有三叉神经第三支的咬肌神经，及由颈丛来的耳大神经。
+
+〔功能〕开关活络，疏风止痛。   
+
+〔主治〕口眼㖞斜，颊肿，齿痛，口噤不语，中风痰壅，痄腮。
+
+〔刺灸〕直刺0. 3〜0.5 寸，或向[地仓](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.4.md)方向斜刺，平刺0.5〜1.2 寸，可灸。
+
+〔讲述〕出《素问•气府论》。别称牙车、曲牙、鬼府、机关。面两侧称颊，下颌骨古称[颊车](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.6.md)骨，该骨总载诸齿，能咀食物，如车轮转动，穴当其处，因名。本穴主要用治肩部疼痛，口噤，颊 肿等。临床常配[颧髎](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.18.md)治口僻痛，恶风寒不可以咀；配[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)，[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[承浆](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.22.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)治中风口噤不开；配[内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)清泻胃火，治胃火牙痛；配 [太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)滋阴补肾，治肾虚牙痛；配[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)清泻郁热，消散壅滞治痄腮。

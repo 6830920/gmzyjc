@@ -1,0 +1,11 @@
+## 神农本草经
+
+《神农本草经》简称《本经》，是我国现存最早的一部药学专著。约成书于秦汉时期（一说战国时期）。原书早佚，现行本。为后世从历代本草中辑录而成，目前流行的主要有三种辑本：一是孙星衍等辑本（清嘉庆四年），二是顾观光辑本（清道光二十四年），三是日本·森立之辑本（1852年）。
+
+本书总结了秦以前药物学成就，首为序例，总论药物理论及配伍规律。次载药365种，分上、中、下品三大类，上、中品各载120种、下品载125种。对每种药物的别名、性味、生长环境及主治功用等都作了叙述。其中以植物药为最多，计有252种，动物药67种，矿物药46种。上品一般是无毒或毒性较小，多为补养类药物；中品多为补养而兼有攻治疾病作用的药物；下品大多数具有毒性而专用于攻治疾病的药物。概括地记述了君、臣、佐、使，七情和合，四气五味等药物学理论。简明地记载了各类药物的正名、别名、产地、性味、功能、采集时间和炮制贮藏等方法。
+
+书中所记载的药物功效，大多是正确的，如当时所用的下药[大黄](https://www.gmzyjc.com/read/bc/bc02-0.1.1.0.0.md)、[芒硝](https://www.gmzyjc.com/read/bc/bc02-0.1.2.0.0.md)、[巴豆](https://www.gmzyjc.com/read/bc/bc02-0.3.5.0.0.md)等，解热用[葛根](https://www.gmzyjc.com/read/bc/bc01-1.2.8.0.0.md)、[黄芩](https://www.gmzyjc.com/read/bc/bc03-0.2.1.0.0.md)、[知母](https://www.gmzyjc.com/read/bc/bc03-0.1.2.0.0.md)、[桂枝](https://www.gmzyjc.com/read/bc/bc01-1.1.2.0.0.md)、[麻黄](https://www.gmzyjc.com/read/bc/bc01-1.1.1.0.0.md)、[柴胡](https://www.gmzyjc.com/read/bc/bc01-1.2.9.0.0.md)等，吐用[瓜蒂](https://www.gmzyjc.com/read/bc/bc19-0.0.1.0.0.md)、栀子等，直到现在仍在应用。其中[大黄](https://www.gmzyjc.com/read/bc/bc02-0.1.1.0.0.md)、[芒硝](https://www.gmzyjc.com/read/bc/bc02-0.1.2.0.0.md)、[巴豆](https://www.gmzyjc.com/read/bc/bc02-0.3.5.0.0.md)和[麻黄](https://www.gmzyjc.com/read/bc/bc01-1.1.1.0.0.md)已成为世界通用的药，[大黄](https://www.gmzyjc.com/read/bc/bc02-0.1.1.0.0.md)自十五世纪至十九世纪为我国出口药物之一，[麻黄](https://www.gmzyjc.com/read/bc/bc01-1.1.1.0.0.md)平喘尤具卓效，可见现代医学的成就受赐于我国祖先的智慧者甚多。至于止痛镇静用[附子](https://www.gmzyjc.com/read/bc/bc07-0.1.0.0.0.md)、[杏仁](https://www.gmzyjc.com/read/bc/bc16-0.3.1.0.0.md)，其中[杏仁](https://www.gmzyjc.com/read/bc/bc16-0.3.1.0.0.md)是现代世界上仍然通用的镇咳药，[附子](https://www.gmzyjc.com/read/bc/bc07-0.1.0.0.0.md)为公元前七世纪已发现的毒药。其次有利尿作用的[茯苓](https://www.gmzyjc.com/read/bc/bc05-0.0.1.0.0.md)、[泽泻](https://www.gmzyjc.com/read/bc/bc05-0.0.4.0.0.md)、健胃用的姜、[甘草](https://www.gmzyjc.com/read/bc/bc17-0.1.8.0.0.md)、枣、[葱白](https://www.gmzyjc.com/read/bc/bc01-1.1.14.0.0.md)、[陈皮](https://www.gmzyjc.com/read/bc/bc11-0.0.1.0.0.md)，治痢用的[白头翁](https://www.gmzyjc.com/read/bc/bc03-0.4.12.0.0.md)、[黄连](https://www.gmzyjc.com/read/bc/bc03-0.2.2.0.0.md)、抗疟用蜀漆，治疥癣用[水银](https://www.gmzyjc.com/read/bc/bc20-0.4.0.0.0.md)、硫磺等一直为现代应用，而且确有疗效，至今仍被科学实验所证明。
+
+本书奠定了我国本草学的基础，以后历代本草均在此基础上不断地充实和发展，是学习和研究本草学的必读文献。
+
+1963、1982年人民卫生出版社再版了清代孙星衍辑本。

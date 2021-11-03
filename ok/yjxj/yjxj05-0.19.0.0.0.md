@@ -1,0 +1,9 @@
+## 种福堂公选良方
+
+清•叶天士（名桂）原著，华岫云编，成书于1775年。
+
+全书共四卷。为叶氏学生华岫云搜集先师验案与多种经验方编辑而成。卷一是叶天士的“温热论”与“医案”。叶天士是清代最享盛名的临床家，对于治疗温热病（急性热病）有独特的经验，而“温热论”中记载了叶氏毕生的经验，因此，读了“温热论”再看叶氏的医案，就能更好地学习叶氏对温热病的理论，这对研究和应用温热病疗法极为有用。卷二至四系各科常见疾病的验方选集，并详列适应证，配制法，对临证处方颇有参考价值。末附急救诸方，多为简便易行。
+
+本书所载不乏佳方。如治盗汗方：“[莲子](https://www.gmzyjc.com/read/bc/bc18-0.0.13.0.0.md)七粒、黑枣七个，浮麦一合，马料豆一合，水煎服。[沉香](https://www.gmzyjc.com/read/bc/bc11-0.0.9.0.0.md)[郁金](https://www.gmzyjc.com/read/bc/bc12-0.0.3.0.0.md)散（[沉香](https://www.gmzyjc.com/read/bc/bc11-0.0.9.0.0.md)、[木香](https://www.gmzyjc.com/read/bc/bc11-0.0.5.0.0.md)、[郁金](https://www.gmzyjc.com/read/bc/bc12-0.0.3.0.0.md)、[乌药](https://www.gmzyjc.com/read/bc/bc11-0.0.6.0.0.md)、降香、[细辛](https://www.gmzyjc.com/read/bc/bc01-1.1.9.0.0.md)）。治疴气寒凝以致腹痛。治老幼脾泻久不愈神方：饭锅巴、莲肉、白糖。小便下血：[旱莲草](https://www.gmzyjc.com/read/bc/bc17-0.4.9.0.0.md)、车前子。肠风下血；柿饼、[地榆](https://www.gmzyjc.com/read/bc/bc13-0.0.4.0.0.md)、槐米。治风寒湿痹药酒方：[羌活](https://www.gmzyjc.com/read/bc/bc01-1.1.6.0.0.md)、[桂枝](https://www.gmzyjc.com/read/bc/bc01-1.1.2.0.0.md)、归身、[秦艽](https://www.gmzyjc.com/read/bc/bc06-0.0.4.0.0.md)、[狗脊](https://www.gmzyjc.com/read/bc/bc17-0.2.11.0.0.md)、[虎骨](https://www.gmzyjc.com/read/bc/bc06-0.0.11.0.0.md)、[防风](https://www.gmzyjc.com/read/bc/bc01-1.1.5.0.0.md)、[杜仲](https://www.gmzyjc.com/read/bc/bc17-0.2.10.0.0.md)、[续断](https://www.gmzyjc.com/read/bc/bc17-0.2.10.0.xd.md)、川芎、蚕砂、[附子](https://www.gmzyjc.com/read/bc/bc07-0.1.0.0.0.md)、[桑枝](https://www.gmzyjc.com/read/bc/bc06-0.0.17.0.0.md)、[生姜](https://www.gmzyjc.com/read/bc/bc01-1.1.13.0.0.md)、[大枣](https://www.gmzyjc.com/read/bc/bc17-0.1.9.0.0.md)、陈酒。玉泉散治消渴：甘葛、花粉、麦冬、生地、[五味子](https://www.gmzyjc.com/read/bc/bc18-0.0.2.0.0.md)、[甘草](https://www.gmzyjc.com/read/bc/bc17-0.1.8.0.0.md)、糯米等等诸方，今日用之仍有效验，正如书前杜玉林序曰：“倘于乡陬僻壤，症患奇难，一时罕有良医调剂，备此査考，对症用药，立能起死回生，功效匪浅，慎勿以此编易简而勿诸”。
+
+1960年、1982年人民卫生出版社有点校本出版流行。

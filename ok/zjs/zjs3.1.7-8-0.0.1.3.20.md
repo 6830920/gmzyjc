@@ -1,0 +1,13 @@
+##### 脾俞
+
+〔定位〕第十一胸椎棘突下，旁开1.5寸处（图67）。
+
+〔解剖〕在背阔肌，最长肌和髂肋肌之间，第十一肋间动、静脉背侧支的内侧支，布有第十一胸神经后支内侧皮支，深层为后支外侧支。
+
+〔功能〕健脾，和胃，化湿。
+
+〔主治〕腹胀，呕吐，泄泻，完谷不化，黄疸，水肿，痢疾。
+
+〔刺灸〕斜刺0. 5〜0.8寸。宜灸。
+
+〔讲述〕出《灵枢•背输》。穴近脾脏，位于第十一胸椎之旁，昔称脾附着于脊之第十一椎，为脾脉经气转输之处，主治脾病，有健脾和胃之功效，因名。脾主运化，故易致虚，而脾虚多责于湿困，食滞，劳倦，水犯，木乘，火衰，胃虚所致。临床根据脾虚湿聚，痰浊上扰清窍则清不升，浊不降所致头痛，眩晕可配[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)健脾祛湿，化痰降浊治头痛，眩晕；配[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)健脾益胃，治气血亏虚之头痛，眩晕；配[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)益心脾，治髓海不足之眩晕。根据脾阳虚衰，上不能输精以养肺，下不能助肾以利水的功能，配[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)，泻[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)温阳益脾，化气行水治痰饮；配[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)健脾止泻；配[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)温运中阳而止泻，配[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)补命火以益脾土而止泻；配[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)抑脾扶土而止泻。根据水肿病，水唯畏土，其制在脾的法则，补脾命，配[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)温补脾阳，可化气行水以消水肿；配[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、命门温补脾 阳以利水消肿；配[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)健脾益胃以利湿消肿。根据脾虚湿困，胆汁外溢，配[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)可温化寒湿，疏肝利胆治黄疸；配[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)健脾柔肝，渗湿和中治黄疸胁下疼痛。根据脾胃受湿，湿困乏力，怠惰嗜卧，灸[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)，配泻[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)温阳健脾除湿，治身重嗜卧多寐。

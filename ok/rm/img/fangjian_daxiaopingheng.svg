@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="111.12651mm"
+   height="164.64084mm"
+   viewBox="0 0 111.12651 164.64084"
+   version="1.1"
+   id="svg1694"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="fangjian_daxiaopingheng.svg">
+  <defs
+     id="defs1688">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2981"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2979"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2861"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2770"
+       effect="spiro" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2344"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2691"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2337"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="100.59347"
+       y="159.55243"
+       width="43.987871"
+       height="12.377046"
+       id="rect2331" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2321">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop2317" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:0;"
+         offset="1"
+         id="stop2319" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2313">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2309" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2311" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2313"
+       id="linearGradient2315"
+       x1="104.41674"
+       y1="142.37868"
+       x2="116.04359"
+       y2="142.37868"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2321"
+       id="linearGradient2323"
+       x1="100.64801"
+       y1="29.339762"
+       x2="112.27486"
+       y2="29.339762"
+       gradientUnits="userSpaceOnUse" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2344-3" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2344-3-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-9-8-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2344-3-4-3" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2344-3-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8078288"
+     inkscape:cx="112.56429"
+     inkscape:cy="296.83651"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="1525"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1691">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.45702,-5.9574504)">
+    <rect
+       style="opacity:0.44868;fill:#2b1900;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.32516499999999998;stroke-dashoffset:0"
+       id="rect3161"
+       width="110.56058"
+       height="64.226334"
+       x="51.73999"
+       y="88.57373" />
+    <rect
+       style="opacity:0.44868;fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.32516499999999998;stroke-dashoffset:0;fill-rule:evenodd"
+       id="rect3145"
+       width="109.97221"
+       height="67.26683"
+       x="51.73999"
+       y="21.306898" />
+    <rect
+       style="fill:#ffff00;fill-opacity:0;stroke:#000000;stroke-width:0.56594;stroke-miterlimit:10"
+       id="rect2257"
+       width="110.56057"
+       height="131.49316"
+       x="51.73999"
+       y="21.306898" />
+    <ellipse
+       style="opacity:0.44868;fill:url(#linearGradient2323);fill-opacity:1;stroke:#000000;stroke-width:0.449792;stroke-miterlimit:10"
+       id="path2259"
+       cx="106.46143"
+       cy="29.339762"
+       rx="5.5885258"
+       ry="6.7062316" />
+    <ellipse
+       ry="6.7062316"
+       rx="5.5885262"
+       cy="142.37868"
+       cx="110.23016"
+       id="path2259-4"
+       style="fill:url(#linearGradient2315);fill-opacity:1;stroke:#000000;stroke-width:0.449792;stroke-miterlimit:10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87.178764"
+       y="18.538561"
+       id="text2327"><tspan
+         sodipodi:role="line"
+         id="tspan2325"
+         x="87.178764"
+         y="18.538561"
+         style="font-size:6.35px;stroke-width:0.264583">电暖气3000瓦</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2329"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2331);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-5.7629454,-4.2374602)"><tspan
+         x="100.59375"
+         y="165.34603"><tspan
+           style="shape-inside:url(#rect2331)">制冷空调</tspan><tspan
+           style="shape-inside:url(#rect2331)">2</tspan><tspan
+           style="shape-inside:url(#rect2331)">P</tspan></tspan></text>
+    <path
+       inkscape:original-d="m 74.442476,112.09284 c 6.43e-4,-16.177717 6.43e-4,-32.355836 0,-48.534359 -6.41e-4,-16.17852 0.452796,-0.843673 0.678235,-1.266111"
+       inkscape:path-effect="#path-effect2770"
+       id="path2689-1"
+       d="m 74.442476,112.09284 c -7.735846,-14.925897 -7.735846,-33.608462 0,-48.534359 0.220317,-0.42509 0.446423,-0.847179 0.678235,-1.266111"
+       style="fill:none;stroke:#000000;stroke-width:0.506593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.506593, 0.506593;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.506592;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.506592, 0.506592;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9-8)"
+       d="m 67.484843,111.6154 c -7.735846,-14.925897 -7.735846,-33.608463 0,-48.53436 0.220317,-0.42509 0.446423,-0.847179 0.678235,-1.266111"
+       id="path2689-1-1"
+       inkscape:path-effect="#path-effect2861"
+       inkscape:original-d="m 67.484843,111.6154 c 6.35e-4,-16.177718 6.35e-4,-32.355837 0,-48.53436 -6.35e-4,-16.17852 0.452796,-0.843673 0.678235,-1.266111" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.506592;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.506592, 0.506592;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9-0)"
+       d="m 137.80163,60.728146 c 0.23181,0.418932 0.45792,0.841021 0.67824,1.266111 7.7359,14.925888 7.7359,33.608495 0,48.534383"
+       id="path2689-1-0" />
+    <path
+       id="path2689-1-1-6"
+       d="m 144.75927,60.250705 c 0.23181,0.418932 0.45791,0.841021 0.67823,1.266111 7.7358,14.92592 7.7358,33.608464 0,48.534384"
+       style="fill:none;stroke:#000000;stroke-width:0.506592;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.506592, 0.506592;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9-8-9)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.370964"
+       y="59.38533"
+       id="text3117"><tspan
+         sodipodi:role="line"
+         id="tspan3115"
+         x="93.370964"
+         y="59.38533"
+         style="font-size:8.46667px;stroke-width:0.264583">27度</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.47645"
+       y="55.878799"
+       id="text3121"><tspan
+         sodipodi:role="line"
+         id="tspan3119"
+         x="112.47645"
+         y="55.878799"
+         style="font-size:5.64444px;stroke-width:0.264583">+5</tspan></text>
+    <text
+       id="text3121-5"
+       y="60.894859"
+       x="112.52606"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="60.894859"
+         x="112.52606"
+         id="tspan3119-2"
+         sodipodi:role="line">-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="51.880764"
+       y="15.025615"
+       id="text3143"><tspan
+         sodipodi:role="line"
+         id="tspan3141"
+         x="51.880764"
+         y="15.025615"
+         style="stroke-width:0.264583">卧室</tspan></text>
+    <text
+       id="text3117-6"
+       y="120.88344"
+       x="94.89743"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="120.88344"
+         x="94.89743"
+         id="tspan3115-9"
+         sodipodi:role="line">23度</tspan></text>
+    <text
+       id="text3121-9"
+       y="117.37688"
+       x="114.00304"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="117.37688"
+         x="114.00304"
+         id="tspan3119-4"
+         sodipodi:role="line">+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="114.05267"
+       y="122.39299"
+       id="text3121-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan3119-2-6"
+         x="114.05267"
+         y="122.39299"
+         style="font-size:5.64444px;stroke-width:0.264583">-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.473934"
+       y="46.214108"
+       id="text3195"><tspan
+         sodipodi:role="line"
+         id="tspan3193"
+         x="63.473934"
+         y="46.214108"
+         style="stroke-width:0.264583">阳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.074776"
+       y="133.33673"
+       id="text3199"><tspan
+         sodipodi:role="line"
+         id="tspan3197"
+         x="64.074776"
+         y="133.33673"
+         style="stroke-width:0.264583">阴</tspan></text>
+    <text
+       id="text3117-0"
+       y="91.746155"
+       x="94.950745"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:8.46667px;stroke-width:0.264583"
+         y="91.746155"
+         x="94.950745"
+         id="tspan3115-1"
+         sodipodi:role="line">25度</tspan></text>
+    <text
+       id="text3121-8"
+       y="88.239624"
+       x="114.05621"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:5.64444px;stroke-width:0.264583"
+         y="88.239624"
+         x="114.05621"
+         id="tspan3119-9"
+         sodipodi:role="line">+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="114.10583"
+       y="93.255684"
+       id="text3121-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan3119-2-8"
+         x="114.10583"
+         y="93.255684"
+         style="font-size:5.64444px;stroke-width:0.264583">-5</tspan></text>
+  </g>
+</svg>

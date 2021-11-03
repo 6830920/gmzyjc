@@ -1,0 +1,63 @@
+### 噎膈 附：反胃
+
+**噎膈**，噎指进食吞咽困难，膈指饮食梗阻胸膈。噎证既可单独发生，又可为膈证的前兆，因此并称噎膈。
+
+本证近似贲门痉挛、食道炎、食道憩室，食道癌、贲门癌以及食道功能性疾患。中年以上的患者，应考虑有癌证的可能性。
+
+**〔病因病机〕**
+
+本证多因忧思伤脾，脾伤气结，津液不能输布，聚而为痰，痰气交阻食道；或恼怒伤肝，肝郁气滞，气滞则血行不畅，遂积成瘀，瘀阻不通；或偏嗜烟酒辛热，积热消阴，以津伤血燥，日久瘀热停留，阻于胃脘食道，而发噎膈。由于水谷难下，气血生化之源亏乏，津涸液枯，日渐消瘦，进而元气大伤，终至上下拒隔，成为危候。
+
+**〔辨证论治〕**
+
+症状：本证轻重程度不一。初起较轻，先有不同程度的吞咽困难和胸闷胸痛，进流质和半流汁的食物尚能通过，进固体食物则梗阻难下，旋食旋吐，带有痰涎，呃逆，嗳气，舌苔薄白或腻，脉象弦缓。随着病情发展，梗阻逐渐加重，虽进流汁，亦难咽下，食入呛咳，吐出蟹沫样或豆汁样痰涎，胸膈疼痛，形体嬴瘦，面容枯槁，舌质干老，尖红，剥苔，脉象细涩。由于饮食极少，津液告乏，以致大便少而秘结，犹如羊矢，小便短黄，舌色光绛或微紫，无苔，脉细数。久之阴竭阳微，出现气短、畏寒，肢面浮肿，腹胀，大便溏薄如酱，肢冷，脉微等。
+
+体针
+
+治则  理气宽胸，祛痰化瘀。取任脉、足阳明经穴为主，背俞及手厥阴经穴为辅。
+
+处方  [天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)  [膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)  [上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)  [胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)
+
+方义  气会[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)配[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)舒展胸中气机，可宽胸利膈，散结利咽；阴维[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)配[上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)宽贲门而降痰浊，调气止痛；[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)为血之会穴，又近膈部，故能利膈活血化瘀；[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)调理脾胃气血，以扶正祛邪。如出现便秘可加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)以通便；短气灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以补气；肢冷脉微灸[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)以温肾壮阳。
+
+治法  初期用平补平泻法，后期用补法，并可加灸。
+
+耳针
+
+取穴  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、胃、食道、膈。
+
+刺法  取双侧，用中等刺激，每日一次，10次为一疗程。
+
+**〔应用例案〕**
+
+有老妇人患反胃，饮食至晚即吐出，见其气绕脐而转。予为点[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)并夹脐边两穴，即归；只灸[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)即愈(《针灸资生经》)。
+
+邬××，女，73岁。代诉：患者突然眩晕，肢体麻木，滴水不进，得食即吐，一昼夜达数十次，胸部痞闷，精神疲乏，闭目懒言，已二天。查：脉弦大，两尺微细，舌淡苔薄腻，按[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)有动悸应指。取中魁，施米粒灸各七壮。灸后患者自诉胸院无异常。次日随访，眩晕平，呕吐止，并能吃稀粥几匙（摘自《现代针灸医案选》）。
+
+**〔文献摘录〕**
+
+膈噎：因气虚，血虚，热，痰火，血积，癖积。针[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[石门](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.5.md)、三里、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、胃脘、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[胃仓](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.50.md)（《针灸大成》）。
+
+噫哕膈中气闭塞，灸腋下聚毛下附胁宛宛中五十壮（《千金要方》）。
+
+在X线下观察发现，重刺激针刺[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)等穴，不仅可使正常人食管蠕动增强，内径增宽，且可使食道癌患者癌肿部位的上、下段食管蠕动呈相同改变（《针灸作用机理研究》）。
+
+**附：反胃**
+
+反胃又名：翻胃。其病因病机基本上与噎膈相同，但病变部位和主要症状有所不同。因反胃多因[幽门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.21.md)不全梗阻、痉挛或胃内肿瘤等所致。胃脘部疼痛明显，呕吐的特点多是朝食暮吐，暮食朝吐，食物在胃内停留的时间较长。无吞咽困难、格拒和旋食旋吐、食物不得入胃的现象。
+
+临床症候多属脾胃虚寒，或[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，脘腹瞋胀而痛，吐后觉舒，神疲乏力，面色少华，四肢不温，舌质淡，苔黄白，脉细浮无力。
+
+治宜温运脾胃，和胃降逆。取[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[梁门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.21.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)等穴，针灸并用。
+
+**复习思考题**
+
+1.何谓噎膈？噎与膈症状特点有何不同？
+
+2.哪些疾病能出现噎膈症状？
+
+3.试述噎膈证的针灸处方和方义？
+
+4.噎膈与反胃在病变部位和主要症状上有何不同？
+
+5.针刺治疗反胃常用哪些穴位？

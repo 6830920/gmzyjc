@@ -1,0 +1,83 @@
+### 牛皮癣
+
+本病是一种慢性瘙痒性皮肤病，因其患处皮肤如牛领之皮，厚而且坚，故名为牛皮癣。
+
+神经性皮炎可参考本节治疗。
+
+〔病因病机〕
+
+初起多由于风湿热之邪蕴阻肌肤经脉所致，日久由于营血不足，血虚生风化燥，皮肤经络失于濡养，以致患处皮肤粗糙脱落白屑。
+
+〔辨证论治〕
+
+多发于颈项部，其次是眼睑、骶部、四肢内侧、外阴等处，严重者可播散全身。初期多为皮肤间歇性瘙痒，后则出现扁平的圆形或多角形坚实的丘疹，密集成群，多呈肤色、淡褐色或暗褐色，日久则丘疹融合扩大成片。皮肤肥厚，呈席纹状，称苔癣样变或称革化。搔之微有脱屑，阵发性剧痒难忍，阖搔抓可在病变的周围出现抓痕和血痂。
+
+体针
+
+（一）风湿化热
+
+症状  病程较短，患部皮疹伴有潮红，湿润、糜烂和血痂，舌苔薄黄或黄腻，脉濡数。
+
+治则  疏风清热利湿。取手、足太阴经穴为主。
+
+处方  [阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)  [太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)  [太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)  [风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)  阿是穴
+
+方义  肺主皮毛，故取[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)配[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)散皮肤之风热；脾主肌肉，故取[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)配[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)化肌腠之湿邪。阿是穴疏通局部气血，止痒退癣。此外，还可按病变部位循经取穴以增强疏通本经气血之功能。如项部加[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)，肘弯加[郄门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.4.md)、[劳宫](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.8.md)，腘窝加[殷门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.37.md)、[昆仑](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.60.md)，大腿内侧加[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，上眼睑加[头维](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.8.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)。
+
+治法  毫针刺用泻法，阿是穴的刺法是沿病灶底部皮下从四周向中心横剌数针。
+
+（二）血虚风燥
+
+症状  病程较长，局部干燥、肥厚、脱屑，状如牛项之皮，舌苔薄，脉细。
+
+治则  养血润燥，取足阳明、太阴经穴为主。
+
+处方  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  隔俞  阿是穴。
+
+方义  本病日久伤及脾胃，营出中焦，太阴虚则运化乏力；阳明虚则不能化生精血。[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)疏导阳明经气以调气和血，配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)健中焦以资生血之源。佐[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、隔俞以补血理虚损。脾胃得健，气调血充，则风燥自去。如出现瘙痒难眠者加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以安神止痒．
+
+治法  亳针刺用补法。
+
+耳针
+
+取穴  肺、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、下屏尖、肝、脑。
+
+剌法  中强刺激，留针1小时，每日1次。
+
+刺络拔罐
+
+取穴  阿是穴。
+
+方法  用七星针在患处叩击后，再拔火罐，每日1次，每次15分钟。本法适用于血虚风燥型牛皮癣。
+
+灸法
+
+取穴  阿是穴。
+
+方法  用艾条进行熏灸，每次30分钟。
+
+〔应用例案〕
+
+一女子，年十五，两股间湿癣，长三四寸，下至膝发痒，时爬搔，汤火俱不解，痒定，黄赤水流；痛不可忍。灸满熏焫，硫黄䕡茹、白[僵蚕](https://www.gmzyjc.com/read/bc/bc10-0.0.8.0.0.md)、羊蹄根之药，皆不效。其入姿性妍巧，以此病不能出嫁，其父母求疗于戴人。戴人曰：“能从余言则瘥。”父母诺之。戴人以䤵针磨令尖快，当以痒时，于癣上各剌百余针，其血出尽，煎盐汤洗之。如此四次，大病方除（《儒门事亲》）。
+
+宋XX，女，20岁。左肘窝及双侧腘窝皮肤增厚，剧痒。两年前起病，一年后加重，经多方面治疗无效。查：双侧腘窝均有7x8cm之皮肤增厚，干燥破裂。左肘窝有2x2cm皮肤隆起融合丘疹。诊断为神经性皮炎。治用中药制成的灸卷在患处上熏灸，每日1次，每次30分钟。4次后剧痒减轻。共薰30次，剧痒完全消失，患处皮肤同健康皮肤无异，精神愉快出院（《中医杂志》)。
+
+〔文献摘录〕
+
+神经性皮炎：[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[承扶](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.36.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)等，局部用[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)针重刺激(《针灸学手册》）。
+
+神经性皮炎：常用穴[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)，备用穴[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，阿是穴。方法：中强刺激，每日1次。局部阿是穴沿病灶基底部皮下从四周向中心横刺数针（上海中医学院《针灸学》）。
+
+艾炷灸治疗牛皮癣120例，近期治愈率89%。方法于皮损处涂以蒜汁，上置小艾炷点燃施灸每炷间距约15厘米，待等炷燃尽，除去艾灰，覆盖消毒纱布即可。一般灸1一3次有明显效果，以局限型疗效较高，泛发型较差(《针灸医学验集》)。
+
+牛皮癣共68例，其中男59例，女9例。年令最小者16岁，最大者57岁。病程最短者为3周，长者达30年。病损部位，以颈部为最多，本组病例在接受针灸治疗前，全部曾采用外用药物治疗无效。治疗方法：周身者针剌取[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[天柱](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.10.md)、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)、[哑门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.15.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)等，各穴轮流针治。局部性者在皮损区周围沿皮下进针，须针至皮下有痠胀感。每周治疗l～3次，每次1～3穴，至皮损治愈后，继续治疗一个月停诊。同时用艾条在局部施灸约20～60分钟，每日1次，至皮损痊愈后1个月。总有效率达94.21％（《针灸临床经验辑要》）。
+
+复习思考题
+
+1.何谓牛皮癣？其症状特征是什么？
+
+2.风湿化热和血虚风燥牛皮癣的针炎处方、方义和治法。
+
+3.风湿化热和血虚风燥牛皮癣在症状上有何区别？
+
+4.简述艾灸治疗牛皮癣的方法。

@@ -1,0 +1,3 @@
+#### （三）左右配穴法 
+
+ 这是以经络循行交叉的特点为配穴依据的，即左病取右，右病取左，在《内经》称为“巨刺”与“缪刺”。此法多用于头面部疾病，例如左侧面瘫取右侧的[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)，右侧面瘫取左侧的[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)；左侧头角疼痛取右侧的[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)。又因为经络的分布是对称的，所以临床对于内脏病证的取穴，一般均可左右同用，以加强其协调作用。如胃病取双侧的[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，腰痛取双侧的[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)、[承山](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.57.md)等。此外，还有健侧与患侧腧穴交替选用，如偏瘫、痹证等交替应用腧穴，也有一定的效果。

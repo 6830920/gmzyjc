@@ -54,8 +54,6 @@
 
 大家在教材电子版中发现文字错误，可以直接提交PR，我们会进行审核通过。
 
-https://www.gmzyjc.com/read/gmjcintro/jindu.md)
-
 ## 学习教材
 
 如果想系统学习教程，请使用光明中医学习平台https://zuoye.gmzy.org.cn。

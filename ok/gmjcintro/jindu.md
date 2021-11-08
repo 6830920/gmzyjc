@@ -330,7 +330,7 @@
 
 ## 链接
 
-光明中医教材电子版：[https://www.gmzy.org.cn](https://www.gmzy.org.cn  )  
+光明中医教材电子版：[https://www.gmzyjc.com](https://www.gmzyjc.com  )  
 
 
 

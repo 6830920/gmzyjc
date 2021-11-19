@@ -10,4 +10,4 @@
 
 〔刺灸〕直刺0.5～1寸。可灸。
 
-〔讲述〕见于《甲乙》。悬有系的含意，通上连下为枢。本穴两旁为[三焦俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.22.md)，是三焦运上运下的枢纽，因名。《甲乙》：治水谷不化，下利，腹中留积。临床常配[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)治食积腹胀，配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)治消化不良，配[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)治胃痛，配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)治腰痛，配[脊中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.6.md)、[中枢](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.7.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)治腰骶痛。
+〔讲述〕见于《甲乙》。悬有系的含意，通上连下为枢。本穴两旁为三焦俞，是三焦运上运下的枢纽，因名。《甲乙》：治水谷不化，下利，腹中留积。临床常配天枢、中脘治食积腹胀，配足三里、天枢治消化不良，配内关、足三里治胃痛，配肾俞、委中治腰痛，配脊中、中枢、大椎治腰骶痛。

@@ -10,4 +10,4 @@
 
 〔刺灸〕直刺0. 5〜1寸。宜灸。
 
-〔讲述〕见于《甲乙》。别称精宫。藏者为室，穴在[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)之旁，肾藏志，主治肾虚、失精、梦遗、记忆力减退等症，针此能壮肾益精添髓，因名。本穴有助[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)穴之功效。临床常配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)治阳萎、遗精；配[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)治肾虚腰痛；配[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)治痛经。
+〔讲述〕见于《甲乙》。别称精宫。藏者为室，穴在肾俞之旁，肾藏志，主治肾虚、失精、梦遗、记忆力减退等症，针此能壮肾益精添髓，因名。本穴有助肾俞穴之功效。临床常配肾俞、关元、三阴交治阳萎、遗精；配委中治肾虚腰痛；配关元、三阴交治痛经。

@@ -1,12 +1,12 @@
 #### （四）本经小结
 
-1．小肠经受手少阴之交，起于小指外侧的[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)穴，经脉走行方向是从手走头，与手少阴心经为表里，全经计有19个经穴，体表起于[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)，止于[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)，络在[支正](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.7.md)，郄会养老。本经取穴要点是，应掌握指甲根，第5掌指关节前后，三角骨前后，尺骨掌侧缘，肩胛冈中点和两端，以及喉结，胸锁乳突肌和下颌角等体表标志。
+1．小肠经受手少阴之交，起于小指外侧的少泽穴，经脉走行方向是从手走头，与手少阴心经为表里，全经计有19个经穴，体表起于少泽，止于听宫，络在支正，郄会养老。本经取穴要点是，应掌握指甲根，第5掌指关节前后，三角骨前后，尺骨掌侧缘，肩胛冈中点和两端，以及喉结，胸锁乳突肌和下颌角等体表标志。
 
-手部有5穴，取正坐式，将[肘尖](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.4.5.0.md)着桌上，手臂上举，掌心向内，先于小指外侧爪甲根去甲角1分许取[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)；然后握掌，于小指（第5掌骨关节）本节前纹头上赤白肉际陷中取[前谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.2.md)，节后掌横纹头取[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)；再从[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)向上移行至三角骨前取[腕骨](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.4.md)，后取[阳谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.5.md)。肘臂有3穴，先以手掌心向上，用另一手指尖按压腕后髁骨上部，然后将下手掌转向面部，指尖按处出现骨间之凹陷取养老；[支正](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.7.md)在腕后5寸，适当尺骨掌侧边缘，再屈肘向头，从[肘尖](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.4.5.0.md)内两骨之凹陷中，以指按压痠麻应于小指取[小海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.8.md)。肩胛有7穴，先正坐垂手，于腋缝尖端上1寸陷中取[肩贞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.9.md)，[肩贞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.9.md)直上，[肩髎](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.14.md)后，大骨下凹陷中取[臑俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.10.md)；[天宗](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.11.md)在肩胛骨之中央部，约与[肩贞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.9.md)，[臑俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.10.md)成三角形处；于[天宗](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.11.md)直上，肩胛骨上缘凹陷处取[秉风](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.12.md)，[秉风](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.12.md)向内约1.5寸，肩中央曲胛陷中取[曲垣](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.13.md)；从[陶道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.13.md)外开3寸取[肩外俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.14.md)，[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)外开2寸取[肩中俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.15.md)。颈部2穴，平喉结，于胸锁乳突肌的后缘取[天窗](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.16.md)；平颌角，于胸锁乳突肌的前緣取[天容](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.17.md)，二穴相距约1寸。面部2穴，从外眦角直下，颧骨下陷中点[颧髎](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.18.md)；于耳珠前凹陷中部点[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)，所谓“[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)二穴归何处，耳尖瓣前陷中央”。
+手部有5穴，取正坐式，将肘尖着桌上，手臂上举，掌心向内，先于小指外侧爪甲根去甲角1分许取少泽；然后握掌，于小指（第5掌骨关节）本节前纹头上赤白肉际陷中取前谷，节后掌横纹头取后溪；再从后溪向上移行至三角骨前取腕骨，后取阳谷。肘臂有3穴，先以手掌心向上，用另一手指尖按压腕后髁骨上部，然后将下手掌转向面部，指尖按处出现骨间之凹陷取养老；支正在腕后5寸，适当尺骨掌侧边缘，再屈肘向头，从肘尖内两骨之凹陷中，以指按压痠麻应于小指取小海。肩胛有7穴，先正坐垂手，于腋缝尖端上1寸陷中取肩贞，肩贞直上，肩髎后，大骨下凹陷中取臑俞；天宗在肩胛骨之中央部，约与肩贞，臑俞成三角形处；于天宗直上，肩胛骨上缘凹陷处取秉风，秉风向内约1.5寸，肩中央曲胛陷中取曲垣；从陶道外开3寸取肩外俞，大椎外开2寸取肩中俞。颈部2穴，平喉结，于胸锁乳突肌的后缘取天窗；平颌角，于胸锁乳突肌的前緣取天容，二穴相距约1寸。面部2穴，从外眦角直下，颧骨下陷中点颧髎；于耳珠前凹陷中部点听宫，所谓“听宫二穴归何处，耳尖瓣前陷中央”。
 
-2．本经生理功能和病理反应，应注意属小肠络心，以及循咽，抵胃，体表出肩解，绕肩胛，交肩上，与足太阳经的[附分](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.41.md)、[大杼](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.11.md)交会，与督脉的[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)会合，另外却入耳中，从而决定本经腧穴能治所过之处的疾患。由于小肠与心经为表里，其生理功能特点是多血少气，未时气血最盛，本经腧穴以治头、项、眼、耳、咽喉疾病为主。还治疗经脉循行部位的病变。其中[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)用治热病、昏厥、乳少；[前谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.2.md)治热病疟疾；[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)用洽狂、痫、头项疼痛，还可用于寒热往来，手指挛急；[腕骨](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.4.md)治头项强痛，目疾，黄疸；[阳谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.5.md)治痄腮颌肿、热病；养老治肩肘臂背疼痛，并有明目之效；[小海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.8.md)治狂痫。肩部经穴疗肘臂背疼痛，均有祛风之力。[天窗](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.16.md)用治耳鸣聋；[颧髎](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.18.md)用治齿痛、口㖞、眼瞤动；[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)善治耳聋如填塞，蝉鸣有声之疾。
+2．本经生理功能和病理反应，应注意属小肠络心，以及循咽，抵胃，体表出肩解，绕肩胛，交肩上，与足太阳经的附分、大杼交会，与督脉的大椎会合，另外却入耳中，从而决定本经腧穴能治所过之处的疾患。由于小肠与心经为表里，其生理功能特点是多血少气，未时气血最盛，本经腧穴以治头、项、眼、耳、咽喉疾病为主。还治疗经脉循行部位的病变。其中少泽用治热病、昏厥、乳少；前谷治热病疟疾；后溪用洽狂、痫、头项疼痛，还可用于寒热往来，手指挛急；腕骨治头项强痛，目疾，黄疸；阳谷治痄腮颌肿、热病；养老治肩肘臂背疼痛，并有明目之效；小海治狂痫。肩部经穴疗肘臂背疼痛，均有祛风之力。天窗用治耳鸣聋；颧髎用治齿痛、口㖞、眼瞤动；听宫善治耳聋如填塞，蝉鸣有声之疾。
 
-3．手部[前谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.2.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)、[腕骨](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.4.md)、[阳谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.5.md)、[颧髎](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.18.md)、[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)不宜用直接灸，以防发生灸疮，造成瘢痕，影响关节活动和面部美观。[肩贞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.9.md)、[臑俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.10.md)不宜向胸侧深刺，[曲垣](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.13.md)宜向锁骨上窝上方刺，不宜向胸部深刺；[肩中俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.15.md)，[肩外俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.14.md)应慎勿深刺，以免损伤肺脏，引起气胸。
+3．手部前谷、后溪、腕骨、阳谷、颧髎、听宫不宜用直接灸，以防发生灸疮，造成瘢痕，影响关节活动和面部美观。肩贞、臑俞不宜向胸侧深刺，曲垣宜向锁骨上窝上方刺，不宜向胸部深刺；肩中俞，肩外俞应慎勿深刺，以免损伤肺脏，引起气胸。
 
 复习思考题
 
@@ -14,10 +14,10 @@
 
 2.在人体上绘出小肠经的循行路线
 
-3.针刺[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)为什么能治缺乳？
+3.针刺少泽为什么能治缺乳？
 
-4.怎样取[前谷](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.2.md)与[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)，各有何功能？
+4.怎样取前谷与后溪，各有何功能？
 
-5.怎样取[肩贞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.9.md)、[臑俞](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.10.md)、[天宗](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.11.md)、[秉风](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.12.md)、[曲垣](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.13.md)？
+5.怎样取肩贞、臑俞、天宗、秉风、曲垣？
 
-6.[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)为什么能治耳聋？
+6.听宫为什么能治耳聋？

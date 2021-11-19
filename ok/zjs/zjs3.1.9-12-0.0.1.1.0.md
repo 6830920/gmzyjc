@@ -18,12 +18,12 @@
 
 九心包络手厥阴，前正中线诸穴匀。
 
-**[天池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.1.md)**乳旁四助取，**[天泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.2.md)**腋下二寸循。
+**天池**乳旁四助取，**天泉**腋下二寸循。
 
-**[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)**肘内横纹上，**[郄门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.4.md)**去腕五寸凭。
+**曲泽**肘内横纹上，**郄门**去腕五寸凭。
 
-**[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)**腕后方三寸，**[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)**掌后二寸停。
+**间使**腕后方三寸，**内关**掌后二寸停。
 
 掌后横纹**大棱**在，尺桡骨间陷中扪。
 
-**[劳宫](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.8.md)**屈指掌心取，中指末端**[中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)**生。
+**劳宫**屈指掌心取，中指末端**中冲**生。

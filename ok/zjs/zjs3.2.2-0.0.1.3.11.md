@@ -10,4 +10,4 @@
 
 〔刺灸〕向上斜刺0.5～1寸，可灸。
 
-〔讲述〕见于《甲乙》。别称藏俞。神指心神，通路为道，本穴位于[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)之正中，作用与[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)相关，因名。《大成》：治恍惚悲愁，健忘惊悸。临床常配[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)治风痫，配[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)镇惊止抽；配[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、膏肓治惊悸健忘；配[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)治失眠。
+〔讲述〕见于《甲乙》。别称藏俞。神指心神，通路为道，本穴位于心俞之正中，作用与心俞相关，因名。《大成》：治恍惚悲愁，健忘惊悸。临床常配心俞治风痫，配印堂、合谷、太冲镇惊止抽；配神门、膏肓治惊悸健忘；配神门、三阴交治失眠。

@@ -10,6 +10,6 @@
 
 〔刺灸〕平刺0.5~0.8寸。 可灸。
 
-〔讲述〕出《灵枢·经脉》。别称交仪。蠡为盛水之瓢，又腨指齿木小虫；沟有狭小之意。本穴适当腨肿鱼腹之处，当该部肌肉隆起之时是处狭小如沟，似虫啮木而成之孔郄，因名。穴属肝经之络穴。《灵枢·经脉》：其病气道则睾肿，卒疝，实则挺长（阳亢），虛则暴痒，取之所别也。指出本穴主治阴部病证。临床常配[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)治疝气痛；配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[交信](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.8.md)治月经不调，赤白带下；配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)治阴痒。
+〔讲述〕出《灵枢·经脉》。别称交仪。蠡为盛水之瓢，又腨指齿木小虫；沟有狭小之意。本穴适当腨肿鱼腹之处，当该部肌肉隆起之时是处狭小如沟，似虫啮木而成之孔郄，因名。穴属肝经之络穴。《灵枢·经脉》：其病气道则睾肿，卒疝，实则挺长（阳亢），虚则暴痒，取之所别也。指出本穴主治阴部病证。临床常配[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)治疝气痛；配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[交信](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.8.md)治月经不调，赤白带下；配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)治阴痒。
 
 ![](img/图122.jpg)

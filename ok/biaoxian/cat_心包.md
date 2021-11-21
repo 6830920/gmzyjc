@@ -1,1 +1,1 @@
-# 心包## 相关表现：[热陷心包](https://www.gmzyjc.com/search/result?wd=热陷心包)
+# 心包## 相关表现： [热陷心包](https://www.gmzyjc.com/search/result?wd=热陷心包)

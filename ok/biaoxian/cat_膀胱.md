@@ -1,1 +1,1 @@
-# 膀胱## 相关表现：[膀胱气化失常](https://www.gmzyjc.com/search/result?wd=膀胱气化失常)[膀胱热盛](https://www.gmzyjc.com/search/result?wd=膀胱热盛)[膀胱拘急，小便自利](https://www.gmzyjc.com/search/result?wd=膀胱拘急，小便自利)
+# 膀胱## 相关表现： [膀胱气化失常](https://www.gmzyjc.com/search/result?wd=膀胱气化失常)[膀胱热盛](https://www.gmzyjc.com/search/result?wd=膀胱热盛)[膀胱拘急，小便自利](https://www.gmzyjc.com/search/result?wd=膀胱拘急，小便自利)

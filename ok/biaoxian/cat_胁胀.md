@@ -1,1 +1,1 @@
-# 胁胀## 相关表现：[两胁撑胀](https://www.gmzyjc.com/search/result?wd=两胁撑胀)[两胁气胀](https://www.gmzyjc.com/search/result?wd=两胁气胀)[胁胀](https://www.gmzyjc.com/search/result?wd=胁胀)[两胁支撑作胀](https://www.gmzyjc.com/search/result?wd=两胁支撑作胀)
+# 胁胀## 相关表现： [两胁撑胀](https://www.gmzyjc.com/search/result?wd=两胁撑胀)[两胁气胀](https://www.gmzyjc.com/search/result?wd=两胁气胀)[胁胀](https://www.gmzyjc.com/search/result?wd=胁胀)[两胁支撑作胀](https://www.gmzyjc.com/search/result?wd=两胁支撑作胀)

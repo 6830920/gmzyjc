@@ -1,1 +1,1 @@
-# 下巴## 相关表现： [下巴部肿胀](https://www.gmzyjc.com/search/result?wd=下巴部肿胀)[沿颈、下巴、肩、上下臂、肘部后侧疼痛](https://www.gmzyjc.com/search/result?wd=沿颈、下巴、肩、上下臂、肘部后侧疼痛)
+# 下巴## 相关表现：[下巴部肿胀](https://www.gmzyjc.com/search/result?wd=下巴部肿胀)[沿颈、下巴、肩、上下臂、肘部后侧疼痛](https://www.gmzyjc.com/search/result?wd=沿颈、下巴、肩、上下臂、肘部后侧疼痛)

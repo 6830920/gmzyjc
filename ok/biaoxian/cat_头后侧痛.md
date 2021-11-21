@@ -1,1 +1,1 @@
-# 头后侧痛## 相关表现： [脑后跳动疼痛](https://www.gmzyjc.com/search/result?wd=脑后跳动疼痛)[头项强痛](https://www.gmzyjc.com/search/result?wd=头项强痛)[头项痛](https://www.gmzyjc.com/search/result?wd=头项痛)
+# 头后侧痛## 相关表现：[脑后跳动疼痛](https://www.gmzyjc.com/search/result?wd=脑后跳动疼痛)[头项强痛](https://www.gmzyjc.com/search/result?wd=头项强痛)[头项痛](https://www.gmzyjc.com/search/result?wd=头项痛)

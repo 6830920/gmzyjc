@@ -1,31 +1,1 @@
-# 目黄
-
-
-
-## 相关表现：   
-
-[一身面目尽黄](https://www.gmzyjc.com/search/result?wd=一身面目尽黄)
-
-[目发黄](https://www.gmzyjc.com/search/result?wd=目发黄)
-
-[一身面目黄肿](https://www.gmzyjc.com/search/result?wd=一身面目黄肿)
-
-[目睛晕黄](https://www.gmzyjc.com/search/result?wd=目睛晕黄)
-
-[身目俱黄](https://www.gmzyjc.com/search/result?wd=身目俱黄)
-
-[目黄](https://www.gmzyjc.com/search/result?wd=目黄)
-
-[面目及身黄](https://www.gmzyjc.com/search/result?wd=面目及身黄)
-
-[眼睛发黄](https://www.gmzyjc.com/search/result?wd=眼睛发黄)
-
-[身目为黄](https://www.gmzyjc.com/search/result?wd=身目为黄)
-
-[身目黄](https://www.gmzyjc.com/search/result?wd=身目黄)
-
-[一身及目悉黄](https://www.gmzyjc.com/search/result?wd=一身及目悉黄)
-
-[一身面目悉黄](https://www.gmzyjc.com/search/result?wd=一身面目悉黄)
-
-[身目发黄](https://www.gmzyjc.com/search/result?wd=身目发黄)
+# 目黄## 相关表现：[一身面目尽黄](https://www.gmzyjc.com/search/result?wd=一身面目尽黄)[目发黄](https://www.gmzyjc.com/search/result?wd=目发黄)[一身面目黄肿](https://www.gmzyjc.com/search/result?wd=一身面目黄肿)[目睛晕黄](https://www.gmzyjc.com/search/result?wd=目睛晕黄)[身目俱黄](https://www.gmzyjc.com/search/result?wd=身目俱黄)[目黄](https://www.gmzyjc.com/search/result?wd=目黄)[面目及身黄](https://www.gmzyjc.com/search/result?wd=面目及身黄)[眼睛发黄](https://www.gmzyjc.com/search/result?wd=眼睛发黄)[身目为黄](https://www.gmzyjc.com/search/result?wd=身目为黄)[身目黄](https://www.gmzyjc.com/search/result?wd=身目黄)[一身及目悉黄](https://www.gmzyjc.com/search/result?wd=一身及目悉黄)[一身面目悉黄](https://www.gmzyjc.com/search/result?wd=一身面目悉黄)[身目发黄](https://www.gmzyjc.com/search/result?wd=身目发黄)

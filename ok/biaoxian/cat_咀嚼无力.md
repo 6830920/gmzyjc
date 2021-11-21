@@ -1,1 +1,1 @@
-# 咀嚼无力## 相关表现： [口软](https://www.gmzyjc.com/search/result?wd=口软)
+# 咀嚼无力## 相关表现：[口软](https://www.gmzyjc.com/search/result?wd=口软)

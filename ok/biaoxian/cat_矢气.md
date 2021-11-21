@@ -1,1 +1,1 @@
-# 矢气## 相关表现： [频频矢气而不必见泄利](https://www.gmzyjc.com/search/result?wd=频频矢气而不必见泄利)[矢气](https://www.gmzyjc.com/search/result?wd=矢气)[病人后气极臭者](https://www.gmzyjc.com/search/result?wd=病人后气极臭者)
+# 矢气## 相关表现：[频频矢气而不必见泄利](https://www.gmzyjc.com/search/result?wd=频频矢气而不必见泄利)[矢气](https://www.gmzyjc.com/search/result?wd=矢气)[病人后气极臭者](https://www.gmzyjc.com/search/result?wd=病人后气极臭者)

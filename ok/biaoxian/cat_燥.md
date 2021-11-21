@@ -1,1 +1,1 @@
-# 燥## 相关表现： [躁而不渴](https://www.gmzyjc.com/search/result?wd=躁而不渴)[躁动不安](https://www.gmzyjc.com/search/result?wd=躁动不安)[躁扰不宁](https://www.gmzyjc.com/search/result?wd=躁扰不宁)
+# 燥## 相关表现：[躁而不渴](https://www.gmzyjc.com/search/result?wd=躁而不渴)[躁动不安](https://www.gmzyjc.com/search/result?wd=躁动不安)[躁扰不宁](https://www.gmzyjc.com/search/result?wd=躁扰不宁)

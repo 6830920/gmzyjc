@@ -1,1 +1,1 @@
-# 肩## 子目录：[肩痛](https://www.gmzyjc.com/read/biaoxian/cat_肩痛.md)## 相关表现： [息摇肩](https://www.gmzyjc.com/search/result?wd=息摇肩)[肩上热](https://www.gmzyjc.com/search/result?wd=肩上热)[肩垂](https://www.gmzyjc.com/search/result?wd=肩垂)[肩垂不能举](https://www.gmzyjc.com/search/result?wd=肩垂不能举)
+# 肩## 子目录：[肩痛](https://www.gmzyjc.com/read/biaoxian/cat_肩痛.md)## 相关表现：[息摇肩](https://www.gmzyjc.com/search/result?wd=息摇肩)[肩上热](https://www.gmzyjc.com/search/result?wd=肩上热)[肩垂](https://www.gmzyjc.com/search/result?wd=肩垂)[肩垂不能举](https://www.gmzyjc.com/search/result?wd=肩垂不能举)

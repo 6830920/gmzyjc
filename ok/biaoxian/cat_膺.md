@@ -1,0 +1,1 @@
+# 膺[疼痛在胸膺牵引于背](https://www.gmzyjc.com/search/result?wd=疼痛在胸膺牵引于背)[腰痛牵引胸膺部](https://www.gmzyjc.com/search/result?wd=腰痛牵引胸膺部)[膺背肩甲间痛](https://www.gmzyjc.com/search/result?wd=膺背肩甲间痛)

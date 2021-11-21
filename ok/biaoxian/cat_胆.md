@@ -1,0 +1,1 @@
+# 胆[胆气虚](https://www.gmzyjc.com/search/result?wd=胆气虚)[胆虚](https://www.gmzyjc.com/search/result?wd=胆虚)[胆热](https://www.gmzyjc.com/search/result?wd=胆热)[胆气郁滞](https://www.gmzyjc.com/search/result?wd=胆气郁滞)[胆气不舒](https://www.gmzyjc.com/search/result?wd=胆气不舒)[急性胆囊炎](https://www.gmzyjc.com/search/result?wd=急性胆囊炎)[胆石症](https://www.gmzyjc.com/search/result?wd=胆石症)

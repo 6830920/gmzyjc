@@ -1,0 +1,1 @@
+# 大肠[大肠有寒](https://www.gmzyjc.com/search/result?wd=大肠有寒)

@@ -1,0 +1,1 @@
+# 耳[耳前后肿](https://www.gmzyjc.com/search/result?wd=耳前后肿)[耳前热](https://www.gmzyjc.com/search/result?wd=耳前热)[耳前后脉络充盛而有热感](https://www.gmzyjc.com/search/result?wd=耳前后脉络充盛而有热感)[耳前后脉涌有热感](https://www.gmzyjc.com/search/result?wd=耳前后脉涌有热感)

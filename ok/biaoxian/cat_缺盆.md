@@ -1,0 +1,1 @@
+# 缺盆[缺盆肿痛](https://www.gmzyjc.com/search/result?wd=缺盆肿痛)[缺盆中痛](https://www.gmzyjc.com/search/result?wd=缺盆中痛)[缺盆部位疼痛](https://www.gmzyjc.com/search/result?wd=缺盆部位疼痛)

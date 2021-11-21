@@ -1,0 +1,1 @@
+# 耳痛[头之两侧头痛连及耳部](https://www.gmzyjc.com/search/result?wd=头之两侧头痛连及耳部)[耳痛](https://www.gmzyjc.com/search/result?wd=耳痛)[耳后、肩、臑、肘、臂外侧等处都发生疼痛](https://www.gmzyjc.com/search/result?wd=耳后、肩、臑、肘、臂外侧等处都发生疼痛)

@@ -1,0 +1,1 @@
+# 味觉[口苦咽干](https://www.gmzyjc.com/search/result?wd=口苦咽干)[口苦](https://www.gmzyjc.com/search/result?wd=口苦)[口中甜](https://www.gmzyjc.com/search/result?wd=口中甜)[口淡无味](https://www.gmzyjc.com/search/result?wd=口淡无味)[口苦而干](https://www.gmzyjc.com/search/result?wd=口苦而干)

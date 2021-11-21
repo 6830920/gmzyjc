@@ -1,0 +1,1 @@
+# 胸痹[胸痹筋脉缓急](https://www.gmzyjc.com/search/result?wd=胸痹筋脉缓急)[胸痹](https://www.gmzyjc.com/search/result?wd=胸痹)[胸痹不得卧](https://www.gmzyjc.com/search/result?wd=胸痹不得卧)[胸痹心中痞气](https://www.gmzyjc.com/search/result?wd=胸痹心中痞气)[胸痹虚实](https://www.gmzyjc.com/search/result?wd=胸痹虚实)[虚寒性的胸痹](https://www.gmzyjc.com/search/result?wd=虚寒性的胸痹)

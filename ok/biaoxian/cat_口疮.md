@@ -1,0 +1,1 @@
+# 口疮[口伤烂赤](https://www.gmzyjc.com/search/result?wd=口伤烂赤)[口疮](https://www.gmzyjc.com/search/result?wd=口疮)

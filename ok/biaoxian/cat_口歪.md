@@ -1,0 +1,1 @@
+# 口歪[口角歪斜](https://www.gmzyjc.com/search/result?wd=口角歪斜)[口眼歪斜](https://www.gmzyjc.com/search/result?wd=口眼歪斜)[口眼㖞斜](https://www.gmzyjc.com/search/result?wd=口眼㖞斜)

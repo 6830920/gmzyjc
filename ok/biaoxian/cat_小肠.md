@@ -1,1 +1,1 @@
-# 小肠[小肠有寒](https://www.gmzyjc.com/search/result?wd=小肠有寒)[小肠气滞](https://www.gmzyjc.com/search/result?wd=小肠气滞)
+# 小肠## 相关表现：[小肠有寒](https://www.gmzyjc.com/search/result?wd=小肠有寒)[小肠气滞](https://www.gmzyjc.com/search/result?wd=小肠气滞)

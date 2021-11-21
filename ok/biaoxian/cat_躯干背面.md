@@ -1,1 +1,1 @@
-# 躯干背面[脊中冷痛](https://www.gmzyjc.com/search/result?wd=脊中冷痛)
+# 躯干背面## 子目录：[腰](https://www.gmzyjc.com/read/biaoxian/cat_腰.md)[肩](https://www.gmzyjc.com/read/biaoxian/cat_肩.md)[背](https://www.gmzyjc.com/read/biaoxian/cat_背.md)[肛门](https://www.gmzyjc.com/read/biaoxian/cat_肛门.md)## 相关表现：[脊中冷痛](https://www.gmzyjc.com/search/result?wd=脊中冷痛)

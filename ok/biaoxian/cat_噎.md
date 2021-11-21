@@ -1,1 +1,1 @@
-# 噎[噎](https://www.gmzyjc.com/search/result?wd=噎)[噎膈](https://www.gmzyjc.com/search/result?wd=噎膈)[津枯噎膈](https://www.gmzyjc.com/search/result?wd=津枯噎膈)[噫噎](https://www.gmzyjc.com/search/result?wd=噫噎)
+# 噎## 相关表现：[噎](https://www.gmzyjc.com/search/result?wd=噎)[噎膈](https://www.gmzyjc.com/search/result?wd=噎膈)[津枯噎膈](https://www.gmzyjc.com/search/result?wd=津枯噎膈)[噫噎](https://www.gmzyjc.com/search/result?wd=噫噎)

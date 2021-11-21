@@ -1,1 +1,1 @@
-# 目凸[双眼突出](https://www.gmzyjc.com/search/result?wd=双眼突出)[眼睛象要脱出](https://www.gmzyjc.com/search/result?wd=眼睛象要脱出)[目如脱状](https://www.gmzyjc.com/search/result?wd=目如脱状)[头痛眼球好象脱出，颈项象被扯拔](https://www.gmzyjc.com/search/result?wd=头痛眼球好象脱出，颈项象被扯拔)
+# 目凸## 相关表现：[双眼突出](https://www.gmzyjc.com/search/result?wd=双眼突出)[眼睛象要脱出](https://www.gmzyjc.com/search/result?wd=眼睛象要脱出)[目如脱状](https://www.gmzyjc.com/search/result?wd=目如脱状)[头痛眼球好象脱出，颈项象被扯拔](https://www.gmzyjc.com/search/result?wd=头痛眼球好象脱出，颈项象被扯拔)

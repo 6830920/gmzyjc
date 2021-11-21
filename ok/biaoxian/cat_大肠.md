@@ -1,1 +1,1 @@
-# 大肠## 相关表现： [大肠有寒](https://www.gmzyjc.com/search/result?wd=大肠有寒)
+# 大肠## 相关表现：[大肠有寒](https://www.gmzyjc.com/search/result?wd=大肠有寒)

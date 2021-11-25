@@ -1,1 +1,1 @@
-# 口气## 相关表现：[口气重](https://www.gmzyjc.com/search/result?wd=口气重)
+# 口气## 相关表现：[口气重](https://zuoye.gmzyh.com/search?key=口气重)

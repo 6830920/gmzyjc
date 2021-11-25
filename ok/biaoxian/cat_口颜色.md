@@ -1,1 +1,1 @@
-# 口颜色## 相关表现：[口目黑色](https://www.gmzyjc.com/search/result?wd=口目黑色)[环口黧黑](https://www.gmzyjc.com/search/result?wd=环口黧黑)[口色赤	](https://www.gmzyjc.com/search/result?wd=口色赤	)
+# 口颜色## 相关表现：[口目黑色](https://zuoye.gmzyh.com/search?key=口目黑色)[环口黧黑](https://zuoye.gmzyh.com/search?key=环口黧黑)[口色赤	](https://zuoye.gmzyh.com/search?key=口色赤	)

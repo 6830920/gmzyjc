@@ -1,1 +1,1 @@
-# 口疮## 相关表现：[口伤烂赤](https://www.gmzyjc.com/search/result?wd=口伤烂赤)[口疮](https://www.gmzyjc.com/search/result?wd=口疮)
+# 口疮## 相关表现：[口伤烂赤](https://zuoye.gmzyh.com/search?key=口伤烂赤)[口疮](https://zuoye.gmzyh.com/search?key=口疮)

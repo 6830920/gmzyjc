@@ -1,1 +1,5 @@
-# 大肠## 相关表现：[大肠有寒](https://zuoye.gmzyh.com/search?key=大肠有寒)
+# 大肠
+
+## 相关表现：
+
+[大肠有寒](https://zuoye.gmzyh.com/search?key=大肠有寒)

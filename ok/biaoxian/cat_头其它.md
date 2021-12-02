@@ -1,1 +1,5 @@
-# 头其它## 相关表现：[头抬不起来](https://zuoye.gmzyh.com/search?key=头抬不起来)
+# 头其它
+
+## 相关表现：
+
+[头抬不起来](https://zuoye.gmzyh.com/search?key=头抬不起来)

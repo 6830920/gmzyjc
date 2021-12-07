@@ -1,4 +1,5 @@
 # 咽喉
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 咽喉)
 
 ## 子目录：
 [咽干、咽燥](https://www.gmzyjc.com/read/biaoxian/cat_咽干、咽燥.md)

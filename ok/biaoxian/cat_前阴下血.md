@@ -1,4 +1,5 @@
 # 前阴下血
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 前阴下血)
 
 ## 相关表现：
 

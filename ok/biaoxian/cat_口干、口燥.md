@@ -1,4 +1,5 @@
 # 口干、口燥
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 口干、口燥)
 
 ## 相关表现：
 

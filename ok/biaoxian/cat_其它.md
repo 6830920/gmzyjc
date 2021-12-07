@@ -1,4 +1,5 @@
 # 其它
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 其它)
 
 ## 相关表现：
 

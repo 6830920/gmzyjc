@@ -1,4 +1,5 @@
 # 发冷
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 发冷)
 
 ## 相关表现：
 

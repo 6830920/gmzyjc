@@ -1,4 +1,5 @@
 # 前阴
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 前阴)
 
 ## 子目录：
 [小便](https://www.gmzyjc.com/read/biaoxian/cat_小便.md)

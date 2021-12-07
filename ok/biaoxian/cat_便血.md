@@ -1,4 +1,5 @@
 # 便血
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 便血)
 
 ## 相关表现：
 

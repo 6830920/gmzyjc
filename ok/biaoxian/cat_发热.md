@@ -1,4 +1,5 @@
 # 发热
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 发热)
 
 ## 相关表现：
 

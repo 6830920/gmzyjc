@@ -1,4 +1,5 @@
 # 智力与记忆力
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 智力与记忆力)
 
 ## 相关表现：
 

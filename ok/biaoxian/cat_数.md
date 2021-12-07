@@ -1,4 +1,5 @@
 # 数
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 数)
 
 ## 相关表现：
 

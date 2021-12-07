@@ -1,4 +1,5 @@
 # 浮
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 浮)
 
 ## 相关表现：
 

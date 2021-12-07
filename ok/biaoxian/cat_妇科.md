@@ -1,4 +1,5 @@
 # 妇科
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 妇科)
 
 ## 子目录：
 [产后](https://www.gmzyjc.com/read/biaoxian/cat_产后.md)

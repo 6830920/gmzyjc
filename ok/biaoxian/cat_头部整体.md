@@ -1,4 +1,5 @@
 # 头部整体
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头部整体)
 
 ## 子目录：
 [头痛](https://www.gmzyjc.com/read/biaoxian/cat_头痛.md)

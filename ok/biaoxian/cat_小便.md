@@ -1,4 +1,5 @@
 # 小便
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 小便)
 
 ## 子目录：
 [小便颜色](https://www.gmzyjc.com/read/biaoxian/cat_小便颜色.md)

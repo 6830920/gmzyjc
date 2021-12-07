@@ -1,4 +1,5 @@
 # 低沉
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 低沉)
 
 ## 相关表现：
 

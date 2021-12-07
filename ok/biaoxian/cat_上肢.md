@@ -1,4 +1,5 @@
 # 上肢
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 上肢)
 
 ## 子目录：
 [脉](https://www.gmzyjc.com/read/biaoxian/cat_脉.md)

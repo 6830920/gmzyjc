@@ -1,4 +1,5 @@
 # 吐血
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 吐血)
 
 ## 相关表现：
 

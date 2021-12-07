@@ -1,4 +1,5 @@
 # 口歪
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 口歪)
 
 ## 相关表现：
 

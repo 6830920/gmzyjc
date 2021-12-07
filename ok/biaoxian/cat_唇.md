@@ -1,4 +1,5 @@
 # 唇
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 唇)
 
 ## 子目录：
 [唇色](https://www.gmzyjc.com/read/biaoxian/cat_唇色.md)

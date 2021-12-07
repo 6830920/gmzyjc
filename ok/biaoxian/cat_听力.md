@@ -1,4 +1,5 @@
 # 听力
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 听力)
 
 ## 相关表现：
 

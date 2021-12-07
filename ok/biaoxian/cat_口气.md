@@ -1,4 +1,5 @@
 # 口气
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 口气)
 
 ## 相关表现：
 

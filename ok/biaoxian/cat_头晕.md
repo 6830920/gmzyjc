@@ -1,4 +1,5 @@
 # 头晕
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头晕)
 
 ## 相关表现：
 

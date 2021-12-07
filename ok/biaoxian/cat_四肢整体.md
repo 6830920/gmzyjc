@@ -1,4 +1,5 @@
 # 四肢整体
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢整体)
 
 ## 子目录：
 [四肢痛](https://www.gmzyjc.com/read/biaoxian/cat_四肢痛.md)

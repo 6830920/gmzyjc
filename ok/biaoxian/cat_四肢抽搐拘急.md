@@ -1,4 +1,5 @@
 # 四肢抽搐拘急
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢抽搐拘急)
 
 ## 相关表现：
 

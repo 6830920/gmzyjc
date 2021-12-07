@@ -1,4 +1,5 @@
 # 四肢寒凉
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢寒凉)
 
 ## 相关表现：
 

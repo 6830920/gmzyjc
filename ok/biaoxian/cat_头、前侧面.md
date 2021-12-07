@@ -1,4 +1,5 @@
 # 头、前侧面
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头、前侧面)
 
 ## 子目录：
 [额](https://www.gmzyjc.com/read/biaoxian/cat_额.md)

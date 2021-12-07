@@ -1,4 +1,5 @@
 # 头发
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头发)
 
 ## 相关表现：
 

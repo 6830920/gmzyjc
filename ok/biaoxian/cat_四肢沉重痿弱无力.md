@@ -1,4 +1,5 @@
 # 四肢沉重痿弱无力
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢沉重痿弱无力)
 
 ## 相关表现：
 

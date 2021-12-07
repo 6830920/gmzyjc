@@ -1,4 +1,5 @@
 # 头顶痛
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头顶痛)
 
 ## 相关表现：
 

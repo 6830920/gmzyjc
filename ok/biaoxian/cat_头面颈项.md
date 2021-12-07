@@ -1,4 +1,5 @@
 # 头面颈项
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头面颈项)
 
 ## 子目录：
 [头、前侧面](https://www.gmzyjc.com/read/biaoxian/cat_头、前侧面.md)

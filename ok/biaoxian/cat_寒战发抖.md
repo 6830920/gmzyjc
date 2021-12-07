@@ -1,4 +1,5 @@
 # 寒战发抖
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 寒战发抖)
 
 ## 相关表现：
 

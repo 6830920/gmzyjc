@@ -1,4 +1,5 @@
 # 病种
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 病种)
 
 ## 子目录：
 [中医病种](https://www.gmzyjc.com/read/biaoxian/cat_中医病种.md)

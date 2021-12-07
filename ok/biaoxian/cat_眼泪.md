@@ -1,4 +1,5 @@
 # 眼泪
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 眼泪)
 
 ## 相关表现：
 

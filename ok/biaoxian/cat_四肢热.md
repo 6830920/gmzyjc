@@ -1,4 +1,5 @@
 # 四肢热
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢热)
 
 ## 相关表现：
 

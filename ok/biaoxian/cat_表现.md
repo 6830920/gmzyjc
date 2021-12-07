@@ -1,4 +1,5 @@
 # 表现
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 表现)
 
 ## 子目录：
 [腹痛](https://www.gmzyjc.com/read/biaoxian/cat_腹痛.md)

@@ -1,4 +1,5 @@
 # 目干燥涩
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 目干燥涩)
 
 ## 相关表现：
 

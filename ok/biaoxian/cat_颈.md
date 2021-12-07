@@ -1,4 +1,5 @@
 # 颈
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 颈)
 
 ## 子目录：
 [咽喉](https://www.gmzyjc.com/read/biaoxian/cat_咽喉.md)

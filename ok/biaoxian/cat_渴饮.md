@@ -1,4 +1,5 @@
 # 渴饮
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 渴饮)
 
 ## 相关表现：
 

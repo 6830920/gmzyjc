@@ -1,4 +1,5 @@
 # 脉
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 脉)
 
 ## 子目录：
 [浮](https://www.gmzyjc.com/read/biaoxian/cat_浮.md)

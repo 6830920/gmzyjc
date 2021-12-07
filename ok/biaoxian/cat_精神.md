@@ -1,4 +1,5 @@
 # 精神
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 精神)
 
 ## 子目录：
 [狂躁](https://www.gmzyjc.com/read/biaoxian/cat_狂躁.md)

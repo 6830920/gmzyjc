@@ -1,4 +1,5 @@
 # 身
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 身)
 
 ## 子目录：
 [身痛](https://www.gmzyjc.com/read/biaoxian/cat_身痛.md)

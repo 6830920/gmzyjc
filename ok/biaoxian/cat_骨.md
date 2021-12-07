@@ -1,4 +1,5 @@
 # 骨
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 骨)
 
 ## 相关表现：
 

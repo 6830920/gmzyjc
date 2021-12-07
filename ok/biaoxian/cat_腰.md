@@ -1,4 +1,5 @@
 # 腰
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 腰)
 
 ## 子目录：
 [腰痛](https://www.gmzyjc.com/read/biaoxian/cat_腰痛.md)

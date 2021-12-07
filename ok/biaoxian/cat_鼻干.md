@@ -1,4 +1,5 @@
 # 鼻干
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 鼻干)
 
 ## 相关表现：
 

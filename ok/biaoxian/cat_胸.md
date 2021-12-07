@@ -1,4 +1,5 @@
 # 胸
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 胸)
 
 ## 子目录：
 [心](https://www.gmzyjc.com/read/biaoxian/cat_心.md)

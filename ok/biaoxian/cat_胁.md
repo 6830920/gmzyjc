@@ -1,4 +1,5 @@
 # 胁
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 胁)
 
 ## 子目录：
 [胁痛](https://www.gmzyjc.com/read/biaoxian/cat_胁痛.md)

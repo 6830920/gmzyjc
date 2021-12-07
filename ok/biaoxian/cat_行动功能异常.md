@@ -1,4 +1,5 @@
 # 行动功能异常
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 行动功能异常)
 
 ## 相关表现：
 

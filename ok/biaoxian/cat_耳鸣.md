@@ -1,4 +1,5 @@
 # 耳鸣
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 耳鸣)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 怕冷
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 怕冷)
 
 ## 相关表现：
 

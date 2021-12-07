@@ -1,4 +1,5 @@
 # 辨证
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 辨证)
 
 ## 子目录：
 [肝](https://www.gmzyjc.com/read/biaoxian/cat_肝.md)

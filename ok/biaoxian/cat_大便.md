@@ -1,4 +1,5 @@
 # 大便
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 大便)
 
 ## 子目录：
 [便血](https://www.gmzyjc.com/read/biaoxian/cat_便血.md)

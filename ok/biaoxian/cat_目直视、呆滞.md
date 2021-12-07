@@ -1,4 +1,5 @@
 # 目直视、呆滞
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 目直视、呆滞)
 
 ## 相关表现：
 

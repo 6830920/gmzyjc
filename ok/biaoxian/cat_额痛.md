@@ -1,4 +1,5 @@
 # 额痛
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 额痛)
 
 ## 相关表现：
 

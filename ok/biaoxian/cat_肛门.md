@@ -1,4 +1,5 @@
 # 肛门
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 肛门)
 
 ## 子目录：
 [大便](https://www.gmzyjc.com/read/biaoxian/cat_大便.md)

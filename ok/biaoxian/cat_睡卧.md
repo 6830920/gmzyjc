@@ -1,4 +1,5 @@
 # 睡卧
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 睡卧)
 
 ## 子目录：
 [梦](https://www.gmzyjc.com/read/biaoxian/cat_梦.md)

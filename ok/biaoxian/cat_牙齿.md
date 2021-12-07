@@ -1,4 +1,5 @@
 # 牙齿
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 牙齿)
 
 ## 相关表现：
 

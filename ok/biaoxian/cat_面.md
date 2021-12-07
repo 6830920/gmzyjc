@@ -1,4 +1,5 @@
 # 面
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 面)
 
 ## 子目录：
 [存疑](https://www.gmzyjc.com/read/biaoxian/cat_存疑.md)

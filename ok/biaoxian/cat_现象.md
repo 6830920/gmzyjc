@@ -1,4 +1,5 @@
 # 现象
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 现象)
 
 ## 子目录：
 [胸胀、满](https://www.gmzyjc.com/read/biaoxian/cat_胸胀、满.md)

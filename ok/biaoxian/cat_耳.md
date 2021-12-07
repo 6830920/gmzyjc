@@ -1,4 +1,5 @@
 # 耳
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 耳)
 
 ## 子目录：
 [听力](https://www.gmzyjc.com/read/biaoxian/cat_听力.md)

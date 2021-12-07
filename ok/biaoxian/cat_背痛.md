@@ -1,4 +1,5 @@
 # 背痛
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 背痛)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 胸胀、满
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 胸胀、满)
 
 ## 相关表现：
 

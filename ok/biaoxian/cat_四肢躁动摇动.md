@@ -1,4 +1,5 @@
 # 四肢躁动摇动
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 四肢躁动摇动)
 
 ## 相关表现：
 

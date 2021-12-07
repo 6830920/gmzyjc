@@ -1,4 +1,5 @@
 # 背
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 背)
 
 ## 子目录：
 [背痛](https://www.gmzyjc.com/read/biaoxian/cat_背痛.md)

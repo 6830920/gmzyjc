@@ -1,4 +1,5 @@
 # 肝
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 肝)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 喘
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 喘)
 
 ## 相关表现：
 

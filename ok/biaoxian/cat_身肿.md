@@ -1,4 +1,5 @@
 # 身肿
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 身肿)
 
 ## 相关表现：
 

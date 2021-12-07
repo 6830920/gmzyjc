@@ -1,4 +1,5 @@
 # 腹
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 腹)
 
 ## 子目录：
 [大腹](https://www.gmzyjc.com/read/biaoxian/cat_大腹.md)

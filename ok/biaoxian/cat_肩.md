@@ -1,4 +1,5 @@
 # 肩
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 肩)
 
 ## 子目录：
 [肩痛](https://www.gmzyjc.com/read/biaoxian/cat_肩痛.md)

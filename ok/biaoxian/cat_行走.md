@@ -1,4 +1,5 @@
 # 行走
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 行走)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 身痒
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 身痒)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 鼻塞
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 鼻塞)
 
 ## 相关表现：
 

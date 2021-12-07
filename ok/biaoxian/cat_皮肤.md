@@ -1,4 +1,5 @@
 # 皮肤
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 皮肤)
 
 ## 相关表现：
 

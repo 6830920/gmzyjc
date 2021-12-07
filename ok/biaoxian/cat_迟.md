@@ -1,4 +1,5 @@
 # 迟
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 迟)
 
 ## 相关表现：
 

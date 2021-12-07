@@ -1,4 +1,5 @@
 # 鼻
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 鼻)
 
 ## 子目录：
 [呼吸](https://www.gmzyjc.com/read/biaoxian/cat_呼吸.md)

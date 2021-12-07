@@ -1,4 +1,5 @@
 # 寒热
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 寒热)
 
 ## 子目录：
 [怕冷](https://www.gmzyjc.com/read/biaoxian/cat_怕冷.md)

@@ -1,4 +1,5 @@
 # 嚏
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 嚏)
 
 ## 相关表现：
 

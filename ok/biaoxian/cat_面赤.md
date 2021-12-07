@@ -1,4 +1,5 @@
 # 面赤
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 面赤)
 
 ## 相关表现：
 

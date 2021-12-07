@@ -1,4 +1,5 @@
 # 额
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 额)
 
 ## 子目录：
 [额痛](https://www.gmzyjc.com/read/biaoxian/cat_额痛.md)

@@ -1,4 +1,5 @@
 # 骨节
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 骨节)
 
 ## 相关表现：
 

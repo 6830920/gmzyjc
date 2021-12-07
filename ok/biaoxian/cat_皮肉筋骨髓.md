@@ -1,4 +1,5 @@
 # 皮肉筋骨髓
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 皮肉筋骨髓)
 
 ## 子目录：
 [皮肤](https://www.gmzyjc.com/read/biaoxian/cat_皮肤.md)

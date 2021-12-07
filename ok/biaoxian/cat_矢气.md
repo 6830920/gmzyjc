@@ -1,4 +1,5 @@
 # 矢气
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 矢气)
 
 ## 相关表现：
 

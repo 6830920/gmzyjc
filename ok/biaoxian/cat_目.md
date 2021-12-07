@@ -1,4 +1,5 @@
 # 目
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 目)
 
 ## 子目录：
 [目颜色](https://www.gmzyjc.com/read/biaoxian/cat_目颜色.md)

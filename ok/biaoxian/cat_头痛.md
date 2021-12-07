@@ -1,4 +1,5 @@
 # 头痛
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 头痛)
 
 ## 子目录：
 [头顶痛](https://www.gmzyjc.com/read/biaoxian/cat_头顶痛.md)

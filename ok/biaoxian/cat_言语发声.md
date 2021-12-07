@@ -1,4 +1,5 @@
 # 言语发声
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 言语发声)
 
 ## 相关表现：
 

@@ -1,4 +1,5 @@
 # 腹鸣
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 腹鸣)
 
 ## 相关表现：
 

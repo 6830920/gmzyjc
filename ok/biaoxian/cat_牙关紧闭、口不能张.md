@@ -1,4 +1,5 @@
 # 牙关紧闭、口不能张
+[查询本目录](https://zuoye.gmzyh.com/hsearch?key=cat 牙关紧闭、口不能张)
 
 ## 相关表现：
 

@@ -6,7 +6,7 @@
 
 现应广大中医学习者的要求，免费提供教材的PDF电子版，需要者在学习平台完成《了解光明》相关任务后，可以下载。
 
-学习平台：[https://zuoye.gmzy.org.cn](https://zuoye.gmzy.org.cn) 
+学习平台：[https://zuoye.gmzyh.com](https://zuoye.gmzyh.com) 
 
 助教老师微信：
 

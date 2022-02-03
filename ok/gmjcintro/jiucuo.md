@@ -11,6 +11,6 @@
 ### 老版纠错方法：
 
 
-<video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzy.org.cn/media/video/jiucuo.png">
-<source id="mp4" src="https://zuoye.gmzy.org.cn/media/video/jiucuo.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzyh.com/media/video/jiucuo.png">
+<source id="mp4" src="https://zuoye.gmzyh.com/media/video/jiucuo.mp4" type="video/mp4">
 </video>

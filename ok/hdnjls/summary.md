@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [《黄帝内经》简介]($hdnjls00.md)
 * [序]($hdnjls01.md)

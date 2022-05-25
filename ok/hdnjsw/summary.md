@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [《黄帝内经》简介]($hdnjsw00.md)
 * [重广补注黄帝内经素问序]($hdnjsw01.md)

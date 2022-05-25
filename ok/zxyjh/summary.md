@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($zxyjh00.md)
 * [第一章 中西医结合的回顾与展望（吴咸中）]($zxyjh01.md)

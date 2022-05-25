@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [序]($pwl-3-00.md)
 * [卷上]($pwl-4-00.md)

@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [《难经》简介]($nj00.md)
 * [《难经》]($nj01.md)

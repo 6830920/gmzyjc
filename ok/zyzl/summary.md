@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [正文 出版说明]($zyzl00-00.md)
 * [正文 序一 邓铁涛]($zyzl00-xu1.md)

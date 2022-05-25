@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [如何系统学习中医？]($howto.md)
 
@@ -20,8 +24,3 @@
 * [免费领取光明中医电子版]($mianfei.md)
 
 * [原版教材]($jiaocaiyb.md)
-
-  
-
-  
-

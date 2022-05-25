@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [桂林古本《伤寒杂病论》简介]($gbshl-1-0.md)
 * [张机序]($gbshl-2-1.md)

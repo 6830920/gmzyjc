@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($lzcx00.md)
 * [第一章 概述]($lzcx01.md)

@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($fjkj00.md)
 * [四诊心法要诀]($fjkj01.md)

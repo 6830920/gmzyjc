@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($zywx00.md)
 * [第一章　绪论]($zywx01.md)

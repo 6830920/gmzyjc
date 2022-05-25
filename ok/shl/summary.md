@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($shl00.md)
 * [绪论]($shl0000.md)

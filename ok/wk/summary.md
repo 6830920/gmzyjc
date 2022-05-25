@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($wk00bz.md)
   * [编者]($wk00bz-0.1.0.0.0.md)

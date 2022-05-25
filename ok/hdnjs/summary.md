@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($hdnjs0000.md)
 * [第一章 总论]($hdnj01.md)

@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 # 目录
 
 * [编者]($fjs0.1bz.md)

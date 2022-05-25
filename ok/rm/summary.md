@@ -1,4 +1,6 @@
-# 目录
+---
+template: summary.html
+---
 
 * [作者简介]($rm000.md)
 * [绪言]($rm00.md)

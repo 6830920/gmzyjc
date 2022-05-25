@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($jgyl0000.md)
 * [绪论]($jgyl00.md)

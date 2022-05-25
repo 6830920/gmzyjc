@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($yjxj00.md)
 * [一、医经类]($yjxj01.md)

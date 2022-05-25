@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [编者与编者的话]($wbtb0000.md)
 * [总论]($wbtb0zl01.md)

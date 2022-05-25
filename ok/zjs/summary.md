@@ -1,3 +1,7 @@
+---
+template: summary.html
+---
+
 #  目录
 * [《针灸学》电子版录入说明]($zjs0.md)
 * [编者与编者的话]($zjs0-0.md)

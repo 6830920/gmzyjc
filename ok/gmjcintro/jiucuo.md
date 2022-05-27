@@ -14,6 +14,10 @@
 
 我们会看到您提交的修改请求，审核无误后，会进行确认修改。
 
+可以下载教材扫描版进行校对，下载地址：
+[https://drive.weixin.qq.com/s?k=AK8AFgezAAwu6KttUJ](https://drive.weixin.qq.com/s?k=AK8AFgezAAwu6KttUJ)
+
+
 有任何疑问请联系助教老师：
 
 ![](img/lianxi2.png)

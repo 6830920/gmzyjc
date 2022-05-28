@@ -16,7 +16,7 @@
 
 请认真比对教材，确认为电子版文字错误，再提交修改请求。原则上，如果教材本身没有明显的错误，尽量不修改。
 
-如果没有纸质教材，可以在这里下载教材的扫描版，用于比对。https://drive.weixin.qq.com/s?k=AK8AFgezAAwu6KttUJ 。
+如果没有纸质教材，可以在这里下载教材的扫描版，用于比对。[https://drive.weixin.qq.com/s?k=AK8AFgezAAwu6KttUJ](https://drive.weixin.qq.com/s?k=AK8AFgezAAwu6KttUJ ) 。
 
 其它任何疑问请联系助教老师：
 

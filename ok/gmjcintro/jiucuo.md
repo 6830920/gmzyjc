@@ -1,5 +1,7 @@
 # 教材电子版如何纠错？
 
+我们使用码云（gitee.com）进行教材内容的管理。大家参与纠错的工作流程如下：
+
 ### 1、添加志愿者名字
 
 点击这个链接：[志愿者接龙](https://www.gmzyjc.com/read/gmjcintro/zhiyuanzhe.md)
@@ -10,15 +12,17 @@
 
 ![](img/jiucuo.png)
 
-此时会进入编辑页面，（如果没有注册，需要先注册并登录才能看到内容）
+此时会进入编辑页面，（如果没有在码云注册，需要先注册并登录才能看到内容）
 
-将您的网名加入到最下边，进行志愿者名字接龙（不要删除原来的志愿者名字）。
+将您的网名加入到内容的最下边，进行志愿者名字接龙（不要删除原来的志愿者名字）。
 
 然后点击下面的“提交”按钮，提交即可。
 
 ![](img/jiucuo2.png)
 
 我们会看到您提交的请求，会进行确认修改。
+
+我们确认后，您会在“[志愿者接龙](https://www.gmzyjc.com/read/gmjcintro/zhiyuanzhe.md)”网页看到您的名字
 
 ### 2、实际修改教材
 
@@ -30,9 +34,9 @@
 
 ### 3、对比教材
 
-如果没有纸质教材，可以在这里下载教材的扫描版，用于比对。[下载链接](https://drive.weixin.qq.com/s?k=AK8AFgezAAwPXGICzb ) 。
+如果没有纸质教材用于比对，可以在这里下载教材的扫描版。[下载链接](https://drive.weixin.qq.com/s?k=AK8AFgezAAwPXGICzb ) 。
 
-也可以直接在线查看扫描版进行对比：
+也可以直接在线查看扫描版：
 
 
 
@@ -64,7 +68,7 @@
 
 ### 4、暂时标记
 
-如果您在阅读教材的时候，发现了错误但是没时间修改，可以使用标记功能，暂时将错误记录下来。
+如果您在网站阅读教材的时候，发现了错误但是没时间修改，可以使用标记功能，暂时将错误记录下来。
 
 使用下面这个按钮来提交标记:
 
@@ -78,6 +82,12 @@
 <video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzyh.com/media/video/jiucuo.png">
 <source id="mp4" src="https://zuoye.gmzyh.com/media/video/jiucuo.mp4" type="video/mp4">
 </video>
+
+
+
+如上方法提交后，错误会进入下面的错误列表，等待修改：
+
+[https://gitee.com/gmzy/gmzyjc/issues](https://gitee.com/gmzy/gmzyjc/issues)
 
 ### 5、联系我们
 

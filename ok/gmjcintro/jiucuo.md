@@ -12,7 +12,7 @@
 
 实际动手前，请了解一下教材电子化的规范：[https://www.gmzyjc.com/read/gmjcintro/guifan.html](https://www.gmzyjc.com/read/gmjcintro/guifan.html)
 
-注意：请认真比对教材，确认为电子版文字错误，再提交修改请求。原则上，如果教材本身没有明显的错误，不要修改。
+注意：请认真比对教材，确认为电子版文字错误，再提交修改请求。原则上，如果教材本身没有明显的错误，不要修改。 
 
 ### 3、对比教材
 

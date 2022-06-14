@@ -6,7 +6,7 @@
 
 ### 1、了解纠错流程
 
-<video id="video" controls="" preload="none" width="100%"  poster="img/jiucuo.png">
+<video id="video" controls="" preload="none" width="100%"  poster="img/jiucuopost.png">
 <source id="mp4" src="img/jiucuo.mp4" type="video/mp4">
 </video>
 

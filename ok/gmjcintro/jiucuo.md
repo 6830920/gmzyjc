@@ -4,35 +4,11 @@
 
 参与纠错工作请按以下步骤执行：
 
-### 1、测试参与流程
+### 1、了解纠错流程
 
-我们制作了一个志愿者接龙网页，用来测试参与过程。
-
-点击这个链接：[志愿者接龙](https://www.gmzyjc.com/read/gmjcintro/zhiyuanzhe.md)
-
-打开的页面如下，点击页面右上的“铅笔”图标，即可编辑内容
-
-
-
-![](img/jiucuo.png)
-
-此时会进入编辑页面，（如果没有在码云注册，需要先注册并登录才能看到内容）
-
-将您的网名加入到内容的最下边，进行志愿者名字接龙（不要删除原来的志愿者名字）。
-
-然后点击下面的“提交”按钮，提交即可。
-
-![](img/jiucuo2.png)
-
-我们会看到您提交的请求，然后进行确认修改。
-
-确认后，您会在“[志愿者接龙](https://www.gmzyjc.com/read/gmjcintro/zhiyuanzhe.md)”网页看到您的名字
-
-### 2、实际修改教材
-
-通过以上测试步骤，您已经了解了修改教材的流程。
-
-以后发现的教材文字错误，都可以在教材网站按照以上步骤，进行修正后提交。我们会对您的提交进行审核，无误的话会合并。合并后，正确的内容会立刻体现在教材网站上。若提交内容有误，我们会按照流程打回，并说明原因。
+<video id="video" controls="" preload="none" width="100%"  poster="img/jiucuo.png">
+<source id="mp4" src="img/jiucuo.mp4" type="video/mp4">
+</video>
 
 实际动手前，请了解一下教材电子化的规范：[https://www.gmzyjc.com/read/gmjcintro/guifan.html](https://www.gmzyjc.com/read/gmjcintro/guifan.html)
 
@@ -101,4 +77,3 @@
 
 ![](img/lianxi2.png)
 
-### 

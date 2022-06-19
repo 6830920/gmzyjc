@@ -16,8 +16,7 @@ Typora 官网：https://typora.io/
 
 **3、输入困难的生僻字：**
 
-教材难输入字对照表
-https://docs.qq.com/sheet/DVGRHQnpNa1hlWHNE
+[教材难输入字对照表](https://docs.qq.com/sheet/DVGRHQnpNa1hlWHNE)
 
 因光明教材引用古文较多，某些生僻古文字没法输入也无法显示。此情况，如果能用两字合并表示，可用括号将两字括起来表示。实在无法显示可以用”？“代替。
 

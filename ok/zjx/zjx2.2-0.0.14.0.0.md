@@ -18,7 +18,7 @@
 
 方义  本方以[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)针叩刺阿是穴，以疏导局部气血，促进头发新生。[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、疏风养血，[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)益气活血。如出现头晕加[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)以清热散风通窍，失眠加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以宁心安神。
 
-治法  毫针剌补泻兼施。脱发周围，每隔1厘米处向脱发处针剌，先少针以后逐渐增加。每日或隔日1 次。局部用[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)针叩剌，如患处皮肤光滑，宜叩打出血珠；如见稀疏嫩发，则宜轻叩。
+治法  毫针剌补泻兼施。脱发周围，每隔１厘米处向脱发处针剌，先少针以后逐渐增加。每日或隔日1 次。局部用[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)针叩剌，如患处皮肤光滑，宜叩打出血珠；如见稀疏嫩发，则宜轻叩。
 
 灸法
 

@@ -236,7 +236,7 @@
 
 **发汗多，亡阳谵语者，不可下(1)。与柴胡桂枝汤和其荣卫，以通津液，后自愈(2)。**
 
-**柴胡**<small>四两</small>  **桂枝**<small>一两半，去皮</small>  **黄芩**<small>一两半</small>  **芍药**<small>一两半</small>  **生姜**<small>一两半</small>  **大枣**<small>六个，擘</small>  **人参**<small>一两半</small>  **半夏**<small>二合半，洗</small>  **甘草**<small>一两，灸</small>
+**柴胡**<small>四两</small>  **桂枝**<small>一两半，去皮</small>  **黄芩**<small>一两半</small>  **芍药**<small>一两半</small>  **生姜**<small>一两半</small>  **大枣**<small>六个，擘</small>  **人参**<small>一两半</small>  **半夏**<small>二合半，洗</small>  **甘草**<small>一两，炙</small>
 
 **上九味，以水六升，煮取三升，去滓。温服一升，日三服。**
 

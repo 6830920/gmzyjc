@@ -82,5 +82,9 @@ markdown语言是现在比较流行的文档编辑语言。因此我们选用此
 
 
 
+**10 校对工作的更多说明**
 
+[校对工作快速指南V2](https://gitee.com/gmzy/gmzyjc/wikis/%E5%BD%95%E5%85%A5%E4%B8%8E%E6%A0%A1%E5%AF%B9%E8%A7%84%E8%8C%83/%E6%A0%A1%E5%AF%B9%E5%B7%A5%E4%BD%9C%E5%BF%AB%E9%80%9F%E6%8C%87%E5%8D%97V2)
+
+[校对工作常见问题篇](https://gitee.com/gmzy/gmzyjc/wikis/%E5%BD%95%E5%85%A5%E4%B8%8E%E6%A0%A1%E5%AF%B9%E8%A7%84%E8%8C%83/%E6%A0%A1%E5%AF%B9%E5%B7%A5%E4%BD%9C%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%AF%87)
 

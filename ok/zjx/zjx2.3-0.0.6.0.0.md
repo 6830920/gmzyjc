@@ -66,7 +66,7 @@
 
 赤带：[带脉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.26.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[白环俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.30.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；白带：[带脉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.26.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)（灸）(《针灸处方集》)。
 
-针刺治疗宫颈糜烂1010例。取穴；在[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)稍后处。操作：针尖与皮肤呈30度角向上斜剌，深l～1.5寸，留针20～30分钟，10次为1疗程。疗效：治愈630例，好转280例，无效100例。总有效率为90.1％（《全国针灸针麻学术讨论会论文摘要（一）》）。
+针刺治疗宫颈糜烂1010例。取穴；在[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)稍后处。操作：针尖与皮肤呈30度角向上斜剌，深1～1.5寸，留针20～30分钟，10次为1疗程。疗效：治愈630例，好转280例，无效100例。总有效率为90.1％（《全国针灸针麻学术讨论会论文摘要（一）》）。
 
 针刺治疗带下病30例，主要取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。肝郁气滞者配[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)，脾虚湿困者配[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)，气滞血瘀者配[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)，脾胃虚弱者配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。手法以实泻虚补。每日1次，10次为一疗程。结果治愈18例，好转11例，无效1例（《新中医》）。
 

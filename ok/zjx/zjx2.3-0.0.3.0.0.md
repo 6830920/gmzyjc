@@ -52,7 +52,7 @@
 
 〔应用例案〕
 
-张××，24岁，已婚。闭经8月余。缘于经水来潮时，涉水受凉而经[水突](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.10.md)然停止。自觉腰痛乏力，精神萎靡，食欲不振，苔薄白，脉沉细。诊断为继发性闭经。在相当于月经来潮的前三开始针治。针[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，行针30分钟，一日4次，针至（相当）经期后2天，并用艾炷隔姜片灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。第二个月按上法治疗至第4天，月经来潮，但量少色黯。第三个月，经水量增多，经色基本恢复正常。后怀孕，生一男孩（《针灸临证集验》）。
+张××，24岁，已婚。闭经8月余。缘于经水来潮时，涉水受凉而经[水突](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.10.md)然停止。自觉腰痛乏力，精神萎靡，食欲不振，苔薄白，脉沉细。诊断为继发性闭经。在相当于月经来潮的前三开始针治。针[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，行针30分钟，一日1次，针至（相当）经期后2天，并用艾炷隔姜片灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。第二个月按上法治疗至第4天，月经来潮，但量少色黯。第三个月，经水量增多，经色基本恢复正常。后怀孕，生一男孩（《针灸临证集验》）。
 
 〔文献摘录〕
 

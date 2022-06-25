@@ -46,7 +46,7 @@
 
 反胃又名：翻胃。其病因病机基本上与噎膈相同，但病变部位和主要症状有所不同。因反胃多因[幽门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.21.md)不全梗阻、痉挛或胃内肿瘤等所致。胃脘部疼痛明显，呕吐的特点多是朝食暮吐，暮食朝吐，食物在胃内停留的时间较长。无吞咽困难、格拒和旋食旋吐、食物不得入胃的现象。
 
-临床症候多属脾胃虚寒，或[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，脘腹瞋胀而痛，吐后觉舒，神疲乏力，面色少华，四肢不温，舌质淡，苔黄白，脉细浮无力。
+临床症候多属脾胃虚寒，或[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，脘腹䐜胀而痛，吐后觉舒，神疲乏力，面色少华，四肢不温，舌质淡，苔黄白，脉细浮无力。
 
 治宜温运脾胃，和胃降逆。取[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[梁门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.21.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)等穴，针灸并用。
 

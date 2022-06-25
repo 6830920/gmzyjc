@@ -44,7 +44,7 @@
 
 方义  [中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)功能行气化瘀，[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)为肝经原穴有舒肝理气的作用，[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)活血通滞，四穴相合，可行气化瘀，通络止痛。如胸胁胀痛加[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)，以平肝理气；恶露不下加[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、阴交，以行气调经。
 
-治法  亳针刺用泻法，或灸。疼痛剧烈可留针l～2小时，甚至24小时。
+治法  亳针刺用泻法，或灸。疼痛剧烈可留针1～2小时，甚至24小时。
 
 耳针
 
@@ -65,7 +65,7 @@
 针刺、穴位注射治疗产后腹痛125例，其中有92例用针刺治疗，33例用穴位封闭治疗。穴取[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，针刺法先用毫针捻转进针，得气后留针30分钟至24小时;穴位封闭法，先用毫针捻转进针，得气后将针拔出，然后用0.25%的奴佛卡因穴位注射。结果，经针1次于留针时即停止疼痛者有90例，占72%；其中有33例
 是在留针的基础上改用穴位封闭，经封闭1次痊愈的有26例，占78.8%(《针灸临床经验辑要》)。
 
-针剌治疗产后宫缩痛32例。取穴为3组：（1）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；（2）[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)；（3）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。操作：[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，用强剌激抑制手法。疼痛剧烈者，留针时间可延长l～2小时以上。留针中，[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)收缩时，可再行捻针以加强刺激，疼痛即可停止。针[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)时，应先排尿。经针灸后获得显著疗效，其中立即止痛者有5例，疼痛缓解者有21例。复发者4例，无效者2例。复发病例，多因起针过早不肯继续留针所致，针后无不良作用（《中华妇产科杂志》）。
+针剌治疗产后宫缩痛32例。取穴为3组：（1）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；（2）[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)；（3）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。操作：[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，用强剌激抑制手法。疼痛剧烈者，留针时间可延长1～2小时以上。留针中，[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)收缩时，可再行捻针以加强刺激，疼痛即可停止。针[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)时，应先排尿。经针灸后获得显著疗效，其中立即止痛者有5例，疼痛缓解者有21例。复发者4例，无效者2例。复发病例，多因起针过早不肯继续留针所致，针后无不良作用（《中华妇产科杂志》）。
 
 复习思考题
 

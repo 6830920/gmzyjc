@@ -2,7 +2,7 @@
 
 百症俞穴，再三用心。囱会连于[玉枕](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.9.md)，头风疗以金针。
 
-[悬颅](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.5.md)[颔厌](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.4.md)之中，偏头痛止；[强间](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.18.md)、半隆之际，头痛难禁。
+[悬颅](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.5.md)[颔厌](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.4.md)之中，偏头痛止；[强间](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.18.md)、丰隆之际，头痛难禁。
 
 原夫面肿虚浮，须仗水沟、[前顶](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.21.md)；耳聋气闭，全凭[听会](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.2.md)、[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)。
 
@@ -92,7 +92,7 @@
 
 [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)主乎积痢[外丘](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.36.md)收乎大肠。
 
-寒疟兮[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)、本溪验，痃癖兮[冲门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.12.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)强。
+寒疟兮[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)、太溪验，痃癖兮[冲门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.12.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)强。
 
 夫医乃人之司命，非志士而莫为：针乃理之渊微，须至人之指教。
 

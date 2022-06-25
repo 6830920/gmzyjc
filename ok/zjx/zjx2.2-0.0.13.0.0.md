@@ -34,7 +34,7 @@
 
 方义  本证系因胃肠积热不得疏泄透达，而郁于皮毛腠理之间所致。故取[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)以调理胃肠，而清泄阳明积热；[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)理血和营，为治荨麻疹效穴；[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)为手太阴之络穴，别走阳明，配[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)可宣肺透表，清阳明积热。如有腹痛加[建里](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.10.md)，以和中化湿止痛。腹泻加[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)，以理肠止泻。喘息加天泽、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)，以清肺止喘。
 
-治法  亳针剌用泻法。慢性者可隔l～2日针1次。
+治法  亳针剌用泻法。慢性者可隔1～2日针1次。
 
 耳针
 

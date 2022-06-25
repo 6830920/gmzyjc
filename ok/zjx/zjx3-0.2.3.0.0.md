@@ -4,8 +4,8 @@
 
 ①《玉龙歌》为元•王国瑞所撰，辑录作了部分删改。
 
-②顶门：指督脉[囟会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.22.md)穴。
+② 顶门：指督脉[囟会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.22.md)穴。
 
 ③二市：即[风市](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.31.md)、[阴市](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.33.md)。
 
-④背缝：在背部肩端骨下，直腋缝尖。
+④ 背缝：在背部肩端骨下，直腋缝尖。

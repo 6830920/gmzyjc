@@ -14,13 +14,13 @@
 
 **体针**	
 
-治则清泄风热，消肿定痛。取手阳明经、足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经穴为主。
+治则  清泄风热，消肿定痛。取手阳明经、足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经穴为主。
 
-处方主穴：[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)   [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)   [睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)   [太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)   配穴：外感风热配[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)、[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)，肝胆火盛配[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)。
+处方  主穴：[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)   [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)   [睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)   [太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)   配穴：外感风热配[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)、[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)，肝胆火盛配[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)。
 
-方义：目为肝窍，阳明、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、少阳的经脉均循行于目部，故取手阳明经[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以调阳明经气，疏泄风热；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)以导厥阴经气， 而降肝火；[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)为足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)，足阳明之交会穴，能宣泄患部之郁热， 有通络明目作用；[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)为经外奇穴，点刺出血以泄热消肿定痛。 外感风热配手太阴井穴[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)，督脉[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)穴，以疏风清肺热；肝胆火盛配足厥阴荥穴[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)，足少阳荥穴[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)，以泻肝胆之火。头痛加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)以疏风镇痛，烦热加[关冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.1.md)泻三焦之火以除烦热。
+方义：目为肝窍，阳明、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、少阳的经脉均循行于目部，故取手阳明经[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以调阳明经气，疏泄风热；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)以导厥阴经气而降肝火；[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)为足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)，足阳明之交会穴，能宣泄患部之郁热， 有通络明目作用；[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)为经外奇穴，点刺出血以泄热消肿定痛。 外感风热配手太阴井穴[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)，督脉[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)穴，以疏风清肺热；肝胆火盛配足厥阴荥穴[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)，足少阳荥穴[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)，以泻肝胆之火。头痛加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)以疏风镇痛，烦热加[关冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.1.md)泻三焦之火以除烦热。
 
-治法毫针刺用泻法。不留针，或留针10〜15分钟，每日1次，5次为一疗程。针刺眼周穴位应选用31〜32号毫针。[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)用三棱针点刺出血。
+治法  毫针刺用泻法。不留针，或留针10〜15分钟，每日1次，5次为一疗程。针刺眼周穴位应选用31〜32号毫针。[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)用三棱针点刺出血。
 
 **耳针**
 
@@ -30,7 +30,7 @@
 
 **针挑**
 
-方法在肩胛间按找敏感点挑治，或在[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)穴及旁开0.5寸处选点挑治，或在[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)及眼睑等处选点挑治。
+方法  在肩胛间按找敏感点挑治，或在[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)穴及旁开0.5寸处选点挑治，或在[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)及眼睑等处选点挑治。
 
 〔应用例案〕
 

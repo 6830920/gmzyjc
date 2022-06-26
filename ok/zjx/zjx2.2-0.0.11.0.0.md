@@ -32,7 +32,7 @@
 
 〔文献摘录〕
 
-破伤风：[大迎](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.5.md)治风痉口噤，[哑门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.15.md)治寒热风痉，脊强反折，[腰俞](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.2.md)主反折（《针炎资生经》）。
+破伤风：[大迎](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.5.md)治风痉口噤，[哑门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.15.md)治寒热风痉，脊强反折，[腰俞](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.2.md)主反折（《针灸资生经》）。
 
 初生小儿，脐风撮口，灸[然谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.2.md)三壮，针入八分，不宜见血（《卫生宝鉴》）。
 

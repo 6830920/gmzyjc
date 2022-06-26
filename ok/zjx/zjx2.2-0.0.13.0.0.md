@@ -52,7 +52,7 @@
 
 风疹：[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)（《中国针灸学概要》）。
 
-粗针治疗荨麻疹125例。取穴：第一组取[神道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.11.md)透[至阳](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.9.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，第二组[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)透[身柱](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.12.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)。方法：两组交替使用，用直径0.9毫米，长125亳米针具，留针2小时，用泻法。七天为一疗程，隔三天再行第二疗程。疗效：119例痊愈，6例无效，其中第一疗程治愈90例，第二疗程治愈21例，第三疗程治愈8例，治愈率为95.2％（东北大区针炎学术会议资料）。
+粗针治疗荨麻疹125例。取穴：第一组取[神道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.11.md)透[至阳](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.9.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，第二组[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)透[身柱](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.12.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)。方法：两组交替使用，用直径0.9毫米，长125亳米针具，留针2小时，用泻法。七天为一疗程，隔三天再行第二疗程。疗效：119例痊愈，6例无效，其中第一疗程治愈90例，第二疗程治愈21例，第三疗程治愈8例，治愈率为95.2％（东北大区针灸学术会议资料）。
 
 孙迅医师报告，针刺治疗慢性荨麻疹132例。取[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。以针刺入穴位，轻轻捻转，当患者出现痠、麻、胀感时，留针20分钟， 隔日针1次，以30次为一疗程。132例病人，治愈104例；好转22例，无效6例。在治愈的病例中，针刺次数最少者2次，最多者21次(《针灸处方集》)。
 

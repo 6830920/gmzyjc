@@ -30,7 +30,7 @@
 
 处方  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
 
-方义  灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)可助阳散寒，针[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)可调气活血，四穴相配有温通胞脉之功。如出现四肢厥冷重炙[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，以温阳救逆；腹痛剧烈加[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)，以温阳调经。
+方义  灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)可助阳散寒，针[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)可调气活血，四穴相配有温通胞脉之功。如出现四肢厥冷重灸[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，以温阳救逆；腹痛剧烈加[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)，以温阳调经。
 
 治法  针灸并用。针用泻法，痛甚可留针1～2小时。[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)可重灸。
 

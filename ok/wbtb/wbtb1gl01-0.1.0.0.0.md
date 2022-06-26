@@ -196,7 +196,7 @@
 
 服后体温正常，咳嗽不止，仍未大便，舌中心有腻苔未退，脉滑数，乃肺胃未和，拟调和肺胃，利湿消滞，处方：
 
-冬瓜仁<small>12克</small> 杏仁<small>6克</small> 苡仁<small>12克</small> 苇根<small>15克</small> 炒积实<small>4.5克</small> 莱菔子<small>4.5克</small> 麦芽<small>6克</small> 焦山楂<small>6克</small>神曲<small>6克</small>
+冬瓜仁<small>12克</small> 杏仁<small>6克</small> 苡仁<small>12克</small> 苇根<small>15克</small> 炒枳实<small>4.5克</small> 莱菔子<small>4.5克</small> 麦芽<small>6克</small> 焦山楂<small>6克</small>神曲<small>6克</small>
 
 服二剂而诸证悉平，食、眠、二便俱正常，停药食养痊愈出院。
 

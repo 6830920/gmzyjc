@@ -50,7 +50,7 @@
 
 〔应用例案〕
 
-耿××，33岁。因第二胎难产造成[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)脱垂已6年，腹部有下坠感，腰酸痛，白带多，呈Ⅱ度脱垂。针[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、维胞、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，徐徐提插和刮针手法，短促行针，针后在[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)拔火罐15分钟，间日1次。针2次后[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)下垂即明显回缩，共针拔6次，[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)位置恢复正常。随访2年未复发（《针炎临证集验》）。
+耿××，33岁。因第二胎难产造成[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)脱垂已6年，腹部有下坠感，腰酸痛，白带多，呈Ⅱ度脱垂。针[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、维胞、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，徐徐提插和刮针手法，短促行针，针后在[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)拔火罐15分钟，间日1次。针2次后[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)下垂即明显回缩，共针拔6次，[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)位置恢复正常。随访2年未复发（《针灸临证集验》）。
 
 〔文献摘录〕
 

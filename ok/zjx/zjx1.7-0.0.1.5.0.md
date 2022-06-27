@@ -16,7 +16,7 @@
 
 背连腰痛：针[白环俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.30.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)。
 
-脊反折：针哑冂、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)。
+脊反折：针哑门、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)。
 
 2、腰骶部：该部为督脉及足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)所过，治疗其症状常以上述经穴为主，其中[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)穴应用最广，正如《四总穴歌》所说：腰背[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)求。
 

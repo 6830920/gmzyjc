@@ -10,7 +10,7 @@
 
 （1）内脏有病，选用内脏所属经脉的腧穴。例如：咳嗽、喘息，选用肺经的[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)、[尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)、[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)等；胃脘疼痛，选用胃经的[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，[上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)等。
 
-（2）五官或其它器官有病，可选用与此器官相通经脉的腧穴。例如耳病选用[足临泣](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.41.md)、[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)，[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)等；眼病选用[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)、液冂等。
+（2）五官或其它器官有病，可选用与此器官相通经脉的腧穴。例如耳病选用[足临泣](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.41.md)、[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)，[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)等；眼病选用[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)、液门等。
 
 （3）某些部位有病，可取与此部位相通经脉的腧穴。如腰痛取[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)；肩痛、项强取[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)，[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)。
 

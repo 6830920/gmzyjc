@@ -96,7 +96,7 @@
 
 症状  吐血鲜红或紫黯，口苦胁痛，烦躁易怒，舌质红绛，脉弦数。
 
-治则  清肝和胃，泻火止血。取足阳明、厥阴经穴为主
+治则  清肝和胃，泻火止血。取足阳明、厥阴经穴为主。
 
 处方  [不容](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.19.md)  [梁丘](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.34.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)  [地五会](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.42.md)  [劳宫](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.8.md)
 

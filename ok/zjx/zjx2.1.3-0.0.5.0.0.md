@@ -56,7 +56,7 @@
 
 处方  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)  [足窍阴](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.44.md)  [风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)
 
-方义  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)平肝潜阳以制怒，[足窍阴](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.44.md)清泻肝旺之火而除烦，[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)主冶头痛头晕，[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)宁心安神。如有耳鸣加刺[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)、[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)以开窍益聪；目赤加刺[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[阳溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.5.md)以清热散风。
+方义  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)平肝潜阳以制怒，[足窍阴](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.44.md)清泻肝旺之火而除烦，[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)主治头痛头晕，[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)宁心安神。如有耳鸣加刺[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)、[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)以开窍益聪；目赤加刺[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[阳溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.5.md)以清热散风。
 
 治法  毫针刺用泻法。
 

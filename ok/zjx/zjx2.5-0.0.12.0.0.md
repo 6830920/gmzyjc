@@ -44,8 +44,7 @@
 
 丹溪治一中年人，右鼻管流浊且臭，脉弦小，右寸滑左寸涩。灸[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)、三里、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)；次以酒芩二两，[苍术](https://www.gmzyjc.com/read/bc/bc04-0.0.2.0.0.md)、[半夏](https://www.gmzyjc.com/read/bc/bc16-0.1.1.0.0.md)各一两，[辛夷](https://www.gmzyjc.com/read/bc/bc01-1.1.10.0.0.md)、川芎、[白芷](https://www.gmzyjc.com/read/bc/bc01-1.1.7.0.0.md)、[石膏](https://www.gmzyjc.com/read/bc/bc03-0.1.1.0.0.md)、[人参](https://www.gmzyjc.com/read/bc/bc17-0.1.1.0.0.md)、[葛根](https://www.gmzyjc.com/read/bc/bc01-1.2.8.0.0.md)各五钱。分七帖服之痊愈（《续名医类案》）。
 
-恭xx，男，30岁。自诉：鼻孔经常闭塞已逾四年，尤以左侧鼻孔为甚，不时流出粘性分泌物，每日早晨或气候骤寒时喷嚏发作，鼻粘膜呈肿胀红褐色，嗅觉减退。治取上[迎香](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.20.md)、[通天](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.7.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)。捻转泻法，针刺三日后，晨间喷嚏大减，鼻粘膜之肿胀红褐色减退，六次后粘性分泌物减少，左侧鼻腔亦觉通气，近日虽气
-候骤寒亦无喷嚏，十一次后两侧鼻腔均呈正常，嗅觉恢复，各项症状消失。按：上[迎香](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.20.md)为治疗鼻腔的要穴（位于鼻骨下凹陷中，鼻唇沟上端之尽处），针刺时可立即引起喷嚏而[鼻通](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.6.0.md)，配[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[通天](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.7.md)诸穴，共奏疏风利窍之功（摘自《现代针灸医案选》)。
+恭xx，男，30岁。自诉：鼻孔经常闭塞已逾四年，尤以左侧鼻孔为甚，不时流出粘性分泌物，每日早晨或气候骤寒时喷嚏发作，鼻粘膜呈肿胀红褐色，嗅觉减退。治取上[迎香](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.20.md)、[通天](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.7.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)。捻转泻法，针刺三日后，晨间喷嚏大减，鼻粘膜之肿胀红褐色减退，六次后粘性分泌物减少，左侧鼻腔亦觉通气，近日虽气候骤寒亦无喷嚏，十一次后两侧鼻腔均呈正常，嗅觉恢复，各项症状消失。按：上[迎香](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.20.md)为治疗鼻腔的要穴（位于鼻骨下凹陷中，鼻唇沟上端之尽处），针刺时可立即引起喷嚏而[鼻通](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.6.0.md)，配[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[通天](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.7.md)诸穴，共奏疏风利窍之功（摘自《现代针灸医案选》)。
 
 〔文献摘录〕
 

@@ -68,11 +68,11 @@
 
 精神萎靡：灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、膏[肓俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.16.md)。
 
-少气：针灸[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、神冂、[大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)、[少冲](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.9.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。
+少气：针灸[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、神门、[大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)、[少冲](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.9.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。
 
 羸瘦：针灸[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、膏[肓俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.16.md)。
 
-健忘：针灸[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、列诀、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[少海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.3.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)。
+健忘：针灸[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、列缺、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[少海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.3.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)。
 
 嗜眠：实症针水沟、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[关冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.1.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)；虚症针[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，灸[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)。
 

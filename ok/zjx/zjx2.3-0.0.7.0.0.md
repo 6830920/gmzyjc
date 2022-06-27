@@ -70,7 +70,7 @@
 
 先灸[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)5至10分钟，再用毫针点刺[金津](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.7.0.md)、[玉液](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.7.0.md)使之出血，轻者每日1次，重者每日2次。共治疗妊娠呕吐20例，症状消失者10例，症状减轻者9例，1例无效(《针灸处方集》)。
 
-用艾卷温和艾治疗妊娠呕吐11例，均获治愈。选用穴位为[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。操作：以施灸穴位的皮肤呈潮红，患者感到温热舒适为度。每日1次，每穴每次灸10～15分钟。其中经3次治疗症状消失者6例，经5次治疗症状消失者3例，经7次治疗症状消失者2例。全部病例除用上述方法灸治外。均未采用其它辅助冶疗（《针灸医学验集》）。
+用艾卷温和艾治疗妊娠呕吐11例，均获治愈。选用穴位为[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。操作：以施灸穴位的皮肤呈潮红，患者感到温热舒适为度。每日1次，每穴每次灸10～15分钟。其中经3次治疗症状消失者6例，经5次治疗症状消失者3例，经7次治疗症状消失者2例。全部病例除用上述方法灸治外。均未采用其它辅助治疗（《针灸医学验集》）。
 
 复习思考题
 

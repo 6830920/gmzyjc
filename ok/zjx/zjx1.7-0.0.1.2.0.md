@@ -58,7 +58,7 @@
 
 雀目：针[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)，或[神庭](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.24.md)、[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)、[前顶](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.21.md)，[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)均刺出血，或灸[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)。
 
-近视：针[承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)、[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[翳明](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.10.0.md)[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。
+近视：针[承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)、[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[翳明]、(https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.10.0.md)[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。
 
 目昏暗：灸[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，针[承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、瞳子髎。
 

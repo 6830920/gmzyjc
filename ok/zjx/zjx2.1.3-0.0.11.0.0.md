@@ -50,7 +50,7 @@
 
 取穴  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)。
 
-方法  用少量维生素Bl注射液或[当归](https://www.gmzyjc.com/read/bc/bc17-0.3.3.0.0.md)注射液注入穴位，进针后待针感传向前阴时将药液徐徐推入。隔日1次，10次为一疗程。
+方法  用少量维生素B1注射液或[当归](https://www.gmzyjc.com/read/bc/bc17-0.3.3.0.0.md)注射液注入穴位，进针后待针感传向前阴时将药液徐徐推入。隔日1次，10次为一疗程。
 
 附：阳痿
 

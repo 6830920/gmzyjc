@@ -44,7 +44,7 @@
 
 处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)  [厉兑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.45.md)  [隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)
 
-方义  胃不和则不寐，故取募[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)和络穴[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)，以和胃化痰安神；阳明根于[厉兑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.45.md)，太阴根于[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)，二穴同用，主治多梦失眠。如出现懊憹、呕恶加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以安神和胃；头晕加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以镇静安神。
+方义  胃不和则不寐，故取募[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)和络穴[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)，以和胃化痰安神；阳明根于[厉兑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.45.md)，太阴根于[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)，二穴同用，主治多梦失眠。如出现懊𢙐、呕恶加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以安神和胃；头晕加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以镇静安神。
 
 治法  针宜泻法。
 

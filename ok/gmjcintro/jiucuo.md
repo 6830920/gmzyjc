@@ -4,7 +4,7 @@
 
 参与纠错工作请按以下步骤执行：
 
-### 1、了解纠错流程
+### 1、基本纠错流程
 
 <video id="video" controls="" preload="none" width="100%"  poster="img/jiucuopost.png">
 <source id="mp4" src="img/jiucuo.mp4" type="video/mp4">
@@ -14,7 +14,15 @@
 
 注意：请认真比对教材，确认为电子版文字错误，再提交修改请求。原则上，如果教材本身没有明显的错误，不要修改。  
 
-### 2、联系我们
+### 2、冲突的产生与解决
+
+大家校对的时候，有时会产生冲突，其原因如下：
+
+<video id="video" controls="" preload="none" width="100%"  poster="img/chongtu.png">
+<source id="mp4" src="img/chongtu.mp4" type="video/mp4">
+</video>
+
+### 3、联系我们
 
 其它任何疑问请联系助教老师： 
 

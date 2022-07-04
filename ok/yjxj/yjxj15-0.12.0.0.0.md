@@ -6,7 +6,7 @@
 
 费伯雄善于调营治肝，广泛应用于中风、眩晕、胃痛、痿证、虚损、不寐、吐血、久嗽等内科杂病，同时也用于妇科、眼科、喉等方面疾病。不仅用于一般虚弱之症，而且许多急症、重症也常以调营为主要治疗方法，如论中风，责诸“皆由气血损亏，外风乘隙而入”，故用清营化痰，熄风理气为治。如本书中[风门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.12.md)第一案：[风门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.12.md)有四，首重偏枯。就偏枯一门，又有中络中经、中腑中脏之别。恙起于右体不仁，大筋软缩，手指屈而不伸，风疾流注经络，诊脉病尺虚细，关左弦右滑。急宜养血祛风，化痰涎，利关节：
 
-大生地、[当归](https://www.gmzyjc.com/read/bc/bc17-0.3.3.0.0.md)身、杭[白芍](https://www.gmzyjc.com/read/bc/bc17-0.3.4.0.0.md)、生[白术](https://www.gmzyjc.com/read/bc/bc17-0.1.5.0.0.md)、川[独活](https://www.gmzyjc.com/read/bc/bc06-0.0.1.0.0.md)、甜瓜子、化桔红、姜[半夏](https://www.gmzyjc.com/read/bc/bc16-0.1.1.0.0.md)、川断肉、汉[防己](https://www.gmzyjc.com/read/bc/bc06-0.0.3.0.0.md)、嫩[桑枝](https://www.gmzyjc.com/read/bc/bc06-0.0.17.0.0.md)、怀[牛膝](https://www.gmzyjc.com/read/bc/bc12-0.0.21.0.0.md)、虎胫骨、住姜、红枣。
+大生地、[当归](https://www.gmzyjc.com/read/bc/bc17-0.3.3.0.0.md)身、杭[白芍](https://www.gmzyjc.com/read/bc/bc17-0.3.4.0.0.md)、生[白术](https://www.gmzyjc.com/read/bc/bc17-0.1.5.0.0.md)、川[独活](https://www.gmzyjc.com/read/bc/bc06-0.0.1.0.0.md)、甜瓜子、化桔红、姜[半夏](https://www.gmzyjc.com/read/bc/bc16-0.1.1.0.0.md)、川断肉、汉[防己](https://www.gmzyjc.com/read/bc/bc06-0.0.3.0.0.md)、嫩[桑枝](https://www.gmzyjc.com/read/bc/bc06-0.0.17.0.0.md)、怀[牛膝](https://www.gmzyjc.com/read/bc/bc12-0.0.21.0.0.md)、虎胫骨、生姜、红枣。
 
 费绳祖认为，人身之气血皆从胃中谷气生化而来。胃病固宜调胃，五脏任何脏虚损而关于胃本，必须从胃治。胃气有权，脏虚皆可弥补。他示人“顾胃救人”是必效之法。治疗一些杂病的后期多以益胃法善后。如老年冬温、痢疾等症，值邪去正衰之际，均以益胃气，养胃阴之品以资巩固。外感病误治伤阴，亦常用此法挽救。如本书感冒门第一案，足可说明：
 

@@ -1,0 +1,77 @@
+### 泄泻
+
+**泄泻**又称腹泻。主要症状为大便次数增多，粪便稀薄，甚至如浆水样。本证病变主要在脾胃和大小肠。
+
+泄泻可概分为急性和慢性两类，前者多属实证，后者多属虚证。急性泄泻迁延失治，亦可能转为慢性，慢性泄泻每因感染而急性发作，成为虚实夹杂的证候。
+
+现代医学中的急、慢性肠炎，肠结核和胃肠神经功能紊乱等引起的腹泻，均可参考本节辨证论治。
+
+**〔病因病机〕**
+
+急性泄泻：多由饮食生冷和不洁之物，或兼受寒湿暑热之邪，损伤于脾，扰于胃肠，运化盛受传导功能失常，清浊不分，水食相杂而下，而发生泄泻。
+
+慢性泄泻：多因脾胃素虚，或久病气虚，脾阳不振，健运失职，水谷停滞，清浊不分，混杂而下；或肝郁气滞，横逆犯脾，运化失常，或肾阳不振，[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，不能温煦脾胃，腐熟运化功能失常，完谷不化，水湿积滞，泛溢于肠间而致泄泻。
+
+**〔辨证论治〕**
+
+体针
+
+（一）急性泄泻
+
+症状  发病较急，排便次数增多。偏于寒湿者，大便清稀，水谷相杂，肠鸣腹痛，口不渴，身寒喜温，舌苔白腻，脉濡缓；偏于湿热者，大便色黄褐而臭，泻下急迫，肛门灼热，心烦口渴，小便短赤，或有身热，舌苔黄腻，脉濡数。
+
+治则  化浊导滞，调理脾胃。取手足阳明和足太阴经穴为主。
+
+处方  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)  [阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)
+
+方义：[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)是大肠之原，[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)为胃募，[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)为大肠募，取三穴以调理胃肠之运化与传导功能。足阳明合穴[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，可通降胃腑气机，脾与胃相表里，故取[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)调理脾经经气。脾胃健运，水精四布，小便通利，湿浊得化，可达止泻。热甚者加[内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)、[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)、[少泽](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.1.md)点刺出血以泄其热；肢冷脉伏加[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)隔姜灸以温阳救逆。
+
+治法  偏寒者，毫针直刺，并用艾条或隔姜灸；偏热者针刺用泻法。
+
+（二）慢性泄泻
+
+症状  发病势缓，或由急性泄泻迁延而来，病程较长。脾虚者，大便溏薄，食谷不化，反复发作，稍进油腻食物，则大便次数增多，面色萎黄，神疲，不思饮食，喜暖畏寒，舌淡苔白，脉濡缓无力。肝郁乘脾者，平素多有胸胁胀闷，嗳气食少，每因抑郁恼怒或情绪紧张时，发生腹痛泄泻，舌淡红，脉弦。肾虚者，黎明之前，腹部作痛，肠鸣即泻，泻后痛减，腹畏寒，腰酸腿软，消瘦、面色黧黑，舌淡苔白，脉沉细。
+
+治则  健脾、疏肝、温肾。取任脉，足阳明及背部俞穴。
+
+处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  脾虚配[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[关元俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.26.md)，肝郁配[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)，肾虚配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)。
+
+方义  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，调整胃肠机能，固涩止泻消胀。[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[关元俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.26.md)健脾益气；[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)抑肝扶脾解郁；[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)温肾壮阳，均属标本兼顾之法。如脘满加[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)以理脾消胀；胁痛加[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)以清肝止痛；短气如喘加[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以补气[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)。
+
+治法  针用补法，并可加灸。
+
+耳针
+
+取穴  小肠、大肠、胃、脾、肝、肾、交感、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)。
+
+刺法  每次酌取3～5穴，急性泄泻留针5～10分钟，每日1～2次，慢性泄泻留针10～20分钟，隔日1次，10次为一疗程。
+
+**〔应用例案〕**
+
+一人吐泻三日，垂死，为灸[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)二穴立止(《名医类案》)。
+
+李××，男，32岁。自诉：过食生冷油腻，复感寒邪，遂成胃脘胀满，腹泻肠鸣。某医见其脘闷胀满，疑为伤食作泻，投给攻消之品，益虚其脾，致使大便稀薄，无臭，日3～4次，兼有纳减腹鸣，喜按恶凉。查：神疲倦怠，面淡黄，苔白腻，脉濡缓。治取[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)行泻法，温针[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)补，连续治疗十一次，脘舒纳香，便己成形，日行1～2次，但仍时有腹胀肠鸣，乃加灸[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以升举清阳，又治四次，腹泻痊愈（摘自《现代针灸医案选》）。
+
+**〔文献摘录〕**
+
+肠中雷鸣相逐痢下，灸[承满](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.20.md)五十壮。穴在侠[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)相去五寸（《千金要方》）。
+
+肠鸣而泻：[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[三间](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.3.md)（《神应经》）。
+
+针刺脐中四边穴治疗腹泻数十例，收到了较好的效果。脐中四边穴位于脐中上下左右各开1寸处，针四穴，选用28号或30号1.5寸长的毫针一支，以四穴上下左右为序进针，成人直刺5分至1寸深，小儿直刺3至5分深，不留针。虚寒性泄泻，每穴缓刺捻转半分钟；实热者，每穴急刺捻转10分钟左右（《针灸处方集》）。
+
+针灸治疗腹泻40例，其中儿童30例，成人10例。病程最短3天，最长3个月，大便次数少则3~5次，多则10余次。针刺主穴取[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)和[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，配穴取[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[然谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.2.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)。每1~2天针治1次。实热症用透天凉手法，虚寒症用烧山火手法进行治疗。结果经1~12次治疗，痊愈28例，改善9例(《针灸医学验集》)。
+
+**复习思考题**
+
+1、何谓泄泻？简述其病因。
+
+2、如何辨别泄泻的寒热虚实？
+
+3、急、慢性泄泻在症状上有何不同？
+
+4、急、慢性泄泻在针灸治则、治法上有何不同？
+
+5、分述急慢性泄泻的针灸处方、方义。
+
+

@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="200mm"
+   viewBox="0 0 250 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="表2.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path10"
+         d="M 0,-11.99622 H 1346.2425 V 805.07969 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13"
+         d="M 1.3329134,-10.663307 H 1346.2425 V 805.07969 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path16"
+         d="M 1.3329134,-10.663307 H 50.650709 V 33.322835 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path19"
+         d="M 1.3329134,669.12252 H 1346.2425 v 43.98614 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath5"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path22"
+         d="M 1.3329134,714.44157 H 1346.2425 v 43.98615 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath6"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path25"
+         d="M 1.3329134,79.974803 H 202.60283 V 169.28 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path28"
+         d="M 203.93575,79.974803 H 319.89921 V 169.28 H 203.93575 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path31"
+         d="M 321.23213,79.974803 H 1167.6321 V 123.96094 H 321.23213 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath9"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path34"
+         d="m 1168.965,79.974803 h 82.6407 V 169.28 h -82.6407 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath10"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path37"
+         d="M 51.983622,170.61291 H 202.60283 v 43.98615 H 51.983622 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath11"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path40"
+         d="m 1039.6724,170.61291 h 127.9597 v 633.13386 h -127.9597 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath12"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path43"
+         d="m 1168.965,170.61291 h 82.6407 v 633.13386 h -82.6407 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath13"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path46"
+         d="M 51.983622,215.93197 H 101.30142 V 486.51339 H 51.983622 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath14"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path49"
+         d="m 102.63433,759.76063 h 99.9685 v 43.98614 h -99.9685 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath15"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path52"
+         d="M 1.3329134,170.61291 H 50.650709 V 803.74677 H 1.3329134 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath16"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path55"
+         d="M 51.983622,487.8463 H 101.30142 V 758.42772 H 51.983622 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath17"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path58"
+         d="m 102.63433,215.93197 h 99.9685 v 179.94331 h -99.9685 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath18"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path61"
+         d="m 102.63433,397.20819 h 99.9685 v 89.3052 h -99.9685 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath19"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path64"
+         d="m 102.63433,487.8463 h 99.9685 v 179.94331 h -99.9685 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath20"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path67"
+         d="m 102.63433,669.12252 h 49.3178 v 89.3052 h -49.3178 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="669.82906"
+     inkscape:cy="376.60128"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="810"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-97)">
+    <g
+       id="g73"
+       clip-path="url(#clipEmfPath3)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g83"
+       clip-path="url(#clipEmfPath2)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.69726563px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="178.49147"
+       y="125.31364"
+       id="text99"><tspan
+         sodipodi:role="line"
+         x="178.49147"
+         y="125.31364"
+         id="tspan97"
+         style="stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.69726563px;fill:#000000;stroke-width:0.26458332"
+           id="tspan95">印象</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.69726563px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="205.29056"
+       y="125.31364"
+       id="text105"><tspan
+         sodipodi:role="line"
+         x="205.29056"
+         y="125.31364"
+         id="tspan103"
+         style="stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:6.69726563px;fill:#000000;stroke-width:0.26458332"
+           id="tspan101">分析</tspan></tspan></text>
+    <g
+       id="g109"
+       clip-path="url(#clipEmfPath4)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g117"
+       clip-path="url(#clipEmfPath4)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,77.059682)">
+      <text
+         id="text115"
+         y="21.75293"
+         x="0"
+         transform="translate(165.28126,679.78583)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan113"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan111"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">苔</tspan></tspan></text>
+    </g>
+    <g
+       id="g119"
+       clip-path="url(#clipEmfPath5)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g127"
+       clip-path="url(#clipEmfPath5)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,77.588849)">
+      <text
+         id="text125"
+         y="21.75293"
+         x="0"
+         transform="translate(165.28126,725.10488)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan123"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan121"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">质</tspan></tspan></text>
+    </g>
+    <g
+       id="g129"
+       clip-path="url(#clipEmfPath2)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g137"
+       clip-path="url(#clipEmfPath2)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,76.001348)">
+      <text
+         id="text135"
+         y="21.75293"
+         x="0"
+         transform="translate(63.979843,770.42394)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan133"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan131"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">切</tspan></tspan></text>
+    </g>
+    <g
+       id="g139"
+       clip-path="url(#clipEmfPath6)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g147"
+       clip-path="url(#clipEmfPath6)"
+       transform="matrix(0.26458333,0,0,0.26458333,10.294147,75.472181)">
+      <text
+         id="text145"
+         y="21.75293"
+         x="0"
+         transform="translate(5.331654,145.28756)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan143"
+           y="0"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan141"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+    </g>
+    <g
+       id="g149"
+       clip-path="url(#clipEmfPath7)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g157"
+       clip-path="url(#clipEmfPath7)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,83.938853)">
+      <text
+         id="text155"
+         y="21.75293"
+         x="0"
+         transform="translate(237.25858,113.29764)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan153"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan151"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">症状</tspan></tspan></text>
+    </g>
+    <g
+       id="g159"
+       clip-path="url(#clipEmfPath8)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g167"
+       clip-path="url(#clipEmfPath8)"
+       transform="matrix(0.26458333,0,0,0.26458333,-45.268376,82.880519)">
+      <text
+         id="text165"
+         y="21.75293"
+         x="0"
+         transform="translate(731.76945,90.63811)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan163"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan161"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">辨</tspan></tspan></text>
+    </g>
+    <g
+       id="g169"
+       clip-path="url(#clipEmfPath9)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g177"
+       clip-path="url(#clipEmfPath9)"
+       transform="matrix(0.26458333,0,0,0.26458333,-87.072569,83.938853)">
+      <text
+         id="text175"
+         y="21.75293"
+         x="0"
+         transform="translate(1198.2891,113.29764)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan173"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan171"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">证</tspan></tspan></text>
+    </g>
+    <g
+       id="g179"
+       clip-path="url(#clipEmfPath10)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g187"
+       clip-path="url(#clipEmfPath10)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,83.938853)">
+      <text
+         id="text185"
+         y="21.75293"
+         x="0"
+         transform="translate(95.969764,181.27622)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan183"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan181"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">器 官</tspan></tspan></text>
+    </g>
+    <g
+       id="g189"
+       clip-path="url(#clipEmfPath11)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g197"
+       clip-path="url(#clipEmfPath11)"
+       transform="matrix(0.26458333,0,0,0.26458333,10.294147,75.472181)">
+      <text
+         id="text195"
+         y="21.75293"
+         x="0"
+         transform="translate(1043.6712,779.75433)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan193"
+           y="0"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan191"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+    </g>
+    <g
+       id="g199"
+       clip-path="url(#clipEmfPath12)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g207"
+       clip-path="url(#clipEmfPath12)"
+       transform="matrix(0.26458333,0,0,0.26458333,10.294147,75.472181)">
+      <text
+         id="text205"
+         y="21.75293"
+         x="0"
+         transform="translate(1172.9638,779.75433)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan203"
+           y="0"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan201"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+    </g>
+    <g
+       id="g209"
+       clip-path="url(#clipEmfPath13)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g217"
+       clip-path="url(#clipEmfPath13)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,83.938853)">
+      <text
+         id="text215"
+         y="21.75293"
+         x="0"
+         transform="translate(63.979843,339.89291)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan213"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan211"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">问</tspan></tspan></text>
+    </g>
+    <g
+       id="g219"
+       clip-path="url(#clipEmfPath14)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g227"
+       clip-path="url(#clipEmfPath14)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,76.530515)">
+      <text
+         id="text225"
+         y="21.75293"
+         x="0"
+         transform="translate(139.95591,770.42394)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan223"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan221"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">脉</tspan></tspan></text>
+    </g>
+    <g
+       id="g229"
+       clip-path="url(#clipEmfPath15)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g259"
+       clip-path="url(#clipEmfPath15)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,83.938853)">
+      <text
+         id="text251"
+         y="21.75293"
+         x="25.3125"
+         transform="translate(13.329134,391.87653)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan233"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan231"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">诊</tspan></tspan><tspan
+           id="tspan245"
+           y="55.075764"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan235"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan><tspan
+           id="tspan249"
+           y="55.075764"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan247"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+      <text
+         id="text257"
+         y="188.3671"
+         x="0"
+         transform="translate(13.329134,391.87653)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan255"
+           y="188.3671"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan253"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">察</tspan></tspan></text>
+    </g>
+    <g
+       id="g261"
+       clip-path="url(#clipEmfPath16)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g289"
+       clip-path="url(#clipEmfPath16)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,79.705517)">
+      <text
+         id="text271"
+         y="21.75293"
+         x="25.3125"
+         transform="translate(63.979843,545.16157)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan265"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan263"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">望</tspan></tspan><tspan
+           id="tspan269"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan267"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+      <text
+         id="text281"
+         y="88.398598"
+         x="25.3125"
+         transform="translate(63.979843,545.16157)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan275"
+           y="88.398598"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan273"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">闻</tspan></tspan><tspan
+           id="tspan279"
+           y="88.398598"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan277"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+      <text
+         id="text287"
+         y="155.04427"
+         x="0"
+         transform="translate(63.979843,545.16157)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan285"
+           y="155.04427"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan283"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">查</tspan></tspan></text>
+    </g>
+    <g
+       id="g291"
+       clip-path="url(#clipEmfPath17)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g309"
+       clip-path="url(#clipEmfPath17)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,83.938853)">
+      <text
+         id="text301"
+         y="21.75293"
+         x="25.3125"
+         transform="translate(139.95591,261.25102)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan295"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan293"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">全</tspan></tspan><tspan
+           id="tspan299"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan297"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+      <text
+         id="text307"
+         y="88.398598"
+         x="0"
+         transform="translate(139.95591,261.25102)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan305"
+           y="88.398598"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan303"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">身</tspan></tspan></text>
+    </g>
+    <g
+       id="g311"
+       clip-path="url(#clipEmfPath18)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g323"
+       clip-path="url(#clipEmfPath18)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,80.763851)">
+      <text
+         id="text321"
+         y="21.75293"
+         x="0"
+         transform="translate(139.95591,413.20315)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan315"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan313"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">局</tspan></tspan><tspan
+           id="tspan319"
+           y="56.899395"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan317"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">部</tspan></tspan></text>
+    </g>
+    <g
+       id="g325"
+       clip-path="url(#clipEmfPath19)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g343"
+       clip-path="url(#clipEmfPath19)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,79.705517)">
+      <text
+         id="text335"
+         y="21.75293"
+         x="25.3125"
+         transform="translate(139.95591,533.16535)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:131.64576292%;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan329"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan327"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">检</tspan></tspan><tspan
+           id="tspan333"
+           y="21.75293"
+           x="25.3125"
+           sodipodi:role="line"><tspan
+             id="tspan331"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000" /></tspan></text>
+      <text
+         id="text341"
+         y="88.398598"
+         x="0"
+         transform="translate(139.95591,533.16535)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan339"
+           y="88.398598"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan337"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">查</tspan></tspan></text>
+    </g>
+    <g
+       id="g345"
+       clip-path="url(#clipEmfPath20)"
+       transform="matrix(0.26458333,0,0,0.26458333,-150.72371,-65.890915)" />
+    <g
+       id="g353"
+       clip-path="url(#clipEmfPath20)"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,77.059682)">
+      <text
+         id="text351"
+         y="21.75293"
+         x="0"
+         transform="translate(114.63055,702.44535)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;line-height:125%;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan349"
+           y="21.75293"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan347"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:25.3125px;fill:#000000"
+             dy="0"
+             dx="0">舌</tspan></tspan></text>
+    </g>
+    <path
+       id="path357"
+       d="m 0,78.64189 h 1.3329134 v 726.4378 H 0 Z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25335754,7.6483135,84.821671)" />
+    <path
+       id="path361"
+       d="m 202.60283,79.974803 h 1.33292 V 805.07969 h -1.33292 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25363663,7.6483135,84.53083)" />
+    <path
+       id="path363"
+       d="M 319.89921,79.974803 V 805.07969"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25355982,7.6483135,84.450937)" />
+    <path
+       id="path369"
+       d="m 1167.6321,79.974803 h 1.3329 V 805.07969 h -1.3329 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25389727,-84.955901,84.264301)" />
+    <path
+       id="path371"
+       d="M 1251.6057,79.974803 V 805.07969"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25395547,-86.543402,84.368635)" />
+    <path
+       id="path377"
+       d="m 899.71654,125.29386 h 1.33291 v 679.78583 h -1.33291 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25283736,-66.074372,85.127069)" />
+    <path
+       id="path381"
+       d="m 1038.3395,125.29386 h 1.3329 v 679.78583 h -1.3329 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25325437,-75.960062,84.829135)" />
+    <path
+       id="path385"
+       d="m 50.650709,170.61291 h 1.332913 v 634.46678 h -1.332913 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25210261,7.6483135,85.831989)" />
+    <path
+       id="path389"
+       d="m 101.30142,215.93197 h 1.33291 v 589.14772 h -1.33291 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.25106235,7.6483135,86.669476)" />
+    <path
+       id="path393"
+       d="m 151.95213,669.12252 h 1.33291 v 90.63811 h -1.33291 z"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6483135,77.059682)" />
+    <path
+       id="path395"
+       d="M 1.3329134,78.64189 H 1252.9386"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.18885628,0,0,0.26458333,7.7211795,83.938853)" />
+    <path
+       id="path399"
+       d="M 321.23213,123.96094 H 1168.965"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.15569738,0,0,0.26458333,42.242501,83.938853)" />
+    <path
+       id="path403"
+       d="M 1.3329134,169.28 H 1252.9386"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.18896426,0,0,0.26458333,7.7168315,83.938853)" />
+    <path
+       id="path407"
+       d="M 51.983622,214.59906 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.17969568,0,0,0.26458333,12.016778,83.938853)" />
+    <path
+       id="path411"
+       d="M 203.93575,259.91811 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16445507,0,0,0.26458333,28.000363,82.880519)" />
+    <path
+       id="path415"
+       d="M 203.93575,305.23717 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.1642293,0,0,0.26458333,28.046252,82.351352)" />
+    <path
+       id="path419"
+       d="M 203.93575,350.55622 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16496063,0,0,0.26458333,27.477587,82.445846)" />
+    <path
+       id="path423"
+       d="M 102.63433,395.87528 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.17509099,0,0,0.26458333,16.634077,82.105667)" />
+    <path
+       id="path427"
+       d="M 203.93575,441.19433 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16497132,0,0,0.26458333,27.49132,81.954476)" />
+    <path
+       id="path431"
+       d="M 51.983622,486.51339 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.18004736,0,0,0.26458333,11.809578,81.274119)" />
+    <path
+       id="path435"
+       d="M 203.93575,531.83244 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16473107,0,0,0.26458333,27.790499,80.234684)" />
+    <path
+       id="path439"
+       d="M 203.93575,577.1515 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16409168,0,0,0.26458333,28.170237,79.17635)" />
+    <path
+       id="path443"
+       d="M 203.93575,622.47055 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.16473137,0,0,0.26458333,27.571929,78.118016)" />
+    <path
+       id="path447"
+       d="M 102.63433,667.78961 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.17528603,0,0,0.26458333,16.593399,77.059682)" />
+    <path
+       id="path451"
+       d="M 153.28504,713.10866 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.17011671,0,0,0.26458333,21.970224,77.059682)" />
+    <path
+       id="path455"
+       d="M 51.983622,758.42772 H 1039.6724"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.17975564,0,0,0.26458333,11.999604,77.588849)" />
+    <path
+       id="path459"
+       d="M 1.3329134,803.74677 H 1252.9386"
+       clip-path="url(#clipEmfPath1)"
+       style="fill:none;stroke:#000000;stroke-width:1.3329134px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.18923815,0,0,0.26458333,7.5845885,76.001348)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.279762"
+       y="93.648811"
+       id="text726"><tspan
+         sodipodi:role="line"
+         id="tspan724"
+         x="67.279762"
+         y="103.30431"
+         style="line-height:0;stroke-width:0.26458332" /></text>
+    <text
+       id="text79-5-9"
+       y="125.63953"
+       x="113.73338"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.69726563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan77-9-5"
+         y="125.63953"
+         x="113.73338"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332">理 论 依 据</tspan></text>
+  </g>
+</svg>

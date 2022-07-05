@@ -1,0 +1,51 @@
+###  脱证 
+
+脱证，是以亡阴亡阳为特征的病症，有暴脱、虚脱之分。临床上因中风、大汗、剧泻、大失血等导致阴阳离决者，称为暴脱；若人病元气虚弱，精气逐渐消亡所引起者，则称虚脱。
+
+ 凡心力衰竭，周围循环衰竭等，均可参照本节辨证治疗。 
+
+〔病因病机〕 
+
+脱证的病因病机主要是在高热大汗、剧烈吐泻、失血过多的情况下，阴液、阳气迅速亡失所致。汗为阴液，血亦属阴，大汗、大出血则阴随血汗而消亡。由于阴阳互根，阴竭则阳亡，精乃气血所化，血脱则精亡，阳亡则阴无以化而告竭，所以亡阴与亡阳，互为因果，难以截然分开，只是先后主次不同而已。
+
+〔辨证论治〕
+
+汗出粘而热，兼见肌肤热，手足温，口渴喜冷饮，甚则昏迷，脉细数，按之无力为亡阴证；大汗淋漓，汗清稀而凉，兼见肌肤凉，手足冷，口不渴，喜热饮，踡卧神疲，甚则昏不知人，脉微欲绝为亡阳证。
+
+ **体针**
+
+治则  回阳固脱，调节阴阳，取督脉、任脉经穴为主。
+
+处方  水沟  [素髎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.25.md)  [神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)
+
+方义  督脉总统一身之阳，任脉维系一身之阴，取二经穴为主，调节阴阳以防离决。水沟、[素髎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.25.md)，有醒脑和振奋阳气的作用；[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)，重灸有回阳固脱的作用，二穴又系于元气，阴中有阳，故用于本证较为适宜。[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)为足少阴经井穴，可引上越之浮阳下归其宅；取[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)以益气助阳，固表止汗。如亡阴加[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)以补阴；亡阳加[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以回阳；心阳不振加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以振奋心阳。 
+
+治法  毫针刺用补并灸。水沟横刺，[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)重灸。
+
+**耳针** 
+
+取穴  下屏尖、心、脑、枕。 
+
+刺法  轻刺激。间歇运针，留针1〜2小时。 
+
+〔应用例案〕  
+
+翁XX，女，28岁。因[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)破裂急诊入院。在醚麻下施行[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)次全切除术，腹腔内出血1500ml。于手术将终时，病情突变，呈潮氏呼吸，全身发绀，四肢冰冷，脉细如丝，血压不能测得，即施行人工呼吸，加速输液，连续用急救药，并无好转。半小时后瞳孔散大，口吐泡沫，心跳缓慢无力，于是针灸[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)。不久颜面口唇转红，脉搏逐渐加强，瞳孔收缩，呼吸深长，呈叹息声。  3小时后脱险（《针灸临床经验辑要》）。
+
+〔文献摘录〕
+
+久冷伤惫脏腑，泄利不止，中风不省人事等疾，宜灸[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)（《针灸资生经》）。
+
+尸厥卒倒气脱：[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)（《类经图翼》）。 
+
+针灸治疗虚脱61例。取穴：[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)，还可适当配合[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)、[中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)等穴。方法：毫针强刺激，不留针，或艾卷悬灸2～5分钟。对脑贫血虚脱、外伤性休克、腹痛休克等只灸不针。对中暑虚脱只针不灸。对妊娠虚脱、产后虚脱，或针或灸，酌情应用。疗效：通过上法治疗，有效率达99%（《哈尔滨中医》）。
+
+**复习思考题**
+
+1.何谓脱证？ 
+
+2.脱证发病原因是什么？ 
+
+3.亡阴亡阳证的症状是什么？ 
+
+4.简述针刺治疗脱证的处方、方义和治法。 

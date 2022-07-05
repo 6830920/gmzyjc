@@ -1,0 +1,74 @@
+### 小儿遗尿
+
+遗尿，是指3周岁以上的小儿，睡眠中小便经常自遗，醒后方觉的一种病证，俗称：尿床。
+
+〔病因病机〕
+
+肾主闭藏，司气化，膀胱有贮藏和排泄小便的功能，若肾气不足，下元不固，每致膀胱约束无权，而发生遗尿。肺主一身之气，有通调[水道](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.28.md)，下输膀胱的功能；脾主中气，有运化水谷而制水的作用，若脾肺气虚，上虚不能制下，膀胱约束无力，因而发生遗尿。
+
+〔辨证论治〕
+
+体针
+
+（一）肾阳不足
+
+症状  睡中遗尿，醒后方觉，一夜可发生1～2次或更多，兼见面色㿠白，智力迟顿，腰膝痠软，小便清长而频数，甚则肢冷恶寒，脉沉迟无力。
+
+治则  温补肾阳。取任脉、督脉穴为主。
+
+处方  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)  [太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)
+
+方义  取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)补益肾气；肾与膀胱相表里，故可取[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)和[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)，俞募相配。肾气充实，则膀胱约束有权。如睡眠深沉加[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以补气调神；小便数遗灸[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)，[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)为肝经井穴；肝经绕阴器，过小腹，灸之温通阴器，可止遗尿。
+
+治法  毫针刺补法、并灸。留针10～20 分钟，每日或隔日1次， 6次为一疗程。
+
+（二）肺脾气虚
+
+症状  多发生于病后或身体虚弱者，睡中遗尿，但尿频而量少，兼见面色㿠白，精神倦怠，四肢乏力，饮食不振，大便稀溏，舌质淡，脉缓或沉细。
+
+治则  补益脾肺。取任脉、手足太阴、足阳明经穴为主。
+
+处方  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+
+方义  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)属任脉，能调补下焦；[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)补益中气，[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)补益肺气。诸穴相配，使脾气能升，肺气能降，膀胱得以制约，则遗尿可止。如便溏加[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)以健脾温肾，尿频数加[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)以补气调小便。
+
+治法  毫针剌用补法，并灸。
+
+耳针
+
+取穴  肾、膀胱、缘中、脑、枕、尿道区敏感点。
+
+刺法  中等刺激。每次选用2～3穴，每日1次，留针20 分钟，亦可耳穴埋针。
+
+头针
+
+取穴  足运感区、生殖区。
+
+剌法  沿皮刺，捻转1分钟，或用电针，留针15分钟。
+
+〔应用例案〕
+
+黄××，男，12岁。自诉：自幼即有遗尿，不分冬夏，每夜尿床。白天小便频数。查：无重要异常可见，诊断为遗尿症。治取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)得气[至阴](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.67.md)器，其它得气即留针，每次各穴均留40 分钟。针第一次即停止尿床，针四次后，白天已能隔四小时小便一次。一疗程结束，间歇四天，每晚不需父母叫唤，能自行起床小便，但次数较多，平均要三、四次。二疗程结束后，无尿床现象，晚上小便次数亦已减少（摘自《现代针灸医案选》）。
+
+〔文献摘录〕
+
+遗尿：[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)（《类经图翼》）。
+
+遗溺：[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)（《针灸大成》）。
+
+针灸治疗小儿遗尿43例。均为7～15岁的小学生。病程最短者为1年，最长者达8年以上。取穴：第一组处方，取[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)；第二组处方，取[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、丹田、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)。操作：每日于睡前治疗1次，不留针。针后施以艾条灸法，灸3～5分钟，[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)只灸不针。10次为一疗程。疗效：痊愈者28例，进步者13例，无效者2例。治愈率为65.1％，有效率为95.4％（《针灸临床经验辑要》）。
+
+针刺小儿遗尿85例，其中男54例，女31例，年龄最小者3岁半，最大者62岁，其中3岁半~4岁者2例，5~10岁者29例，11~18岁者45例，11年以上者8例，多数患者自幼年即有此症，少数病人从5~8岁起发病，个别患者系成年以后发病，大部分患者每晚遗尿，少数患者每周遗尿3~5夜，个别病例间隔时间更长一些，多数病人每晚遗尿1~2次，少数遗尿3~5次。部分病人兼有其他肾虚见症。如头晕，腰痠，腿软，记忆力减退，白天多尿等，成年病人则因患此症致精神负担过重，从而加重了病情。以[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)为主穴，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)等配穴，每次用2个主穴，或选加1~2个配穴，主穴分
+为3组，（1）[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)（针）、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)（灸）；（2）[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)（针）、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)（灸）；（3）[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)（针）、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)（灸）。具体运用时有以下3种情况：（1）单纯应用1组主穴；（2）两组主穴交替应用；（3）主穴与配穴并用。[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)穴可左右交替应用.每次只针1侧。每日治疗1次，5次为一疗程。经治疗后，显效者33例，（治疗1个疗程者8例，2个疗程者18例，3个疗程者13例）；减轻者41例，无效者5例，( 治疗1个疗程者3例，2个疗程者2例），有效率为94.1% (《针灸医学验集》)。
+
+复习思考题
+
+1.什么是遗尿？
+
+2.小儿遗尿的发病原因是什么？
+
+3.肾阳虚遗尿和脾肺气虚遗尿的症状有何不同？
+
+4.简述遗尿证的针灸处方、方义和治法。
+
+5.请举例叙述二种其他治疗方法。

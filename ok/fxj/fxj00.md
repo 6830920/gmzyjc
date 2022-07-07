@@ -2,13 +2,13 @@
 
 
 
-贞白先生《[辅行诀脏腑用药法要](http://www.zysj.com.cn/lilunshuji/fuxingjuezangfuyongyaofayao/index.html)》：[伤寒论](http://www.zysj.com.cn/lilunshuji/shanghanlun/index.html)经方的密钥 
+贞白先生《辅行诀脏腑用药法要》：伤寒论经方的密钥 
 
-**网友：[寿世保元](http://www.zysj.com.cn/lilunshuji/shoushibaoyuan/index.html)的这次校正采用文本：** 
+**网友：寿世保元的这次校正采用文本：** 
 
 1.志一先生的帖子： http://www.cntcm.org/cgi-bin/topic.cgi?forum=19&topic=58&show=0 
 
-2.[三七](http://www.zysj.com.cn%2Fzhongyaocai/yaocai_s/sanqi.html)生先生的校订本：http://37tcm.com/cgi-bin/topic.cgi?forum=35&topic=5&show=0 
+2.三七生先生的校订本：http://37tcm.com/cgi-bin/topic.cgi?forum=35&topic=5&show=0 
 
 3.求真堂主先生的再校订本： http://www.cntcm.org/cgi-bin/topic.cgi?forum=19&topic=58&start=12&show=0 
 

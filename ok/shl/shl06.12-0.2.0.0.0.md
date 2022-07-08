@@ -374,7 +374,7 @@
 
 **伤寒六七日，大下后，寸脉沉而迟，手足厥逆，下部脉不至，喉咽不利，唾脓血，泄利不止者，为难治⑴。麻黄升麻汤主之⑵。[357]**
 
-**麻黄**<small>二两半，去节</small>  **升麻**<small>一两一分</small>  **当归**<small>一两一分</small>  **知母**<small>十八铢</small>  **黄芩**<small>十八铢</small>  **萎蕤**<small>十八铢，一作菖蒲</small>  **芍药**<small>六铢</small>  **天门冬**<small>六铢，去心</small>  **桂枝**<small>六株，去皮</small>  **茯苓**<small>六铢</small>  **甘草**<small>六株，炙</small>  **石膏**<small>六铢、碎，绵裹</small>   **白术**<small>六株</small>   **干姜**<small>六铢</small>
+**麻黄**<small>二两半，去节</small>  **升麻**<small>一两一分</small>  **当归**<small>一两一分</small>  **知母**<small>十八铢</small>  **黄芩**<small>十八铢</small>  **萎蕤**<small>十八铢，一作菖蒲</small>  **芍药**<small>六铢</small>  **天门冬**<small>六铢，去心</small>  **桂枝**<small>六株，去皮</small>  **茯苓**<small>六铢</small>  **甘草**<small>六铢，炙</small>  **石膏**<small>六铢、碎，绵裹</small>   **白术**<small>六株</small>   **干姜**<small>六铢</small>
 
 **上十四味，以水一斗，先煮麻黄一两沸，去上沫，内诸药，煮取三升，去滓。分温三服。相去如炊三斗米顷令尽，汗出愈。**
 

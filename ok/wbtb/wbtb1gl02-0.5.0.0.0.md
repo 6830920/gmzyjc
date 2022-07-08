@@ -6,7 +6,7 @@
 
 **玉竹麦门冬汤**<small>(甘寒法)</small>
 
-玉竹<small>三钱</small>  麦冬<small>三钱 </small>  沙参<small>一钱 </small>  生甘草<small>二钱</small>
+**玉竹**<small>三钱</small>  **麦冬**<small>三钱 </small>  **沙参**<small>一钱 </small>  **生甘草**<small>二钱</small>
 
 **水五杯，煮取二杯，分二次服。土虚者，加生扁豆，气虚者，加人参。**
 
@@ -24,7 +24,7 @@
 
 **牛乳饮**<small>(甘寒方）</small>
 
-牛乳<small>一杯</small>
+**牛乳**<small>一杯</small>
 
 重汤燉熟，顿服之，甚者日再服。
 

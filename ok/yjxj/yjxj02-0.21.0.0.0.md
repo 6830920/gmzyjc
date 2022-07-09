@@ -6,7 +6,7 @@
 
 本书的编写平中见奇，常中存妙，如卷一“药性歌”录常用药二百四十种，编成简括歌诀，扼要说明了药味的性味，主要作用和主病，既可作为初学中医者掌握药物性能的入门读物，也可供临床医务工作者借鉴。
 
-《万病回春》辨证清晰，方药精当，充分显示了龚氏高超的医疗技艺。如内科证治的中暑病，有属汗法的[香薷](https://www.gmzyjc.com/read/bc/bc01-1.1.12.0.0.md)饮，有属清法的[人参](https://www.gmzyjc.com/read/bc/bc17-0.1.1.0.0.md)[白虎汤](https://www.gmzyjc.com/read/fjx/fjx04-0.1.0.0.0.md)，这些都是其主要方剂。暑伤气，热伤阴，因而又设[生脉散](https://www.gmzyjc.com/read/fjx/fjx07-0.9.0.0.0.md)、[清暑益气汤](https://www.gmzyjc.com/read/fjx/fjx01-0.5.0.0.0.md)之类。龚氏用药灵活，善于化裁，如治痰湿的[二陈汤](https://www.gmzyjc.com/read/fjx/fjx12-0.1.0.0.0.md)，就是在原[二陈汤](https://www.gmzyjc.com/read/fjx/fjx12-0.1.0.0.0.md)的基础上加[白术](https://www.gmzyjc.com/read/bc/bc17-0.1.5.0.0.md)、[苍术](https://www.gmzyjc.com/read/bc/bc04-0.0.2.0.0.md)、[砂仁](https://www.gmzyjc.com/read/bc/bc04-0.0.4.0.0.md)、[山药](https://www.gmzyjc.com/read/bc/bc17-0.1.6.0.0.md)、车前、[木通](https://www.gmzyjc.com/read/bc/bc05-0.0.8.0.0.md)等药，并注明泻下不止加肉蔻、[诃子](https://www.gmzyjc.com/read/bc/bc18-0.0.7.0.0.md)，或选香砂六君子汤加减，滑泻不止灸[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。足资可见他丰富的临床经验。
+《万病回春》辨证清晰，方药精当，充分显示了龚氏高超的医疗技艺。如内科证治的中暑病，有属汗法的香薷饮，有属清法的人参白虎汤，这些都是其主要方剂。暑伤气，热伤阴，因而又设生脉散、清暑益气汤之类。龚氏用药灵活，善于化裁，如治痰湿的二陈汤，就是在原二陈汤的基础上加白术、苍术、砂仁、山药、车前、木通等药，并注明泻下不止加肉蔻、诃子，或选香砂六君子汤加减，滑泻不止灸百会、天枢、中脘、气海。足资可见他丰富的临床经验。
 
 本书是一部价值较高的临床参考书。
 

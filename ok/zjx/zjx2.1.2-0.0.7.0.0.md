@@ -24,9 +24,9 @@
 
 治则  清热保津。取阳明经穴为主。
 
-处方  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [腹结](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.14.md)  [上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)
+处方  合谷  曲池  腹结  上巨虚
 
-方义  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)泻阳明之热，清热即保津；[上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)是大肠的合穴，配[腹结](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.14.md)行津液以疏通大肠腑气，此乃增水行舟之法。烦热口渴可加[少府](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.8.md)、[廉泉](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.21.md)以除烦止渴；头痛加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)以止头痛；口臭加[承浆](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.22.md)以清热解毒。
+方义  合谷、曲池泻阳明之热，清热即保津；上巨虚是大肠的合穴，配腹结行津液以疏通大肠腑气，此乃增水行舟之法。烦热口渴可加少府、廉泉以除烦止渴；头痛加印堂以止头痛；口臭加承浆以清热解毒。
 
 治法  针用泻法。
 
@@ -36,9 +36,9 @@
 
 治则  疏肝理气。取任脉、足厥阴经穴为主。
 
-处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)
+处方  中脘  阳陵泉  气海  行间
 
-方义  腑会[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)，配[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以疏通腑气；足厥阴与足少阳为表里，[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)配[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)疏肝理气，解郁利胆，使疏泄有常，腑气通降，则便秘可通。胁痛甚者加[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[日月](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.24.md)以疏肝止痛；腹胀甚者加[大横](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.15.md)以理肠消胀。
+方义  腑会中脘，配气海以疏通腑气；足厥阴与足少阳为表里，行间配阳陵泉疏肝理气，解郁利胆，使疏泄有常，腑气通降，则便秘可通。胁痛甚者加期门、日月以疏肝止痛；腹胀甚者加大横以理肠消胀。
 
 治法  针用泻法。
 
@@ -48,9 +48,9 @@
 
 治则  补气养血。取足阳明、太阴经穴为主，任脉及背俞穴为辅。
 
-处方  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)  [胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)  [大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)
+处方  脾俞  胃俞  大肠俞  三阴交  足三里  关元
 
-方义  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)配[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，为脏腑经络表里配穴法，目的在于鼓舞中气，增生化之源，中焦健旺，自能生气化血。再取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)补下焦之气，配[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)，以助排便传送之力。多汗加[阴郄](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.6.md)以养阴固表；心悸加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以宁心安神
+方义  脾俞、三阴交配胃俞、足三里，为脏腑经络表里配穴法，目的在于鼓舞中气，增生化之源，中焦健旺，自能生气化血。再取关元补下焦之气，配大肠俞，以助排便传送之力。多汗加阴郄以养阴固表；心悸加内关以宁心安神
 
 治法  针用补法，并可加灸。
 
@@ -60,9 +60,9 @@
 
 治则  补肾助阳。取任脉、足少阴经穴为主，背俞穴为辅。
 
-处方  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)  [石关](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.18.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [关元俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.26.md)
+处方  气海  照海  石关  肾俞  关元俞
 
-方义  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.26.md)助阳逐冷，温煦下焦以散凝结。[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[石关](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.18.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)补益肾气，使肾气复振，能司二便之权，则尿频可止，便秘可通。脱肛者加[长强](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.1.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以升提下陷；腰痛加[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)以舒筋止痛。
+方义  气海、关元俞助阳逐冷，温煦下焦以散凝结。照海、石关、肾俞补益肾气，使肾气复振，能司二便之权，则尿频可止，便秘可通。脱肛者加长强、百会以升提下陷；腰痛加委中以舒筋止痛。
 
 治法  针用补法。
 
@@ -74,17 +74,17 @@
 
 〔应用例案〕
 
-杜××，女，50岁。自诉：大便艰涩难排，3～5天一行，至今已2～3年，近数月来间隔7～8日始能排便一次，虽用力努争，仍不通畅，伴纳差，腹胀，苔滑，曾服[蜂蜜](https://www.gmzyjc.com/read/bc/bc02-0.2.4.0.0.md)等润肠，无效。治以[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[大横](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.15.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)，用提插泻法，每日针一次，每次针后一小时内能排便少量，但逾时就难排出，故嘱其每日规定时间入厕，以配合针治，针至10次，大便趋正常（摘自《现代针灸医案选》）。
+杜××，女，50岁。自诉：大便艰涩难排，3～5天一行，至今已2～3年，近数月来间隔7～8日始能排便一次，虽用力努争，仍不通畅，伴纳差，腹胀，苔滑，曾服蜂蜜等润肠，无效。治以大肠俞、大横、支沟，用提插泻法，每日针一次，每次针后一小时内能排便少量，但逾时就难排出，故嘱其每日规定时间入厕，以配合针治，针至10次，大便趋正常（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-大便不通：[承山](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.57.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[小肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.27.md)、[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)、[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)（《神应经》）。
+大便不通：承山、太溪、照海、太冲、小肠俞、太白、章门、膀胱俞（《神应经》）。
 
-大便秘结，不通：[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)(《针灸大成》)。
+大便秘结，不通：章门、太白、照海(《针灸大成》)。
 
-针灸治疗顽固性便秘50例，收到较好效果。治疗方法是，选左侧的[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)、[水道](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.28.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)及[水道](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.28.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)各旁开2寸处，均施捻转泻法，刺入1.5至2寸深，针1分钟，留针30分钟，每日1次。结果有效48例，无效2例（《中医杂志》）。
+针灸治疗顽固性便秘50例，收到较好效果。治疗方法是，选左侧的丰隆、水道、归来及水道、归来各旁开2寸处，均施捻转泻法，刺入1.5至2寸深，针1分钟，留针30分钟，每日1次。结果有效48例，无效2例（《中医杂志》）。
 
-针灸治疗习惯性便秘40例，其中男16例，女24例；年龄以20~40岁者居多。针刺取穴：第一次取[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)；第二次取[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)；第三次取[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)。采用轻刺激兴奋法，以促进肠蠕动。有的留针15分钟，或单独用艾条灸两侧[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)5——10分钟。每周治疗3次，6一12次为1疗程。治疗结果：一般病程较久者收效较慢，反之则疗效较快，排便间隔日数，在治疗后均缩短，针后于当天排便者9人。由针前5——6天缩短至针后的1——2天排便1次者，均作为有效。全组病例有效者36例，无效者4例。针治次数最少者4次，最多者20次(《针灸医学验集》)。
+针灸治疗习惯性便秘40例，其中男16例，女24例；年龄以20~40岁者居多。针刺取穴：第一次取支沟，足三里；第二次取大肠俞；第三次取天枢、丰隆。采用轻刺激兴奋法，以促进肠蠕动。有的留针15分钟，或单独用艾条灸两侧大肠俞5——10分钟。每周治疗3次，6一12次为1疗程。治疗结果：一般病程较久者收效较慢，反之则疗效较快，排便间隔日数，在治疗后均缩短，针后于当天排便者9人。由针前5——6天缩短至针后的1——2天排便1次者，均作为有效。全组病例有效者36例，无效者4例。针治次数最少者4次，最多者20次(《针灸医学验集》)。
 
 复习思考题
 

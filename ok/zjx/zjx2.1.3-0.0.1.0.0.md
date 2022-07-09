@@ -18,9 +18,9 @@
 
 治则  疏肝理气，解郁止痛。取足厥阴、少阳经穴为主，任脉及背俞穴为辅。
 
-处方  [肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)  [期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)  [侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)  [中庭](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.15.md)
+处方  肝俞  期门  侠溪  中庭
 
-方义  [期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)为肝之募穴，配[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)为俞募配穴法，有疏肝理气、解郁止痛之功；[侠溪](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.43.md)为胆之荥穴，配[中庭](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.15.md)善解少阳之郁火，止胸胁疼痛。泛酸加[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)健脾消积止酸；少寐加[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以宁心安神。
+方义  期门为肝之募穴，配肝俞为俞募配穴法，有疏肝理气、解郁止痛之功；侠溪为胆之荥穴，配中庭善解少阳之郁火，止胸胁疼痛。泛酸加胃俞健脾消积止酸；少寐加神门以宁心安神。
 
 治法  毫针刺，用泻法。背俞穴要注意方向和深度，以防刺伤相关脏器。
 
@@ -30,9 +30,9 @@
 
 治则  清热化湿，疏肝利胆。取足厥阴、手足少阳经穴为主。
 
-处方  [期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)  [日月](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.24.md)  [支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)  [阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)
+处方  期门  日月  支沟  阳陵泉  太冲
 
-方义  [期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[日月](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.24.md)是肝胆之气募集之处，有疏泄肝胆经气，使气血畅通，奏理气止痛之功；[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)，泻之能和解少阳而清热化湿，是治疗胁痛常用穴。热重加[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)以清热；呕恶腹胀加[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)以健胃止呕；心烦加[郄门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.4.md)以宁心安神。
+方义  期门、日月是肝胆之气募集之处，有疏泄肝胆经气，使气血畅通，奏理气止痛之功；支沟、阳陵泉、太冲，泻之能和解少阳而清热化湿，是治疗胁痛常用穴。热重加大椎以清热；呕恶腹胀加中脘、足三里以健胃止呕；心烦加郄门以宁心安神。
 
 治法  毫针刺，用泻法，胸部穴位宜斜刺。
 
@@ -42,9 +42,9 @@
 
 治则  活血通络，行气止痛。取足厥阴、少阳经穴为主，足太阴和背俞穴为辅。
 
-处方  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)  [大包](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.21.md)  [京门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.25.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  行间  大包  京门  膈俞  三阴交
 
-方义  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)为血会，配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)以活血消瘀；[大包](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.21.md)是脾之大络，配[京门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.25.md)以通络止痛；[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)疏肝行气，气行则血行，血行则络通，而胁痛可止。跌仆损伤，可结合痛部取穴。
+方义  膈俞为血会，配三阴交以活血消瘀；大包是脾之大络，配京门以通络止痛；行间疏肝行气，气行则血行，血行则络通，而胁痛可止。跌仆损伤，可结合痛部取穴。
 
 治法  毫针刺，用泻法。
 
@@ -54,21 +54,21 @@
 
 治则  滋阴养血，和络定痛。取足太阴脾、阳明及手少阴经穴为主。
 
-处方  [血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  [阴郄](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.6.md)  [心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)
+处方  血海  三阴交  阴郄  心俞
 
-方义  [阴郄](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.6.md)配[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)敛汗以养阴；[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)补阴以养血，阴血充沛，络脉得以濡养，而胁痛可平。
+方义  阴郄配心俞敛汗以养阴；血海配三阴交补阴以养血，阴血充沛，络脉得以濡养，而胁痛可平。
 
 治法  毫针刺用补法，或平补平泻法。
 
 耳针
 
-取穴  胸、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、肝。
+取穴  胸、神门、肝。
 
 刺法  取患侧2～3穴，留针20～30分钟。实证用强刺激，虚证用轻刺激。
 
 水针
 
-用10％葡萄糖液10毫升，或加维生素B12注射液1毫升，注射于相应节段的[夹脊](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.4.0.md)穴，直刺达肋间神经根部附近，待有明显针感后，将针稍向上提再注入药液。取穴宜与胁肋痛点成水平，可分几个点注射。适用于肋间神经痛。
+用10％葡萄糖液10毫升，或加维生素B12注射液1毫升，注射于相应节段的夹脊穴，直刺达肋间神经根部附近，待有明显针感后，将针稍向上提再注入药液。取穴宜与胁肋痛点成水平，可分几个点注射。适用于肋间神经痛。
 
 皮肤针
 
@@ -76,17 +76,17 @@
 
 〔应用例案〕
 
-杨××，男，33岁。患心脏病行二尖瓣狭分离术，术后一般情况良好，惟后遗肋间神经痛，为持续性刺痛，甚则不能[安眠](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.11.0.md)，服镇痛药效果不佳。乃于手术后十四天采用针刺治疗。取穴：[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)，每天一次。针治第二次后，胸部疼痛即显著减轻，计11次胁肋疼痛完全消失而愈（江苏省中医院门诊病历）。
+杨××，男，33岁。患心脏病行二尖瓣狭分离术，术后一般情况良好，惟后遗肋间神经痛，为持续性刺痛，甚则不能安眠，服镇痛药效果不佳。乃于手术后十四天采用针刺治疗。取穴：心俞、支沟、神门，每天一次。针治第二次后，胸部疼痛即显著减轻，计11次胁肋疼痛完全消失而愈（江苏省中医院门诊病历）。
 
 〔文献摘录〕
 
-伤寒胁痛：[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)（出血）（《针灸大成》)。
+伤寒胁痛：支沟、章门、阳陵泉、委中（出血）（《针灸大成》)。
 
-胸胁痛：[天井](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.10.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、[大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)、三里、[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)、[足临泣](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.41.md)(《神应经》)。
+胸胁痛：天井、支沟、间使、大陵、三里、曲泉、足临泣(《神应经》)。
 
-针刺胁痛以[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)穴为主，配以[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)，[日月](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.24.md)，[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)穴。每日或间日针刺1次。病程短的或病情轻者单用主穴，久病或病情复杂者加配穴。进针的次序先针[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)，后针[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)，得气后继续捻针，最好使针感放散到胸胁部。共治疗40例，均见好转或接近痊愈(《针灸处方集》)。
+针刺胁痛以阳陵泉、支沟穴为主，配以期门，日月，肝俞穴。每日或间日针刺1次。病程短的或病情轻者单用主穴，久病或病情复杂者加配穴。进针的次序先针阳陵泉，后针支沟，得气后继续捻针，最好使针感放散到胸胁部。共治疗40例，均见好转或接近痊愈(《针灸处方集》)。
 
-针刺治疗肋间神经痛44例，主穴：[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)、[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、相应节段的[夹脊](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.4.0.md)穴。以强刺激泻法为主，留针30分钟，每10分钟捻针1次，每日1次，6次为1疗程。针后治愈33例，显效8例，无效3例（《针灸医学验集》）。
+针刺治疗肋间神经痛44例，主穴：支沟、蠡沟、阳陵泉、内关、相应节段的夹脊穴。以强刺激泻法为主，留针30分钟，每10分钟捻针1次，每日1次，6次为1疗程。针后治愈33例，显效8例，无效3例（《针灸医学验集》）。
 
 复习思考题
 

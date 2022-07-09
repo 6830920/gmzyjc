@@ -2,54 +2,54 @@
 
 1、前阴：该处主要表现为泌尿、生殖疾病的症状，治疗偏重于取足三阴经穴，若属虚寒，可配任脉腧穴施以灸法。
 
-小便频数：灸[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)。
+小便频数：灸肾俞、关元。
 
-小便黄赤：针[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)。
+小便黄赤：针三阴交、太溪、肾俞、气海。
 
-小便疼痛：针[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)。
+小便疼痛：针膀胱俞、中极、阴陵泉、行间、太溪。
 
-小便不通：针[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三焦俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.22.md)、[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。
+小便不通：针中极、三焦俞、膀胱俞、次髎、气海、三阴交。
 
-小便失禁：针灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)。
+小便失禁：针灸关元。
 
-遗精：针灸[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)，针[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[志室](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.52.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。
+遗精：针灸肾俞，针命门、志室、气海、中极、关元、三阴交。
 
-精浊自流：灸[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)。
+精浊自流：灸中极、关元、三阴交、肾俞。
 
-白浊：针灸[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。
+白浊：针灸肾俞、关元、三阴交。
 
-阳萎：针灸[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、八髎、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)。
+阳萎：针灸肾俞、气海、关元、足三里、阴陵泉、八髎、百会。
 
-阴举不衰：针[曲骨](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.2.md)、[少府](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.8.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)。
+阴举不衰：针曲骨、少府、三阴交、照海、蠡沟。
 
-阴茎痛：针灸[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[阴谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.10.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)。
+阴茎痛：针灸阴陵泉、曲泉、行间、太冲、阴谷、肾俞、中极、三阴交、大敦、太溪。
 
-阴肿：针灸[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。
+阴肿：针灸曲泉、太溪、大敦、肾俞、三阴交。
 
-阴缩：灸[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)，针[中封](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.4.md)。
+阴缩：灸大敦、关元，针中封。
 
-睾丸肿痛：针八髎、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[膀胱俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.28.md)。
+睾丸肿痛：针八髎、气海、关元、中极、归来、足三里、三阴交、膀胱俞。
 
-卒疝睾肿暴痛：针[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[阴市](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.33.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[下巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.39.md)、[小肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.27.md)，或灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)。
+卒疝睾肿暴痛：针蠡沟、大敦、阴市、照海、下巨虚、小肠俞，或灸关元、大敦。
 
 诸疝上冲气欲绝：灸独阴。
 
 2、后阴：泻、痢、便秘、便血，症在后阴，病在肠胃，故治疗以足阳明、太阴及任脉腧穴为主，并配以胃、大肠、小肠的俞、募穴。
 
-腹泻：针灸[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。
+腹泻：针灸水分、天枢、气海、大肠俞、足三里、三阴交。
 
-暴泄：针灸[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)。
+暴泄：针灸隐白。
 
-霍乱暴泄：针[大都](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.2.md)、[昆仑](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.60.md)、[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)。
+霍乱暴泄：针大都、昆仑、期门、阴陵泉、中脘。
 
-大便不禁：灸[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)。
+大便不禁：灸大肠俞、关元。
 
-大便秘结：针[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)。
+大便秘结：针大肠俞、天枢、支沟、上巨虚。
 
-大便下血：针灸[承山](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.57.md)、[解溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.41.md)、[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)、[带脉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.26.md)。
+大便下血：针灸承山、解溪、太白、带脉。
 
-下痢赤白：针灸[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)。
+下痢赤白：针灸合谷、天枢、上巨虚。
 
-里急后重：针灸[下脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.9.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)。
+里急后重：针灸下脘、天枢、照海。
 
-脱肛：针灸[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[长强](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.1.md)、[肩井](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.21.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[气冲](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.30.md)。
+脱肛：针灸大肠俞、百会、长强、肩井、合谷、气冲。

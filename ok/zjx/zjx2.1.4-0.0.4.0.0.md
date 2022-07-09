@@ -20,9 +20,9 @@
 
 治则  培补气血。取背俞、督脉及足少阳、阳明经穴。
 
-处方  [百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)  [风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)
+处方  百会  风池  膈俞  肾俞  足三里
 
-方义  本方灸[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以升清阳，针[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)以熄内风。[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)补血生精，[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)补中益气。使之气精血充盛，则髓海得以荣养，而眩晕可平。如心悸加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以宁心安神；少寐加[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以安神镇静；耳鸣加[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)以通络开窍。
+方义  本方灸百会以升清阳，针风池以熄内风。膈俞、肾俞补血生精，脾俞、足三里补中益气。使之气精血充盛，则髓海得以荣养，而眩晕可平。如心悸加内关以宁心安神；少寐加神门以安神镇静；耳鸣加听宫以通络开窍。
 
 治法  针宜补法，可灸。留针30分钟，每日1次，10次为一疗程。
 
@@ -32,15 +32,15 @@
 
 治则  平肝潜阳，和胃化痰。取任脉、督脉和足三阴经穴。
 
-处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)  [水泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.5.md)  [印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)
+处方  中脘  阴陵泉  行间  水泉  印堂
 
-方义  “诸风掉眩，皆属于肝”，故取[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)平肝降逆，[水泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.5.md)滋阴潜阳，[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)是经外奇穴，善清头目而止眩晕。又取胃募[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)和中止呕，脾合[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)健脾化湿，使湿除则痰自化，无痰则不作眩。如胁胀加[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)以清肝通络；头重如裹加[头维](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.8.md)以祛风泄火。
+方义  “诸风掉眩，皆属于肝”，故取行间平肝降逆，水泉滋阴潜阳，印堂是经外奇穴，善清头目而止眩晕。又取胃募中脘和中止呕，脾合阴陵泉健脾化湿，使湿除则痰自化，无痰则不作眩。如胁胀加阳陵泉以清肝通络；头重如裹加头维以祛风泄火。
 
 治法  针宜泻法，不灸。
 
 耳针
 
-取穴  肾、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、枕、内耳、脑。
+取穴  肾、神门、枕、内耳、脑。
 
 刺法  每次取2～3穴，中、强刺激，留针20～30分钟，间歇捻针，每日1次，5～7次为一疗程。
 
@@ -52,17 +52,17 @@
 
 〔应用例案〕
 
-曹操患头风，发即心乱目眩，华佗针[脑空](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.19.md)立愈（《针灸聚英》）。
+曹操患头风，发即心乱目眩，华佗针脑空立愈（《针灸聚英》）。
 
-周××，男，23岁。自诉：头目昏眩已7年，但发作不甚，近一月来发作频繁，发作时伴有呕吐、出汗。查：面色青暗无华，脉弦细，舌质淡，边有瘀斑。拟为肝经血瘀。针取[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)。针刺二次后眩晕好转，但劳累后偶作眩。四次后症状消失。随访年余未复发（摘自《现代针灸医案选》）。
+周××，男，23岁。自诉：头目昏眩已7年，但发作不甚，近一月来发作频繁，发作时伴有呕吐、出汗。查：面色青暗无华，脉弦细，舌质淡，边有瘀斑。拟为肝经血瘀。针取印堂、风池、三阴交、太冲。针刺二次后眩晕好转，但劳累后偶作眩。四次后症状消失。随访年余未复发（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-头眩：[目窗](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.16.md)、[络却](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.8.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[申脉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.62.md)、[至阴](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.67.md)（《神应经》）。
+头眩：目窗、络却、百会、申脉、至阴（《神应经》）。
 
-痰厥头晕及头目昏沉：[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)、[大敦](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.1.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)（《针灸大全》）。
+痰厥头晕及头目昏沉：外关、大敦、肝俞、百会（《针灸大全》）。
 
-阎至群医师采用[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)穴治疗眩晕证收到了较好效果。头眩晕无其他兼证，病属虚性者，只针[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)一穴。兼心悸者加[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[通里](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.5.md)；兼有痰火者加[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md);肝阳偏亢者加[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)；心肾不交者加[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；上肢麻木者加[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)；下肢麻木者加[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[昆仑](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.60.md)。治疗时可按病情的虚实，适当的运用提插、捻转或迎随补泻手法(《针灸处方集》)。
+阎至群医师采用风池穴治疗眩晕证收到了较好效果。头眩晕无其他兼证，病属虚性者，只针风池一穴。兼心悸者加心俞、通里；兼有痰火者加太阳、足三里;肝阳偏亢者加肝俞、足三里、太冲；心肾不交者加心俞、神门、三阴交；上肢麻木者加外关；下肢麻木者加阳陵泉、足三里、昆仑。治疗时可按病情的虚实，适当的运用提插、捻转或迎随补泻手法(《针灸处方集》)。
 
 复习思考题
 

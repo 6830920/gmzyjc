@@ -16,9 +16,9 @@
 
 治则  宣散风热，清肃肺气。取手阳明、太阴经穴为主。
 
-处方  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md) 
+处方  曲池  合谷  鱼际  大椎  外关 
 
-方义  大肠与肺互为表里，针剌手阳明经[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)，可清肺退热；[鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)为手太阴经荥穴，可泻肺热利咽喉；[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)为督脉经穴，又是诸阳之会，故可散阳邪以解热；[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)为手少阳之络通于阳维，可疏散在表之邪以解热。诸穴合用，可收解表清肺退热之功。如咽喉肿痛加[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)，用三棱针点刺出血，以泻热解毒；咳嗽加[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)以清肺止咳。 
+方义  大肠与肺互为表里，针剌手阳明经曲池、合谷，可清肺退热；鱼际为手太阴经荥穴，可泻肺热利咽喉；大椎为督脉经穴，又是诸阳之会，故可散阳邪以解热；外关为手少阳之络通于阳维，可疏散在表之邪以解热。诸穴合用，可收解表清肺退热之功。如咽喉肿痛加少商，用三棱针点刺出血，以泻热解毒；咳嗽加列缺以清肺止咳。 
 
 治法  毫针刺用泻法。每日针1〜2次，不留针。
 
@@ -32,9 +32,9 @@
 
 治则  清热祛邪。取督脉和手足阳明经穴为主。 
 
-处方  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)  [内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)  [关冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.1.md) 
+处方  大椎  曲池  商阳  内庭  关冲 
 
-方义  取诸阳之会[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)，手阳明经合穴[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)祛邪清热；合手阳明经井穴[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)，足阳明经荥穴[内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)，以泄胃腑之热；[关冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.1.md)为三焦经井穴，刺之可清泄气分之热。如高热不解加[十宣](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.4.1.0.md)以泄热，咳嗽胸痛加[中府](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.1.md)、[尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)、[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)以清肺止咳，便秘腹痛加[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)、[上巨虚](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.37.md)以清热通便。
+方义  取诸阳之会大椎，手阳明经合穴曲池祛邪清热；合手阳明经井穴商阳，足阳明经荥穴内庭，以泄胃腑之热；关冲为三焦经井穴，刺之可清泄气分之热。如高热不解加十宣以泄热，咳嗽胸痛加中府、尺泽、少商以清肺止咳，便秘腹痛加合谷、天枢、上巨虚以清热通便。
 
 治法  毫针刺用泻法。
 
@@ -44,9 +44,9 @@
 
 治则  清泄营血。取手少阴、厥阴经穴为主。
 
-处方  [少冲](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.9.md)  [曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)  [中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)  [委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md) 
+处方  少冲  曲泽  中冲  委中  曲池 
 
-方义  心主血，邪入血分，故治以手少阴、厥阴经穴为主。[少冲](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.9.md)为手少阴经井穴，[中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)为心包经井穴，刺之出血，可泄心火，清心热；[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)为手厥阴经的合穴，[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)为足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经之合穴，取浮络刺血，可清泄血分之热；[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)为手阳明经合穴，阳明多气多血，病在气分者，调气退热，病在血分者，清血退热。诸穴相合可达清泄营血以退热之目的。如神昏谵语加[十宣](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.4.1.0.md)、[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)以泄热醒神，斑疹加[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)以凉血。
+方义  心主血，邪入血分，故治以手少阴、厥阴经穴为主。少冲为手少阴经井穴，中冲为心包经井穴，刺之出血，可泄心火，清心热；曲泽为手厥阴经的合穴，委中为足太阳经之合穴，取浮络刺血，可清泄血分之热；曲池为手阳明经合穴，阳明多气多血，病在气分者，调气退热，病在血分者，清血退热。诸穴相合可达清泄营血以退热之目的。如神昏谵语加十宣、人中以泄热醒神，斑疹加血海以凉血。
 
 治法  毫针刺用泻法。 
 
@@ -56,9 +56,9 @@
 
 治则  清泄暑热，无窍启闭。取督脉、手厥阴经穴为主。
 
-处方  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  十二井穴
+处方  大椎  曲泽  曲池  十二井穴
 
-方义  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)可清泄暑热；[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)为手厥阴之合穴，刺浮络出血，可清血热，开心窍；十二井穴通于三阴三阳，具有调节阴阳，清热启闭的作用。如神志昏迷加[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以醒神，口渴引饮加[金津](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.7.0.md)、[玉液](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.7.0.md)以生津止渴。 
+方义  大椎、曲池可清泄暑热；曲泽为手厥阴之合穴，刺浮络出血，可清血热，开心窍；十二井穴通于三阴三阳，具有调节阴阳，清热启闭的作用。如神志昏迷加人中、百会以醒神，口渴引饮加金津、玉液以生津止渴。 
 
 治法  毫针刺用泻法。
 
@@ -68,15 +68,15 @@
 
 治则  清热解毒。取阳明经穴为主。
 
-处方  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)  [委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)  [陷谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.43.md)
+处方  曲池  合谷  外关  委中  陷谷
 
-方义  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[陷谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.43.md)同属阳明，有疏解肌肤热邪的作用；[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)属三焦经，又是阳维脉的交会穴，可宣达三焦气机，有疏风散热，清热消肿的作用；[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)为血郄，有清血热的作用。如咽喉肿痛加[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)以泄热消肿，烦躁不安加[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)以清热除烦，丹痧加[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)、[委中](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.40.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)以清热活血。
+方义  曲池、合谷、陷谷同属阳明，有疏解肌肤热邪的作用；外关属三焦经，又是阳维脉的交会穴，可宣达三焦气机，有疏风散热，清热消肿的作用；委中为血郄，有清血热的作用。如咽喉肿痛加少商以泄热消肿，烦躁不安加曲泽以清热除烦，丹痧加曲泽、委中、血海以清热活血。
 
 治法  毫针刺用泻法。
 
 **耳针** 
 
-取穴  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、下屏尖、[耳尖](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.14.0.md)。
+取穴  神门、下屏尖、耳尖。
 
 刺法  强刺激。留针15〜30分钟。
 
@@ -86,18 +86,18 @@
 
 〔应用例案〕 
 
-杜XX，男，26岁。发热一天，头痛，骨节痠痛，恶寒无汗，呕逆欲吐，鼻塞，咽痛。查：心肺正常，体温39℃，扁桃体红肿，苔黄，质红，脉浮数。治取[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[天容](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.17.md)。除[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)短促行针不留针外，余穴均留针1小时，每15分钟捻针一次。留针至1小时。头痛消失，已不恶寒，体温降至37.8℃。次日复诊：除咽喉微痛外，别无明显自觉症状，体温36.8℃；又针[天容](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.17.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)，留针1小时，手法同上，诸症消失（《针灸临证集验》）。
+杜XX，男，26岁。发热一天，头痛，骨节痠痛，恶寒无汗，呕逆欲吐，鼻塞，咽痛。查：心肺正常，体温39℃，扁桃体红肿，苔黄，质红，脉浮数。治取大椎、风池、太阳、曲池、天容。除大椎短促行针不留针外，余穴均留针1小时，每15分钟捻针一次。留针至1小时。头痛消失，已不恶寒，体温降至37.8℃。次日复诊：除咽喉微痛外，别无明显自觉症状，体温36.8℃；又针天容、合谷，留针1小时，手法同上，诸症消失（《针灸临证集验》）。
 
 〔文献摘录〕
 
-大热：[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、三里、[复溜](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.7.md)(《针灸大成》）。
+大热：曲池、三里、复溜(《针灸大成》）。
 
-身热如大汗不出：[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[胆俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.19.md)、[孔最](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.6.md)（三壮）、[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)(《针灸集成》)。
+身热如大汗不出：命门、中脘、胆俞、孔最（三壮）、肺俞、太溪、合谷、支沟(《针灸集成》)。
 
-针刺治疗流行性感冒377例。患者主要表现为急性发热，剧烈头痛。针刺治疗：体温在38.1°C以上者，取[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)（双）、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)（双）；体温在38°C以下者，取[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)（双）。均用强刺激，不留针。针感要求刺[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)麻至腰部，[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)麻至肩部，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)麻至趾部。每日针治1次，一般只针1次，少数患者针2~3
+针刺治疗流行性感冒377例。患者主要表现为急性发热，剧烈头痛。针刺治疗：体温在38.1°C以上者，取大椎、合谷（双）、足三里（双）；体温在38°C以下者，取大椎、合谷（双）。均用强刺激，不留针。针感要求刺大椎麻至腰部，合谷麻至肩部，足三里麻至趾部。每日针治1次，一般只针1次，少数患者针2~3
 次。全组病例于针后24小时退热者为198例，占53.1%；48小时退热者为108例，占29%；72小时退热者16例，占4.3%；未侧体温者51例，占13.6%，但24小时后随访，均自觉症状消失，恢复正常工作(《针灸医学验集》)。
 
-流行性脑脊髓膜炎发热高热昏迷期，一般针[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)、[中冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.9.md)、[少冲](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.9.md)刺出血，再取[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)。这些穴位有清热、醒脑、镇静的作用。行强刺激手法(《针灸研究进展》)。
+流行性脑脊髓膜炎发热高热昏迷期，一般针少商、中冲、少冲刺出血，再取百会、风府、大椎、曲池。这些穴位有清热、醒脑、镇静的作用。行强刺激手法(《针灸研究进展》)。
 
 **复习思考题**
 

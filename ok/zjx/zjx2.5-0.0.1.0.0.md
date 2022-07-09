@@ -12,19 +12,19 @@
 
 **体针**
 
-治则  疏风清热利湿。取手足阳明、足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经而为主。
+治则  疏风清热利湿。取手足阳明、足太阳经而为主。
 
-处方  脾胃湿热：[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)  [四白](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.2.md)  [阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)。外感风热：[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)  [攒竹](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.2.md)  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)  [太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)
+处方  脾胃湿热：合谷  承泣  四白  阴陵泉。外感风热：睛明  攒竹  行间  太阳
 
-方义  本方取手阳明经原穴[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)，足阳明经[承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)、[四白](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.2.md)，足太阴经[阴陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.9.md)，以清脾胃湿热；取足[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[攒竹](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.2.md)、肝经荥穴[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)，经外奇穴[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)，以疏风解热。诸穴共奏疏风清热，利湿解毒之功。如恶寒发热加[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)以解表清热，头痛加[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)以疏风解表止痛。
+方义  本方取手阳明经原穴合谷，足阳明经承泣、四白，足太阴经阴陵泉，以清脾胃湿热；取足太阳经睛明、攒竹、肝经荥穴行间，经外奇穴太阳，以疏风解热。诸穴共奏疏风清热，利湿解毒之功。如恶寒发热加外关以解表清热，头痛加风池以疏风解表止痛。
 
 治法  毫针刺用泻法。
 
 **耳针**
 
-取穴  眼、肝、脾、[耳尖](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.14.0.md)。
+取穴  眼、肝、脾、耳尖。
 
-刺法  强刺激。每天1次，[耳尖](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.14.0.md)及耳壳后小静脉放血。
+刺法  强刺激。每天1次，耳尖及耳壳后小静脉放血。
 
 **针挑**
 
@@ -36,12 +36,12 @@
 
 〔文献摘录〕
 
-偷针眼：视其背上有细红点如疮，以针刺破即瘥，实解[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)之郁热也（《针灸聚英》）。	
+偷针眼：视其背上有细红点如疮，以针刺破即瘥，实解太阳之郁热也（《针灸聚英》）。	
 
-麦粒肿：取健侧[天井](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.10.md)，患侧[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)(《针灸研究进展》）。
+麦粒肿：取健侧天井，患侧合谷(《针灸研究进展》）。
 
 针刺治疗麦粒肿7例。取穴：在耳廓背面、相当于耳轮、耳垂和耳根的正中处，共针四处每针距离约为2分，其针刺的位置呈“？”形。操作：采用卧位或坐位，
-针刺得气后行泻法，留针30分钟，每日针治1次，一般针刺健侧。若上下眼睑均有肿胀，或症状较重者，则针刺两侧。必要时加刺[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)穴。疗效：除1例针后显著好转并用了其他疗法外，其余6例均经2~3次治疗后，症状完全消失(《针灸临床经验辑要》)。
+针刺得气后行泻法，留针30分钟，每日针治1次，一般针刺健侧。若上下眼睑均有肿胀，或症状较重者，则针刺两侧。必要时加刺合谷穴。疗效：除1例针后显著好转并用了其他疗法外，其余6例均经2~3次治疗后，症状完全消失(《针灸临床经验辑要》)。
 
 复习思考题
 

@@ -18,11 +18,11 @@
 
 治则  疏风和营。取督脉、手阳明经穴为主。
 
-处方  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [肩髃](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.15.md)  [阳溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.5.md)  [鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  大椎  肩髃  阳溪  鱼际  三阴交
 
-方义  [肩髃](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.15.md)、[阳溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.5.md)消瘾风之热极，配[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)以增强疏散风热的作用。又取[鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)清宣肺卫，[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)调脾和营，使风热得解，营卫调和，则风疹可消。咽痛加[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)，用三棱针点刺放血，以清热解毒。
+方义  肩髃、阳溪消瘾风之热极，配大椎以增强疏散风热的作用。又取鱼际清宣肺卫，三阴交调脾和营，使风热得解，营卫调和，则风疹可消。咽痛加少商，用三棱针点刺放血，以清热解毒。
 
-治法  亳针刺用泻法，留针30分～1小时，[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)点剌不留针，每日1次，剧痒者每日2次。
+治法  亳针刺用泻法，留针30分～1小时，少商点剌不留针，每日1次，剧痒者每日2次。
 
 （二）胃肠积热
 
@@ -30,31 +30,31 @@
 
 治则  清热和营，取阳明、太阴经穴为主。
 
-处方  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)  [列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)  [大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)
+处方  曲池  足三里  血海  列缺  大肠俞
 
-方义  本证系因胃肠积热不得疏泄透达，而郁于皮毛腠理之间所致。故取[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)以调理胃肠，而清泄阳明积热；[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)理血和营，为治荨麻疹效穴；[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)为手太阴之络穴，别走阳明，配[大肠俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.25.md)可宣肺透表，清阳明积热。如有腹痛加[建里](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.10.md)，以和中化湿止痛。腹泻加[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)，以理肠止泻。喘息加天泽、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)，以清肺止喘。
+方义  本证系因胃肠积热不得疏泄透达，而郁于皮毛腠理之间所致。故取曲池、足三里以调理胃肠，而清泄阳明积热；血海理血和营，为治荨麻疹效穴；列缺为手太阴之络穴，别走阳明，配大肠俞可宣肺透表，清阳明积热。如有腹痛加建里，以和中化湿止痛。腹泻加天枢，以理肠止泻。喘息加天泽、膻中，以清肺止喘。
 
 治法  亳针剌用泻法。慢性者可隔1～2日针1次。
 
 耳针
 
-取穴  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、肺、脾、下屏尖、脑。
+取穴  神门、肺、脾、下屏尖、脑。
 
 剌法  中等刺激，留针15～30分钟，每天1次。
 
 〔应用例案〕
 
-王××， 男，成年。自诉：风疹瘙痒已三个多月，时隐时现，遇风则重，曾治疗未愈。红疹遍布周身，肱股内侧尤甚，成片成块，奇痒难忍，舌尖红，苔薄。治取[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)、曲池、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)。行平补平泻法，留针20分钟，日一次，经针治二次，瘙痒大减。五次后疹退痒止。至今一年未发（摘自《现代针灸医案选》）。
+王××， 男，成年。自诉：风疹瘙痒已三个多月，时隐时现，遇风则重，曾治疗未愈。红疹遍布周身，肱股内侧尤甚，成片成块，奇痒难忍，舌尖红，苔薄。治取列缺、曲池、血海。行平补平泻法，留针20分钟，日一次，经针治二次，瘙痒大减。五次后疹退痒止。至今一年未发（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-风热瘾疹：[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[曲泽](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.3.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)、[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[鱼际](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)（《针灸集成》)。
+风热瘾疹：曲池、曲泽、合谷、列缺、肺俞、鱼际、神门、内关（《针灸集成》)。
 
-风疹：[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)（《中国针灸学概要》）。
+风疹：血海、三阴交、曲池、合谷（《中国针灸学概要》）。
 
-粗针治疗荨麻疹125例。取穴：第一组取[神道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.11.md)透[至阳](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.9.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，第二组[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)透[身柱](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.12.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)。方法：两组交替使用，用直径0.9毫米，长125亳米针具，留针2小时，用泻法。七天为一疗程，隔三天再行第二疗程。疗效：119例痊愈，6例无效，其中第一疗程治愈90例，第二疗程治愈21例，第三疗程治愈8例，治愈率为95.2％（东北大区针灸学术会议资料）。
+粗针治疗荨麻疹125例。取穴：第一组取神道透至阳、血海、三阴交，第二组大椎透身柱、曲池。方法：两组交替使用，用直径0.9毫米，长125亳米针具，留针2小时，用泻法。七天为一疗程，隔三天再行第二疗程。疗效：119例痊愈，6例无效，其中第一疗程治愈90例，第二疗程治愈21例，第三疗程治愈8例，治愈率为95.2％（东北大区针灸学术会议资料）。
 
-孙迅医师报告，针刺治疗慢性荨麻疹132例。取[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。以针刺入穴位，轻轻捻转，当患者出现痠、麻、胀感时，留针20分钟， 隔日针1次，以30次为一疗程。132例病人，治愈104例；好转22例，无效6例。在治愈的病例中，针刺次数最少者2次，最多者21次(《针灸处方集》)。
+孙迅医师报告，针刺治疗慢性荨麻疹132例。取血海、曲池、三阴交。以针刺入穴位，轻轻捻转，当患者出现痠、麻、胀感时，留针20分钟， 隔日针1次，以30次为一疗程。132例病人，治愈104例；好转22例，无效6例。在治愈的病例中，针刺次数最少者2次，最多者21次(《针灸处方集》)。
 
 复习思考题
 

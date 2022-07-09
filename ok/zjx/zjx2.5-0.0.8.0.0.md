@@ -16,9 +16,9 @@
 
 治则  补益气血，通络明目。取眼部穴位和背俞穴为主。
 
-处方  主穴：[承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)  [睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)  [球后](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.5.0.md)  配穴：肝肾阴亏配[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)；心营亏损配[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[翳明](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.10.0.md)、[臂臑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.14.md)。
+处方  主穴：承泣  睛明  球后  配穴：肝肾阴亏配肝俞、肾俞、光明；心营亏损配心俞、风池、翳明、臂臑。
 
-方义  [承泣](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.1.md)、[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[球后](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.5.0.md)皆为眼部穴位，有疏风通络，明目作用；配[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)滋养肝肾，[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)调肝明目；配[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[翳明](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.10.0.md)、[臂臑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.14.md)调和气血，通络明目。如眩晕加[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以清脑，失眠加[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以安神。
+方义  承泣、睛明、球后皆为眼部穴位，有疏风通络，明目作用；配肝俞、肾俞滋养肝肾，光明调肝明目；配心俞、风池、翳明、臂臑调和气血，通络明目。如眩晕加百会以清脑，失眠加神门以安神。
 
 治法  毫针刺用补法，背俞穴可加灸。留针20〜30分钟，隔日1次，12次为一疗程。
 
@@ -30,15 +30,15 @@
 
 〔应用例案〕
 
-苏XX，男，35岁。自诉：视物不清两年多。二年前自觉视力下降，眼球发干，症状渐重，不能阅读文件，经某院诊为视神经萎缩，服西药二年未效。查：双眼视力0.1，除瞳孔对光反射极为迟钝外，外眼未见其他异常。眼底所见，视神经乳头境界清楚，颜色淡白，血管变细。化验血清瓦氏反应为强阳性。诊为青盲。治取[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)、[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)。[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)直刺2寸，[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)针尖向下颏部方向刺2寸，[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)直刺1.5寸，使眼底有胀感。用平补平泻法，留针20分钟，日一次。经治疗后视力（双眼）恢复至0.8，眼底检查同初诊（摘自《现代针灸医案选》）。
+苏XX，男，35岁。自诉：视物不清两年多。二年前自觉视力下降，眼球发干，症状渐重，不能阅读文件，经某院诊为视神经萎缩，服西药二年未效。查：双眼视力0.1，除瞳孔对光反射极为迟钝外，外眼未见其他异常。眼底所见，视神经乳头境界清楚，颜色淡白，血管变细。化验血清瓦氏反应为强阳性。诊为青盲。治取风池、风府、印堂、太阳、睛明、合谷。风池直刺2寸，风府针尖向下颏部方向刺2寸，睛明直刺1.5寸，使眼底有胀感。用平补平泻法，留针20分钟，日一次。经治疗后视力（双眼）恢复至0.8，眼底检查同初诊（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-青盲无所见，[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)（左取右，右取左）（《针灸大成》）。
+青盲无所见，肝俞、商阳（左取右，右取左）（《针灸大成》）。
 
-青盲眼：[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[胆俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.19.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[养老](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.6.md)(七壮）、[商阳](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.1.md)（五壮）、[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)（《类经图翼》）。
+青盲眼：肝俞、胆俞、肾俞、养老(七壮）、商阳（五壮）、光明（《类经图翼》）。
 
-针刺治疗视神经萎缩40例。主穴：[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)（烧山火手法），内[睛明](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.1.md)(压针缓进法）、瞳子髎、[攒竹](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.2.md)(平补平泻）。辅穴：[丝竹空](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.23.md)、 [鱼腰](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.3.0.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[光明](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.37.md)（平补平泻）、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)(烧山火手法）。 每周针治3次，12次为一疗程。疗效：有62.5%的病人之视力有程度不等的恢复（《针灸临床经验辑要》)。
+针刺治疗视神经萎缩40例。主穴：风池（烧山火手法），内睛明(压针缓进法）、瞳子髎、攒竹(平补平泻）。辅穴：丝竹空、 鱼腰、肝俞、大椎、合谷、光明（平补平泻）、肾俞(烧山火手法）。 每周针治3次，12次为一疗程。疗效：有62.5%的病人之视力有程度不等的恢复（《针灸临床经验辑要》)。
 
 复习思考题
 

@@ -16,9 +16,9 @@
 
 治则  补血益气，调理冲任。取任脉、足阳明、太阴经穴为主。
 
-处方  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  关元  气海  膈俞  足三里  三阴交
 
-方义  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)属任脉，通于三阴，配血会[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)，有补养气血，调理冲任的作用；[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)可调补脾胃，以益生化之源。如头晕加[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[四神聪](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.1.0.md)，镇静开窍；大便燥结加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)，[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)，清热理肠以通便。
+方义  关元、气海属任脉，通于三阴，配血会膈俞，有补养气血，调理冲任的作用；三阴交、足三里可调补脾胃，以益生化之源。如头晕加百会、四神聪，镇静开窍；大便燥结加照海，支沟，清热理肠以通便。
 
 治法  亳针剌用补法，留针20～30分钟，痛甚用灸法，每次灸5～10分钟。
 
@@ -28,11 +28,11 @@
 
 治则  助阳散寒，温通胞脉。取任脉、足太阴经穴为主。
 
-处方  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  关元  气海  肾俞  三阴交
 
-方义  灸[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)可助阳散寒，针[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)可调气活血，四穴相配有温通胞脉之功。如出现四肢厥冷重灸[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，以温阳救逆；腹痛剧烈加[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[次髎](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.32.md)，以温阳调经。
+方义  灸关元、肾俞可助阳散寒，针气海、三阴交可调气活血，四穴相配有温通胞脉之功。如出现四肢厥冷重灸神阙、三阴交，以温阳救逆；腹痛剧烈加命门、次髎，以温阳调经。
 
-治法  针灸并用。针用泻法，痛甚可留针1～2小时。[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)可重灸。
+治法  针灸并用。针用泻法，痛甚可留针1～2小时。关元、神阙可重灸。
 
 （三）血瘀腹痛
 
@@ -40,32 +40,32 @@
 
 治则  行气化瘀，通络止痛。取任脉、足阳明、厥阴经穴为主。
 
-处方  [中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)  [归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)  [血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)
+处方  中极  归来  膈俞  血海  太冲
 
-方义  [中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)功能行气化瘀，[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)为肝经原穴有舒肝理气的作用，[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)活血通滞，四穴相合，可行气化瘀，通络止痛。如胸胁胀痛加[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)，以平肝理气；恶露不下加[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、阴交，以行气调经。
+方义  中极、归来功能行气化瘀，太冲为肝经原穴有舒肝理气的作用，膈俞、血海活血通滞，四穴相合，可行气化瘀，通络止痛。如胸胁胀痛加期门、膻中，以平肝理气；恶露不下加气海、阴交，以行气调经。
 
 治法  亳针刺用泻法，或灸。疼痛剧烈可留针1～2小时，甚至24小时。
 
 耳针
 
-取穴  [子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)、肝、肾、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、屏间、下脚端、下屏尖。
+取穴  子宫、肝、肾、神门、屏间、下脚端、下屏尖。
 
 剌法  强剌激；每日1次，留针15～20分钟，亦可用耳穴埋针。
 
 〔应用例案〕
 
-胡××，25岁。产后二天，腹痛难忍，哭泣不已，不能纳食，诊脉弦细，苔薄白，查宫底在脐下三指，呈痉挛性收缩。取穴：[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，针后病人腹痛即缓解，留针20分钟后起针，腹痛即止（北京中医学院东直门医院门诊病历）。
+胡××，25岁。产后二天，腹痛难忍，哭泣不已，不能纳食，诊脉弦细，苔薄白，查宫底在脐下三指，呈痉挛性收缩。取穴：关元、中极、三阴交、足三里，针后病人腹痛即缓解，留针20分钟后起针，腹痛即止（北京中医学院东直门医院门诊病历）。
 
 〔文献摘录〕
 
-产后血块痛：[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)(《针灸大成》)。
+产后血块痛：气海、三阴交(《针灸大成》)。
 
-产后腹痛：主穴：[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；配穴：[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)(《针灸医学验集》)。
+产后腹痛：主穴：中极、三阴交；配穴：关元、足三里(《针灸医学验集》)。
 
-针刺、穴位注射治疗产后腹痛125例，其中有92例用针刺治疗，33例用穴位封闭治疗。穴取[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，针刺法先用毫针捻转进针，得气后留针30分钟至24小时;穴位封闭法，先用毫针捻转进针，得气后将针拔出，然后用0.25%的奴佛卡因穴位注射。结果，经针1次于留针时即停止疼痛者有90例，占72%；其中有33例
+针刺、穴位注射治疗产后腹痛125例，其中有92例用针刺治疗，33例用穴位封闭治疗。穴取三阴交，针刺法先用毫针捻转进针，得气后留针30分钟至24小时;穴位封闭法，先用毫针捻转进针，得气后将针拔出，然后用0.25%的奴佛卡因穴位注射。结果，经针1次于留针时即停止疼痛者有90例，占72%；其中有33例
 是在留针的基础上改用穴位封闭，经封闭1次痊愈的有26例，占78.8%(《针灸临床经验辑要》)。
 
-针剌治疗产后宫缩痛32例。取穴为3组：（1）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)；（2）[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)；（3）[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。操作：[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，用强剌激抑制手法。疼痛剧烈者，留针时间可延长1～2小时以上。留针中，[子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)收缩时，可再行捻针以加强刺激，疼痛即可停止。针[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)时，应先排尿。经针灸后获得显著疗效，其中立即止痛者有5例，疼痛缓解者有21例。复发者4例，无效者2例。复发病例，多因起针过早不肯继续留针所致，针后无不良作用（《中华妇产科杂志》）。
+针剌治疗产后宫缩痛32例。取穴为3组：（1）中极、三阴交；（2）关元、足三里；（3）中极、足三里。操作：中极、三阴交，用强剌激抑制手法。疼痛剧烈者，留针时间可延长1～2小时以上。留针中，子宫收缩时，可再行捻针以加强刺激，疼痛即可停止。针中极、关元时，应先排尿。经针灸后获得显著疗效，其中立即止痛者有5例，疼痛缓解者有21例。复发者4例，无效者2例。复发病例，多因起针过早不肯继续留针所致，针后无不良作用（《中华妇产科杂志》）。
 
 复习思考题
 

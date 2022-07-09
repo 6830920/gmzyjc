@@ -20,9 +20,9 @@
 
 治则  散寒止痛，疏肝理气，消食导滞。取胃之募穴、合穴，手足厥阴和足太阴经穴。
 
-处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)  [公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)
+处方  中脘  足三里  内关  公孙  太冲
 
-方义  胃的募穴[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)，配胃的合穴[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，有调和胃气，导滞止痛之功；[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)是八脉交会配穴法，能宽胸解郁，善治胸胃疼痛；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)疏肝理气。本方适用于寒邪、郁热、肝气上逆的胃痛。痛甚可加[梁丘](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.34.md)以理气和胃止痛；胁痛加[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)以清肝止痛。
+方义  胃的募穴中脘，配胃的合穴足三里，有调和胃气，导滞止痛之功；内关、公孙是八脉交会配穴法，能宽胸解郁，善治胸胃疼痛；太冲疏肝理气。本方适用于寒邪、郁热、肝气上逆的胃痛。痛甚可加梁丘以理气和胃止痛；胁痛加阳陵泉以清肝止痛。
 
 治疗  针用泻法，寒证加灸
 
@@ -34,42 +34,42 @@
 
 治则  补脾健胃，阳虚者温中散寒，阴虚者益胃养阴。取俞募穴及足太阴、阳明经穴为主。
 
-处方  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)  [胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  脾俞  胃俞  中脘  章门  足三里  内关  三阴交
 
-方义  本方用脾胃之俞募穴配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)，灸之能温中散寒，补脾和胃；针用补法可补脾健中，养胃和络，故适用于胃痛虚证。胃中有灼热感加[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)以滋阴降火；便血加[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)以理血；吐血加[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)以和血。
+方义  本方用脾胃之俞募穴配足三里、内关、三阴交，灸之能温中散寒，补脾和胃；针用补法可补脾健中，养胃和络，故适用于胃痛虚证。胃中有灼热感加太溪以滋阴降火；便血加血海以理血；吐血加膈俞以和血。
 
 治法  针用补法，并可加灸。
 
 耳针
 
-取穴  胃、脾、下脚端、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、脑、肝。
+取穴  胃、脾、下脚端、神门、脑、肝。
 
 刺法  每次选用2～3穴，疼痛剧烈时用强刺激，疼痛缓解时用轻刺激，留针30分钟，隔日或每日一次，十次为一疗程。泛酸多去胃加屏间，十二指肠溃疡加十二指肠。
 
 埋线疗法
 
-取穴  ①[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)（左）、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)透[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)；②[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)透[上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)，[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)（右）；③[下脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.9.md)、[灵台](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.10.md)、[梁门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.21.md)。
+取穴  ①足三里（左）、胃俞透脾俞；②中脘透上脘，足三里（右）；③下脘、灵台、梁门。
 
 方法：三组穴位轮流使用，用羊肠线埋植，每次间隔20～30天。
 
 **〔应用例案〕**
 
 甲戍岁，观政田春野公乃翁，患脾胃之疾，养病天坛，至敝宅数里，春野公每请必亲至，竭力尽孝，予感其诚，不惮其远，出朝必趋视。告曰：“脾胃乃一身之根蒂，五行之成基，万物之父母，安可不由其至健至顺哉？苟不至健至顺，则沉疴之咎必致矣。然公之疾，非一朝所致，但脾喜甘燥，而恶苦湿，药热则消
-于肌肉，药寒则减于饮食，医治久不获当，莫若早灸[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[胃仓](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.50.md)穴。”忻然从之，每穴各灸九壮，更针行九阳之数，疮发渐愈。春野公今任兵科给事中，乃翁、乃弟俱登科而盛壮(《针灸大成》)。
+于肌肉，药寒则减于饮食，医治久不获当，莫若早灸中脘、胃仓穴。”忻然从之，每穴各灸九壮，更针行九阳之数，疮发渐愈。春野公今任兵科给事中，乃翁、乃弟俱登科而盛壮(《针灸大成》)。
 
-陈×，男，68岁。自诉：胃脘疼痛，纳谷不香，呕吐泛酸，得食即痛，痛甚则吐，一年余。中西医治疗，病情反复，呕吐加剧至精神虚惫，不能进食。患者丧失信心，嘱家属准备后事。余趋前会诊，诊为脾胃阳虚，[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，釜底无薪，不能腐熟水谷。治拟温补脾肾，取中魁、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)（均灸)，每次11壮米粒大，二穴轮灸。经灸治后，呕吐即止。次日复灸[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，脘腹温暖舒服，能吃稀粥，脘痛顿减。后以中药调治，食欲渐增，10余日即能起床行走，一个月后恢复工作（摘自《现代针灸医案选》）。
+陈×，男，68岁。自诉：胃脘疼痛，纳谷不香，呕吐泛酸，得食即痛，痛甚则吐，一年余。中西医治疗，病情反复，呕吐加剧至精神虚惫，不能进食。患者丧失信心，嘱家属准备后事。余趋前会诊，诊为脾胃阳虚，命门火衰，釜底无薪，不能腐熟水谷。治拟温补脾肾，取中魁、足三里（均灸)，每次11壮米粒大，二穴轮灸。经灸治后，呕吐即止。次日复灸足三里，脘腹温暖舒服，能吃稀粥，脘痛顿减。后以中药调治，食欲渐增，10余日即能起床行走，一个月后恢复工作（摘自《现代针灸医案选》）。
 
 **〔文献摘录〕**
 
-心痛：加风寒，气血虚，食积热。针[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[然谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.2.md)、[尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[建里](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.10.md)、[大都](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.2.md)、[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)（《针灸聚英》）。
+心痛：加风寒，气血虚，食积热。针太溪、然谷、尺泽、行间、建里、大都、太白、中脘、神门、涌泉（《针灸聚英》）。
 
-脾胃虚寒：[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)。
+脾胃虚寒：足三里、三阴交、脾俞、胃俞。
 
-肝胃气郁：[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)，[梁丘](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.34.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)(《临床针灸新编》)。
+肝胃气郁：太冲，梁丘、内关、肝俞(《临床针灸新编》)。
 
-临床上取[中枢](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.7.md)穴治疗胃脘痛，收到显著的效果。成人直刺5至8分深，手法以平补平泻为主，留针5至10分钟(《针灸处方集》)。
+临床上取中枢穴治疗胃脘痛，收到显著的效果。成人直刺5至8分深，手法以平补平泻为主，留针5至10分钟(《针灸处方集》)。
 
-临床采用针灸治疗胃脘痛（胃痉挛）106例，其中男46例，女60例；年龄最大者56岁，最小者20岁，以20～40岁居多；病程最长10年，最短2天。针刺以[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)为主穴，[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[内庭](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.44.md)为配穴，如脾胃虚寒可用艾卷温和灸[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)，每次15分钟，或取[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)施以艾炷隔姜灸。操作时先刺[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)，后刺[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)，手法宜采用大幅度捻转，反复提插，如痉挛不缓解或疼痛不减，继针[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)或随症加其它配穴。106例患者，针灸1次症状消失者40例，2次症状消失者43例，3次症状消失者15例。针灸次数最多3次，最少1次。近期治愈率为92.5％。本组病例经针灸后全部有效。（《针灸医学验集》）。
+临床采用针灸治疗胃脘痛（胃痉挛）106例，其中男46例，女60例；年龄最大者56岁，最小者20岁，以20～40岁居多；病程最长10年，最短2天。针刺以内关、中脘、足三里为主穴，肝俞、太冲、内庭为配穴，如脾胃虚寒可用艾卷温和灸脾俞、胃俞，每次15分钟，或取关元施以艾炷隔姜灸。操作时先刺足三里，后刺内关，手法宜采用大幅度捻转，反复提插，如痉挛不缓解或疼痛不减，继针中脘或随症加其它配穴。106例患者，针灸1次症状消失者40例，2次症状消失者43例，3次症状消失者15例。针灸次数最多3次，最少1次。近期治愈率为92.5％。本组病例经针灸后全部有效。（《针灸医学验集》）。
 
 **复习思考题**
 

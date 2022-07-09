@@ -20,9 +20,9 @@
 
 治则  熄风化痰，降火宁神。取任、督、足厥阴、少阳、阳明经穴。
 
-处方  [身柱](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.12.md)  [本神](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.13.md)  [鸠尾](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.14.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)
+处方  身柱  本神  鸠尾  丰隆  太冲
 
-方义  [身柱](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.12.md)属督脉，能解除腰脊强痛，[鸠尾](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.14.md)属任脉，能降气解郁，是治疗癫痫的要穴。[本神](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.13.md)属足少阳经穴，配[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)平肝熄风，醒脑宁神，配[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)和胃降浊，清热化痰。正值发作时加[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[颊车](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以安神醒脑开噤；夜间发作加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)以安神，白昼发作加[申脉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.62.md)以清头目。并可选用[腰奇](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.8.0.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)等穴以醒脑利窍。
+方义  身柱属督脉，能解除腰脊强痛，鸠尾属任脉，能降气解郁，是治疗癫痫的要穴。本神属足少阳经穴，配太冲平肝熄风，醒脑宁神，配丰隆和胃降浊，清热化痰。正值发作时加人中、颊车、神门以安神醒脑开噤；夜间发作加照海以安神，白昼发作加申脉以清头目。并可选用腰奇、百会、风池等穴以醒脑利窍。
 
 治法  癫痫发作期，用毫针强刺激泻法，不留针。癫痫间歇期间，一般以平补平泻手法为主，留针30分钟。每日1次或隔日1次，10次为1疗程。
 
@@ -32,39 +32,39 @@
 
 治则  补益心脾，化痰镇静。取手少阴、足阳明、太阴、少阳经穴和背俞。
 
-处方  [通里](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.5.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)  [肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)  [阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  [筋缩](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.8.md)
+处方  通里  丰隆  肾俞  阳陵泉  三阴交  筋缩
 
-方义  [通里](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.5.md)养心益智，[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)和中化痰，[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)滋肾平肝熄风，[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)、[筋缩](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.8.md)解痉挛而纠正抽搐。发作持续昏迷不苏，酌针[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)以开窍，灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以补气。平时可加[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)等穴。
+方义  通里养心益智，丰隆和中化痰，肾俞、三阴交滋肾平肝熄风，阳陵泉、筋缩解痉挛而纠正抽搐。发作持续昏迷不苏，酌针涌泉以开窍，灸气海以补气。平时可加中脘、足三里、百会等穴。
 
 治法  毫针剌用补法。发作时用温和灸，发作间歇期用瘢痕灸法。
 
 耳针
 
-取穴  胃、脑、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、心、枕、缘中。
+取穴  胃、脑、神门、心、枕、缘中。
 
 刺法  强刺激。每次选2～3穴，留针30分钟，间歇捻针。隔日一次，10次为一疗程。
 
 水针
 
-取穴  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)。
+取穴  足三里、内关、大椎、风池。
 
 刺法  采用100毫克维生素B1注射液或0.5毫克维生素B12注射液，每穴注入0.5毫升，每次选用2～3穴。
 
 〔应用例案〕
 
-一妇人病痫已十年，灸[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)五十壮愈。凡人有此疾，惟灸法取效最速，药不及也（《扁鹊心书》）。
+一妇人病痫已十年，灸中脘五十壮愈。凡人有此疾，惟灸法取效最速，药不及也（《扁鹊心书》）。
 
-马×南，男，21岁。自诉：因过劳、生气而得痫症，平素头昏健忘，从1970年5月起，几日发作一次，昼夜不定，突然昏倒，囗吐涎沫，抽搐数分钟，过后头痛，睡眠不佳，健忘。近月频作，经中西药物及针灸治疗，未见显效，来我院门诊治疗。查：脉弦紧，舌苔微黄。治以镇肝豁痰，清火熄风，兼补心肾。针取[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)、[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)，[腰奇](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.8.0.md)。经针十余次，治疗中仅发一次，且时间尚短，头痛消失，停治观察。一年后，因打篮球过累，痫疾复发。病状如前，继治，针方如前，加灸[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)，针灸一个月停治，观察至今七年余，从未复发（摘自《现代针灸医案选》）。
+马×南，男，21岁。自诉：因过劳、生气而得痫症，平素头昏健忘，从1970年5月起，几日发作一次，昼夜不定，突然昏倒，囗吐涎沫，抽搐数分钟，过后头痛，睡眠不佳，健忘。近月频作，经中西药物及针灸治疗，未见显效，来我院门诊治疗。查：脉弦紧，舌苔微黄。治以镇肝豁痰，清火熄风，兼补心肾。针取太冲、丰隆、照海、神门、巨阙，腰奇。经针十余次，治疗中仅发一次，且时间尚短，头痛消失，停治观察。一年后，因打篮球过累，痫疾复发。病状如前，继治，针方如前，加灸中脘，针灸一个月停治，观察至今七年余，从未复发（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-癫痫：[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)、[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、三里、[鸠尾](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.14.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)(《针灸大成》)。
+癫痫：涌泉、心俞、三里、鸠尾、中脘、少商、巨阙(《针灸大成》)。
 
-癫痫：[鸠尾](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.14.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)、[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)、[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[阳交](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.35.md)、三里、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、[上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)（《医学纲目》）。
+癫痫：鸠尾、后溪、涌泉、心俞、阳交、三里、太冲、间使、上脘（《医学纲目》）。
 
-针刺[长强](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.1.md)穴治疗癫痫证55例，近期有效率达94.5％。施术时令患者取膝胸卧式，穴位消毒后以左手将穴位局部组织捏起，右手持三棱针重刺[长强](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.1.md)及其前后左右各一针，深达2～3分，呈[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)状（？），四点距[长强](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.1.md)各5分，然后挤压使局部出血，再用干棉球将血擦净。如此每周针刺1次，10次为一个疗程。第一个疗程后，休息一个月，如再犯继续作第二疗程，最多为三个疗程（《天津医药杂志》）。
+针刺长强穴治疗癫痫证55例，近期有效率达94.5％。施术时令患者取膝胸卧式，穴位消毒后以左手将穴位局部组织捏起，右手持三棱针重刺长强及其前后左右各一针，深达2～3分，呈梅花状（？），四点距长强各5分，然后挤压使局部出血，再用干棉球将血擦净。如此每周针刺1次，10次为一个疗程。第一个疗程后，休息一个月，如再犯继续作第二疗程，最多为三个疗程（《天津医药杂志》）。
 
-针刺对23例癫痫病人脑电图的作用进行了观察，所用穴位有[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)、[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)等，针刺手法平补平泻。结果对年龄较大、病程较长的患者，针刺后，脑电波毫无反应。对年龄小、病程较短的癫痫患者，针刺后脑电波的改变对癫痫的诊断和预后有帮助，对年龄较小、病程较短的癫痫患者，尤其小发作，早期阶段在治疗上有一定效果（《针灸医学验集》）。
+针刺对23例癫痫病人脑电图的作用进行了观察，所用穴位有百会、人中、神门、内关、合谷、足三里等，针刺手法平补平泻。结果对年龄较大、病程较长的患者，针刺后，脑电波毫无反应。对年龄小、病程较短的癫痫患者，针刺后脑电波的改变对癫痫的诊断和预后有帮助，对年龄较小、病程较短的癫痫患者，尤其小发作，早期阶段在治疗上有一定效果（《针灸医学验集》）。
 
 复习思考题
 

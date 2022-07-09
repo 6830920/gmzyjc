@@ -22,9 +22,9 @@
 
 治则  宣肺解表，镇咳化痰。取手太阴、阳明经穴为主。
 
-处方  [列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)  [合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)  [肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)  [外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)
+处方  列缺  合谷  肺俞  外关
 
-方义  [列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)是手太阴络穴，配[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)宣通肺气；[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)是手阳明原穴，配[外关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.5.md)发汗解表，四穴同用，可收疏风散寒，宁肺镇咳之效。头痛加[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)以散风止痛；肢体痛楚加[昆仑](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.60.md)、[温溜](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.7.md)以舒筋止痛。
+方义  列缺是手太阴络穴，配肺俞宣通肺气；合谷是手阳明原穴，配外关发汗解表，四穴同用，可收疏风散寒，宁肺镇咳之效。头痛加风池、上星以散风止痛；肢体痛楚加昆仑、温溜以舒筋止痛。
 
 治法  针用泻法，并可加灸。
 
@@ -34,9 +34,9 @@
 
 治则  疏散风热，清肺化痰。取手太阴、阳明、督脉经穴。
 
-处方  [尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)  [肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)
+处方  尺泽  肺俞  曲池  大椎
 
-方义  [尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)配[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)清肺化痰而镇咳；[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)是督脉要穴，有解表退热，镇咳化痰之功，配[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)增强其疏风清热的作用，四穴共用，风热外解，痰火得降，肺气平顺，咳嗽则止。咽喉干痛加[少商](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.10.1.md)点刺出血以泄热解毒；汗出不畅加[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以助发汗；多汗而热不退加[陷谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.43.md)、[复溜](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.7.md)滋阴清热。
+方义  尺泽配肺俞清肺化痰而镇咳；大椎是督脉要穴，有解表退热，镇咳化痰之功，配曲池增强其疏风清热的作用，四穴共用，风热外解，痰火得降，肺气平顺，咳嗽则止。咽喉干痛加少商点刺出血以泄热解毒；汗出不畅加合谷以助发汗；多汗而热不退加陷谷、复溜滋阴清热。
 
 治法  毫针刺用泻法，并可放血。
 
@@ -48,9 +48,9 @@
 
 治则  健脾化湿，化痰止咳。取手足太阴、阳明经穴。
 
-处方  [太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)  [太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)  [肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)
+处方  太渊  太白  肺俞  脾俞  丰隆
 
-方义  原穴为本脏真气所输注，故取肺原[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)与脾原[太白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.3.md)穴，配合[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)，以健脾燥湿，理肺降气。因脾为生痰之源，肺为贮痰之器，脾肺同取，乃标本同治也。[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)是足阳明经的络穴，能调运中焦脾胃之气，使气行津布，痰湿得化，肺脏自安。咳嗽兼喘者加[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)穴以止咳[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)；胸脘痞闷加[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以宽胸理气。
+方义  原穴为本脏真气所输注，故取肺原太渊与脾原太白穴，配合肺俞、脾俞，以健脾燥湿，理肺降气。因脾为生痰之源，肺为贮痰之器，脾肺同取，乃标本同治也。丰隆是足阳明经的络穴，能调运中焦脾胃之气，使气行津布，痰湿得化，肺脏自安。咳嗽兼喘者加定喘穴以止咳定喘；胸脘痞闷加足三里、内关以宽胸理气。
 
 治法  毫针刺，用平补平泻法，或补法，或灸法。
 
@@ -60,39 +60,39 @@
 
 治则  平肝降火，清肺化痰。取手太阴、足厥阴经穴为主。
 
-处方  [尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)  [肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)  [阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)
+处方  尺泽  肺俞  太冲  阳陵泉
 
-方义  [尺泽](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.5.md)为肺经合穴，配[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)清肺化痰；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)为肝之原穴，配[阳陵泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.34.md)清泻肝胆之火，以免肺受其灼。无火不生痰，无痰不作咳，痰火既清，则咳嗽可平。咽喉干痒加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)以清咽；咳逆咯血加[孔最](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.6.md)以镇咳止血。
+方义  尺泽为肺经合穴，配肺俞清肺化痰；太冲为肝之原穴，配阳陵泉清泻肝胆之火，以免肺受其灼。无火不生痰，无痰不作咳，痰火既清，则咳嗽可平。咽喉干痒加照海以清咽；咳逆咯血加孔最以镇咳止血。
 
 治法  针泻足厥阴经穴，平补平泻手太阴经穴，不灸。
 
 耳针
 
-取穴  气管、肺、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、枕。
+取穴  气管、肺、神门、枕。
 
-刺法  针双侧，用中等刺激，留针10～20分钟，隔日1次，10次为1疗程。外感咳嗽加下屏尖、下脚端，内伤咳嗽加脾、肾。并可用[王不留行](https://www.gmzyjc.com/read/bc/bc12-0.0.16.0.0.md)压贴耳穴。
+刺法  针双侧，用中等刺激，留针10～20分钟，隔日1次，10次为1疗程。外感咳嗽加下屏尖、下脚端，内伤咳嗽加脾、肾。并可用王不留行压贴耳穴。
 
 穴位埋线
 
-取穴  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)、[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)。年老体弱者加膏[肓俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.16.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)。
+取穴  大椎、定喘、肺俞、心俞、膈俞。年老体弱者加膏肓俞、足三里。
 
 方法  将一段1～2厘米长消毒羊肠线，埋植在穴位的皮下组织或肌层内，针孔处敷盖消毒纱布。一般间隔一个月埋线一次，总次数根据病情而定。
 
 **〔应用例案〕**
 
-有一男子咳嗽，忽气出不绝声，病数日矣。以手按其[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)穴而应，徵以冷针频频刺之而愈（《针灸资生经》）。
+有一男子咳嗽，忽气出不绝声，病数日矣。以手按其膻中穴而应，徵以冷针频频刺之而愈（《针灸资生经》）。
 
-宋×，女，33岁。自诉：素往体弱，纳减脘闷，近日不慎，感寒作咳，误服凉药则咳甚；现痰白肢懒，神疲乏力。查：面淡黄，睑微肿，舌质淡，苔薄白，脉来濡滑，惟右关细弱。本景岳所示：“凡脉见细弱，症见虚寒而咳嗽不已者，此等症状，皆不必治嗽，但补其阳而嗽自止”的经验，乃补[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)、泻[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[列缺](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.7.md)、[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)，灸[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)等穴，一日一次，连续治疗七次，聚散关开、咳止而愈（摘自《现代针灸医案选》）。
+宋×，女，33岁。自诉：素往体弱，纳减脘闷，近日不慎，感寒作咳，误服凉药则咳甚；现痰白肢懒，神疲乏力。查：面淡黄，睑微肿，舌质淡，苔薄白，脉来濡滑，惟右关细弱。本景岳所示：“凡脉见细弱，症见虚寒而咳嗽不已者，此等症状，皆不必治嗽，但补其阳而嗽自止”的经验，乃补太渊、泻肺俞、列缺、丰隆，灸脾俞、足三里等穴，一日一次，连续治疗七次，聚散关开、咳止而愈（摘自《现代针灸医案选》）。
 
 **〔文献摘录〕**
 
-久咳不愈：[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)、[乳根](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.18.md)、[风门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.12.md)、[缺盆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.12.md)（《针灸大成》）。
+久咳不愈：肺俞、足三里、膻中、乳根、风门、缺盆（《针灸大成》）。
 
-上气胸满，短气咳逆，灸[云门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.2.md)五十壮（《千金要方》）。
+上气胸满，短气咳逆，灸云门五十壮（《千金要方》）。
 
-久咳最宜灸膏肓穴，其次则宜灸[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)等穴，各随证治之，若暴嗽则不必灸也。有男子忽气出不绝声，病数日矣。以手按其[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)穴而应，徵以冷针频频刺之而愈（《针灸资生经》）。
+久咳最宜灸膏肓穴，其次则宜灸肺俞等穴，各随证治之，若暴嗽则不必灸也。有男子忽气出不绝声，病数日矣。以手按其膻中穴而应，徵以冷针频频刺之而愈（《针灸资生经》）。
 
-针刺[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)为主治疗外感咳嗽50例。采用平补平泻手法，缓慢进针。针[定喘](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.2.0.md)穴要求针感酸胀麻上行至颈，下行至背及两肩，捻针2~3分钟以后，患者顿感胸中气闷缓解，气喘、喉燥消失，不留针。继针[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)，一般针3~5次能取得显效。一个疗程（10次为一疗程）治愈者为40%，好转者为56%，无效
+针刺定喘、合谷、太渊为主治疗外感咳嗽50例。采用平补平泻手法，缓慢进针。针定喘穴要求针感酸胀麻上行至颈，下行至背及两肩，捻针2~3分钟以后，患者顿感胸中气闷缓解，气喘、喉燥消失，不留针。继针合谷、太渊，一般针3~5次能取得显效。一个疗程（10次为一疗程）治愈者为40%，好转者为56%，无效
 者为4%，有效率为96%（《针灸医学验集》)。
 
 **复习思考题**

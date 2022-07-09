@@ -18,9 +18,9 @@
 
 治则  补气，养血，安神。取手少阴、足太阴经穴和背俞穴为主。
 
-处方  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)  [心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)
+处方  神门  脾俞  心俞  三阴交
 
-方义  [脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)健脾益气养血；[心俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.15.md)、[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)养心安神，四穴共用，气能化血，血能养心，心能藏神，神志可宁，则夜易入寐。健忘加[志室](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.52.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)以补肾醒脑。
+方义  脾俞、三阴交健脾益气养血；心俞、神门养心安神，四穴共用，气能化血，血能养心，心能藏神，神志可宁，则夜易入寐。健忘加志室、百会以补肾醒脑。
 
 治法  针用补法，针灸并用。留针宜长，一般留1～2小时。于睡前治疗，效果更好。每日1次，连针5～10次为一疗程。
 
@@ -30,9 +30,9 @@
 
 治则  滋阴、降火、安神。取手足少阴、厥阴经穴。
 
-处方  [大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)  [太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)  [太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)
+处方  大陵  太溪  神门  太冲
 
-方义  [大陵](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.7.md)降心火，[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)滋肾阴，二穴相配交通心肾，以宁心定志；[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)平肝潜阳，[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)镇心安神。眩晕还可加[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)以清头目；耳鸣加[听宫](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.19.md)以益聪开窍；遗精加[志室](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.52.md)以补肾壮腰。
+方义  大陵降心火，太溪滋肾阴，二穴相配交通心肾，以宁心定志；太冲平肝潜阳，神门镇心安神。眩晕还可加风池以清头目；耳鸣加听宫以益聪开窍；遗精加志室以补肾壮腰。
 
 治法  针宜用补泻兼施法。
 
@@ -42,9 +42,9 @@
 
 治则  和胃化痰，安神。取任脉、足阳明、足太阴经穴。
 
-处方  [中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)  [丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)  [厉兑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.45.md)  [隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)
+处方  中脘  丰隆  厉兑  隐白
 
-方义  胃不和则不寐，故取募[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)和络穴[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)，以和胃化痰安神；阳明根于[厉兑](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.45.md)，太阴根于[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)，二穴同用，主治多梦失眠。如出现懊𢙐、呕恶加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)以安神和胃；头晕加[印堂](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.2.0.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)以镇静安神。
+方义  胃不和则不寐，故取募中脘和络穴丰隆，以和胃化痰安神；阳明根于厉兑，太阴根于隐白，二穴同用，主治多梦失眠。如出现懊𢙐、呕恶加内关以安神和胃；头晕加印堂、合谷以镇静安神。
 
 治法  针宜泻法。
 
@@ -54,15 +54,15 @@
 
 治则  平肝、降火、安神。取足少阳、足厥阴、手少阴经穴。
 
-处方  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)  [足窍阴](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.44.md)  [风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)
+处方  行间  足窍阴  风池  神门
 
-方义  [行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)平肝潜阳以制怒，[足窍阴](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.44.md)清泻肝旺之火而除烦，[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)主治头痛头晕，[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)宁心安神。如有耳鸣加刺[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)、[中渚](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.3.md)以开窍益聪；目赤加刺[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)、[阳溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.5.md)以清热散风。
+方义  行间平肝潜阳以制怒，足窍阴清泻肝旺之火而除烦，风池主治头痛头晕，神门宁心安神。如有耳鸣加刺翳风、中渚以开窍益聪；目赤加刺太阳、阳溪以清热散风。
 
 治法  毫针刺用泻法。
 
 耳针
 
-取穴  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、心、脾  肾、脑、下脚端
+取穴  神门、心、脾  肾、脑、下脚端
 
 刺法  每次取2～3穴，捻转中强刺激，留针20分钟。
 
@@ -72,17 +72,17 @@
 
 〔应用例案〕
 
-姚××，女，48岁。自诉：失眠已有七、八年之久，每晚仅能睡2～3小时，伴心悸、口苦、四肢无力。查：舌质淡，苔薄，脉细软无力。诊为心脾血虚。针取[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)。针二次后已可睡5小时左右，针五次后已能睡6～7小时，余症均除。计针10次痊愈（摘自《现代针灸医案选》）。
+姚××，女，48岁。自诉：失眠已有七、八年之久，每晚仅能睡2～3小时，伴心悸、口苦、四肢无力。查：舌质淡，苔薄，脉细软无力。诊为心脾血虚。针取神门、足三里、三阴交。针二次后已可睡5小时左右，针五次后已能睡6～7小时，余症均除。计针10次痊愈（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-心热不寐，[解溪](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.41.md)泻，[涌泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.1.md)补，立愈（《针灸集成》）。
+心热不寐，解溪泻，涌泉补，立愈（《针灸集成》）。
 
-不得卧：[太渊](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.1.3.9.md)、[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)、[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)、[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、阴陵（泉）、[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)（《神应经》）。
+不得卧：太渊、公孙、隐白、肺俞、阴陵（泉）、三阴交（《神应经》）。
 
-针刺[安眠](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.11.0.md)穴（位于[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)与[翳风](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.17.md)穴中间处，直刺8分深，留针15分钟)，治疗各种原因引起的失眠证，收到较好效果。最好在睡前施术。亦可采用图钉型揿针，埋刺在穴位上，外用胶布固定，1至2日取下。(《针灸处方集》)。
+针刺安眠穴（位于风池与翳风穴中间处，直刺8分深，留针15分钟)，治疗各种原因引起的失眠证，收到较好效果。最好在睡前施术。亦可采用图钉型揿针，埋刺在穴位上，外用胶布固定，1至2日取下。(《针灸处方集》)。
 
-每晚临睡前，在[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)穴按照艾卷温和灸法，施灸10—15分钟，治疗21例失眠者，均获较好的效果，亦无不良反应。一般病例施灸后5～15分钟即能入睡，个别病例延迟到2小时后方可入睡。也有的患者于施灸中即可入睡。一般施灸1～4次，睡眠时间可持续8～12小时（《针灸医学验集》）。
+每晚临睡前，在百会穴按照艾卷温和灸法，施灸10—15分钟，治疗21例失眠者，均获较好的效果，亦无不良反应。一般病例施灸后5～15分钟即能入睡，个别病例延迟到2小时后方可入睡。也有的患者于施灸中即可入睡。一般施灸1～4次，睡眠时间可持续8～12小时（《针灸医学验集》）。
 
 复习思考题
 

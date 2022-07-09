@@ -18,9 +18,9 @@
 
 治则  和解少阳，祛邪截疟。取督脉、手三阳经穴为主。
 
-处方  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)  [后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)  [间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)  [液门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.2.md)  [曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)
+处方  大椎  后溪  间使  液门  曲池
 
-方义  [大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)属督脉，能振奋阳气，为截疟之要穴；[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)为手[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经穴，能宣发[太阳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.1.4.0.md)经气，祛邪外达；[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)属于手厥阴经，为治疟的经验穴；[液门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.2.md)是手少阳经穴，能和解少阳，治寒热往来；[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)是手阳明经穴，能清泻阳明，以退炽热。疟疾发作时，加[十宣](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.4.1.0.md)放血以泄热；湿痰加[肺俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.13.md)、[丰隆](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.40.md)以祛湿化痰；痉厥加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[人中](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.26.md)以镇静解痉；久疟加[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)以补后天之本；痞块加[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[痞根](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.5.0.md)以消瘀除痞。
+方义  大椎属督脉，能振奋阳气，为截疟之要穴；后溪为手太阳经穴，能宣发太阳经气，祛邪外达；间使属于手厥阴经，为治疟的经验穴；液门是手少阳经穴，能和解少阳，治寒热往来；曲池是手阳明经穴，能清泻阳明，以退炽热。疟疾发作时，加十宣放血以泄热；湿痰加肺俞、丰隆以祛湿化痰；痉厥加内关、人中以镇静解痉；久疟加脾俞、胃俞、足三里以补后天之本；痞块加章门、痞根以消瘀除痞。
 
 治法  新病和偏热者针用泻法，并可放血，久病和偏寒者针用补法，针后加灸。在疟疾发作前1～2小时针灸。
 
@@ -36,15 +36,15 @@
 
 李xx，女，32岁，自诉：三天来每日下午先寒战，继则高热头痛，胸闷呕吐痰涎，至黄昏汗出热退，口干而粘，喜热饮但饮不多，大便溏薄。查：舌苔白腻，脉象滑数；查血涂片，找到疟原虫。证属疟疾。
 
-治以通阳截疟。乃取[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)治之。于发作前二小时施术，留针30分钟，每隔5分钟行针一次，每日治疗一次。经针一次已不发作，诸恙悉退；继针二次，以巩固疗效。五天后查血涂片，未找到疟原虫（摘自《现代针灸医案选》）。
+治以通阳截疟。乃取大椎、间使、后溪、足三里、脾俞治之。于发作前二小时施术，留针30分钟，每隔5分钟行针一次，每日治疗一次。经针一次已不发作，诸恙悉退；继针二次，以巩固疗效。五天后查血涂片，未找到疟原虫（摘自《现代针灸医案选》）。
 
 **〔文献摘录〕**
 
-疟先寒后热，取[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[劳宫](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.8.md)。疟先热后寒，取[公孙](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.4.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[百劳](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.1.0.md)、绝骨（《针灸大全》)。
+疟先寒后热，取公孙、后溪、曲池、劳宫。疟先热后寒，取公孙、曲池、百劳、绝骨（《针灸大全》)。
 
-刺疟者，必先问其病之所先发者，先刺之。先头痛及重者，先刺头上及两额、两眉间出血（头谓[上星](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.23.md)、[百会](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.20.md)，额谓[悬颅](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.5.md)，眉间谓[攒竹](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.2.md)等穴是也）；先项背痛者，先刺之（[风池](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.3.3.20.md)、[风府](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.16.md)、[大杼](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.11.md)、[神道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.11.md)）；先腰脊痛者，先刺郄中出血；先手臂痛者，先刺手少阴、阳明、十指间；先足胫痠痛者，先刺足阳明、十指间出血（《针灸大成》）。
+刺疟者，必先问其病之所先发者，先刺之。先头痛及重者，先刺头上及两额、两眉间出血（头谓上星、百会，额谓悬颅，眉间谓攒竹等穴是也）；先项背痛者，先刺之（风池、风府、大杼、神道）；先腰脊痛者，先刺郄中出血；先手臂痛者，先刺手少阴、阳明、十指间；先足胫痠痛者，先刺足阳明、十指间出血（《针灸大成》）。
 
-针刺治疗疟疾128例，取穴[大椎](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.14.md)、[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)、[陶道](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.13.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)、[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、疟门（位于中指与无名指歧骨间的凹陷处)，方法：在发作前2~3小时针刺，以泻法为主，留针30分钟，每隔5~10分钟行针一次，或持续进行20分钟的提插捻转后，留针30分钟；对体弱及针刺敏感者，取平补平泻手法，得气后留针1~2小时，每隔3~ 5分钟行针一次。结果：针刺一次治愈64例，二次治愈43例，三次治愈15例。在针刺治愈病例中，有个别者复发。留针时捻转得气针感持久者疗效高，疟疾发作前2~3小时针刺治愈率高，绝大多数可当时抑制发作（《针灸医学验集》)。
+针刺治疗疟疾128例，取穴大椎、间使、陶道、合谷、后溪、内关、疟门（位于中指与无名指歧骨间的凹陷处)，方法：在发作前2~3小时针刺，以泻法为主，留针30分钟，每隔5~10分钟行针一次，或持续进行20分钟的提插捻转后，留针30分钟；对体弱及针刺敏感者，取平补平泻手法，得气后留针1~2小时，每隔3~ 5分钟行针一次。结果：针刺一次治愈64例，二次治愈43例，三次治愈15例。在针刺治愈病例中，有个别者复发。留针时捻转得气针感持久者疗效高，疟疾发作前2~3小时针刺治愈率高，绝大多数可当时抑制发作（《针灸医学验集》)。
 
 **复习思考题**
 

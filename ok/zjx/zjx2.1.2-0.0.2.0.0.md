@@ -16,39 +16,39 @@
 
 治则  理气宽胸，祛痰化瘀。取任脉、足阳明经穴为主，背俞及手厥阴经穴为辅。
 
-处方  [天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)  [膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)  [足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)  [内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)  [上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)  [胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)  [膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)
+处方  天突  膻中  足三里  内关  上脘  胃俞  膈俞
 
-方义  气会[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)配[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)舒展胸中气机，可宽胸利膈，散结利咽；阴维[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)配[上脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.12.md)宽贲门而降痰浊，调气止痛；[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)为血之会穴，又近膈部，故能利膈活血化瘀；[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)调理脾胃气血，以扶正祛邪。如出现便秘可加[照海](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.6.md)以通便；短气灸[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)以补气；肢冷脉微灸[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)以温肾壮阳。
+方义  气会膻中配天突舒展胸中气机，可宽胸利膈，散结利咽；阴维内关配上脘宽贲门而降痰浊，调气止痛；膈俞为血之会穴，又近膈部，故能利膈活血化瘀；足三里、胃俞、脾俞调理脾胃气血，以扶正祛邪。如出现便秘可加照海以通便；短气灸气海以补气；肢冷脉微灸命门、肾俞以温肾壮阳。
 
 治法  初期用平补平泻法，后期用补法，并可加灸。
 
 耳针
 
-取穴  [神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)、胃、食道、膈。
+取穴  神门、胃、食道、膈。
 
 刺法  取双侧，用中等刺激，每日一次，10次为一疗程。
 
 **〔应用例案〕**
 
-有老妇人患反胃，饮食至晚即吐出，见其气绕脐而转。予为点[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)并夹脐边两穴，即归；只灸[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)即愈(《针灸资生经》)。
+有老妇人患反胃，饮食至晚即吐出，见其气绕脐而转。予为点水分、气海并夹脐边两穴，即归；只灸水分、气海即愈(《针灸资生经》)。
 
-邬××，女，73岁。代诉：患者突然眩晕，肢体麻木，滴水不进，得食即吐，一昼夜达数十次，胸部痞闷，精神疲乏，闭目懒言，已二天。查：脉弦大，两尺微细，舌淡苔薄腻，按[神阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.7.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)有动悸应指。取中魁，施米粒灸各七壮。灸后患者自诉胸院无异常。次日随访，眩晕平，呕吐止，并能吃稀粥几匙（摘自《现代针灸医案选》）。
+邬××，女，73岁。代诉：患者突然眩晕，肢体麻木，滴水不进，得食即吐，一昼夜达数十次，胸部痞闷，精神疲乏，闭目懒言，已二天。查：脉弦大，两尺微细，舌淡苔薄腻，按神阙、中脘有动悸应指。取中魁，施米粒灸各七壮。灸后患者自诉胸院无异常。次日随访，眩晕平，呕吐止，并能吃稀粥几匙（摘自《现代针灸医案选》）。
 
 **〔文献摘录〕**
 
-膈噎：因气虚，血虚，热，痰火，血积，癖积。针[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[石门](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.5.md)、三里、[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、胃脘、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、[水分](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.8.md)、[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[胃仓](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.50.md)（《针灸大成》）。
+膈噎：因气虚，血虚，热，痰火，血积，癖积。针天突、石门、三里、胃俞、胃脘、膈俞、水分、气海、胃仓（《针灸大成》）。
 
 噫哕膈中气闭塞，灸腋下聚毛下附胁宛宛中五十壮（《千金要方》）。
 
-在X线下观察发现，重刺激针刺[天突](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.20.1.md)、[膻中](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.16.md)、[合谷](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.4.md)、[巨阙](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.13.md)等穴，不仅可使正常人食管蠕动增强，内径增宽，且可使食道癌患者癌肿部位的上、下段食管蠕动呈相同改变（《针灸作用机理研究》）。
+在X线下观察发现，重刺激针刺天突、膻中、合谷、巨阙等穴，不仅可使正常人食管蠕动增强，内径增宽，且可使食道癌患者癌肿部位的上、下段食管蠕动呈相同改变（《针灸作用机理研究》）。
 
 **附：反胃**
 
-反胃又名：翻胃。其病因病机基本上与噎膈相同，但病变部位和主要症状有所不同。因反胃多因[幽门](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.21.md)不全梗阻、痉挛或胃内肿瘤等所致。胃脘部疼痛明显，呕吐的特点多是朝食暮吐，暮食朝吐，食物在胃内停留的时间较长。无吞咽困难、格拒和旋食旋吐、食物不得入胃的现象。
+反胃又名：翻胃。其病因病机基本上与噎膈相同，但病变部位和主要症状有所不同。因反胃多因幽门不全梗阻、痉挛或胃内肿瘤等所致。胃脘部疼痛明显，呕吐的特点多是朝食暮吐，暮食朝吐，食物在胃内停留的时间较长。无吞咽困难、格拒和旋食旋吐、食物不得入胃的现象。
 
-临床症候多属脾胃虚寒，或[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)火衰，脘腹䐜胀而痛，吐后觉舒，神疲乏力，面色少华，四肢不温，舌质淡，苔黄白，脉细浮无力。
+临床症候多属脾胃虚寒，或命门火衰，脘腹䐜胀而痛，吐后觉舒，神疲乏力，面色少华，四肢不温，舌质淡，苔黄白，脉细浮无力。
 
-治宜温运脾胃，和胃降逆。取[胃俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.21.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[中脘](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.11.md)、[章门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.13.md)、[梁门](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.21.md)、[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)等穴，针灸并用。
+治宜温运脾胃，和胃降逆。取胃俞、脾俞、中脘、章门、梁门、关元、足三里、肾俞等穴，针灸并用。
 
 **复习思考题**
 

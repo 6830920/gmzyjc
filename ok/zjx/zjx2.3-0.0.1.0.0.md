@@ -8,7 +8,7 @@
 
 经迟：多由素体阳虚，寒邪内生；或行经之际，淋雨涉水，贪食生冷，寒邪搏于冲任，血为寒凝，经行受阻；或肝气不舒，气滞血瘀，胞脉血运不畅；或病后失调，产孕过多，营血亏损；或饮食劳倦，脾胃两虚，生化之源不足，气衰血少，均可引起月经后期。
 
-经乱：多因肝郁，肾虚所致。肝藏血而主疏泄，若郁怒伤肝，肝气疏泄太过则月经偏于先期，疏泄不及则月经偏于后期。肾主封藏而司生育，若素体肾气不足，或房室不节，或孕育过多，肾失封藏，损伤冲任，[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)溢蓄失调，致使月经周期错乱。
+经乱：多因肝郁，肾虚所致。肝藏血而主疏泄，若郁怒伤肝，肝气疏泄太过则月经偏于先期，疏泄不及则月经偏于后期。肾主封藏而司生育，若素体肾气不足，或房室不节，或孕育过多，肾失封藏，损伤冲任，血海溢蓄失调，致使月经周期错乱。
 
 〔辨证论治〕
 
@@ -20,9 +20,9 @@
 
 治则  清热调经。取任脉和足三阴经穴为主。
 
-处方  主穴：[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)  配穴：实热配[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)；虚热配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[然谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.2.md)；郁热配[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[地机](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.8.md)；气虚配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)。
+处方  主穴：关元  血海  配穴：实热配太冲、曲池；虚热配三阴交、然谷；郁热配行间、地机；气虚配足三里、脾俞。
 
-方义  本方的主要作用是清热和血，调理冲任。[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)属任脉经穴，又是足三阴经的交会穴，“冲脉起于[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)”，故[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)是调理冲任的要穴；合[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)以调血。冲任调和，经血则按时而行。实热者配[曲池](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.2.3.11.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)，以清解血分之热；虚热者配[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[然谷](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.2.md)，以益阴清热；郁热者配[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[地机](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.8.md)，以疏肝解郁，清泻血分之热；气虚者配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)，以益气撮血，如出现心烦加[间使](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.5.md)以宁心安神，盗汗加[阴郄](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.6.md)、[后溪](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.3.3.3.md)以养阴固表，腰痠痛加[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[腰眼](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.2.6.0.md)以益肾利腰，胸胁胀痛加[内关](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.1.3.6.md)、[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)以疏肝理气止痛，小腹胀痛加[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)、[气穴](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.13.md)以利气消胀，血瘀加[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[四满](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.14.md)以调经化瘀，月经过多加[隐白](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.1.md)以调血统血。
+方义  本方的主要作用是清热和血，调理冲任。关元属任脉经穴，又是足三阴经的交会穴，“冲脉起于关元”，故关元是调理冲任的要穴；合血海以调血。冲任调和，经血则按时而行。实热者配曲池、太冲，以清解血分之热；虚热者配三阴交、然谷，以益阴清热；郁热者配行间、地机，以疏肝解郁，清泻血分之热；气虚者配足三里、脾俞，以益气撮血，如出现心烦加间使以宁心安神，盗汗加阴郄、后溪以养阴固表，腰痠痛加肾俞、腰眼以益肾利腰，胸胁胀痛加内关、期门以疏肝理气止痛，小腹胀痛加气海、气穴以利气消胀，血瘀加中极、四满以调经化瘀，月经过多加隐白以调血统血。
 
 治法  亳针剌用实泻虚补法，气虚者针灸并施。留针20～30分钟，1日1次，10次为一疗程。
 
@@ -32,9 +32,9 @@
 
 治则  温经和血。取任脉和足三阴经穴为主。
 
-处方  主穴：[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)  [气穴](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.13.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  配穴：寒实配[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)；虚寒配[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)；血虚配[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)；气滞配[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)。
+处方  主穴：气海  气穴  三阴交  配穴：寒实配归来、天枢；虚寒配命门、太溪；血虚配足三里、脾俞、膈俞；气滞配蠡沟。
 
-方义  肾气旺盛，月经才能应时来潮。[气海](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.6.md)是任脉经穴，[气穴](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.13.md)是肾经和冲脉之会，二穴相配有调和冲任的作用；[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)为足三阴经之会，功能益肾调血，补养冲任。寒实者灸足阳明经穴[归来](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.29.md)、[天枢](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.25.md)以温通胞脉，活血通经；虚寒者加灸[命门](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.4.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、温肾壮阳，以消阴翳；血虚者加[足三里](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.36.md)、[脾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.20.md)、[膈俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.17.md)、调补脾胃以益生血之源；气滞者取[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)疏肝解郁，理气行血。如有小腹冷痛加[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)、以温阳止痛，心悸失眠加[神门](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.2.3.7.md)以宁心安神，小腹胀痛、经血有块加[中极](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.3.md)、[四满](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.14.md)调经化瘀消胀。
+方义  肾气旺盛，月经才能应时来潮。气海是任脉经穴，气穴是肾经和冲脉之会，二穴相配有调和冲任的作用；三阴交为足三阴经之会，功能益肾调血，补养冲任。寒实者灸足阳明经穴归来、天枢以温通胞脉，活血通经；虚寒者加灸命门、太溪、温肾壮阳，以消阴翳；血虚者加足三里、脾俞、膈俞、调补脾胃以益生血之源；气滞者取蠡沟疏肝解郁，理气行血。如有小腹冷痛加关元、以温阳止痛，心悸失眠加神门以宁心安神，小腹胀痛、经血有块加中极、四满调经化瘀消胀。
 
 治法  虚补实泻，针灸并施。
 
@@ -44,27 +44,27 @@
 
 治则  调补肝肾。取任脉和足三穴阴经为主。
 
-处方  主穴：[关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)  [三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)  配穴：肝郁配[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)、[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)；肾虚配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[太溪](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.3.md)、[水泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.5.md)。
+处方  主穴：关元  三阴交  配穴：肝郁配太冲、肝俞、期门；肾虚配肾俞、太溪、水泉。
 
-方义  [关元](https://www.gmzyjc.com/read/zjs/zjs3.2.1-0.1.1.3.4.md)与[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)相配可和肝补肾，调理冲任，冲任调和经血可调。如经行不畅加[蠡沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.5.md)，以理气行血；胸胁胀痛加[支沟](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.2.3.6.md)、[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、疏肝解郁以利胸胁；腰脊痠软加[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[曲泉](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.8.md)，益肾气以利腰脊。肝郁配[太冲](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.3.md)、[期门](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.14.md)；肾虚配[肾俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.23.md)、[水泉](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.2.3.5.md)。
+方义  关元与三阴交相配可和肝补肾，调理冲任，冲任调和经血可调。如经行不畅加蠡沟，以理气行血；胸胁胀痛加支沟、太冲、疏肝解郁以利胸胁；腰脊痠软加肾俞、曲泉，益肾气以利腰脊。肝郁配太冲、期门；肾虚配肾俞、水泉。
 
 治法  肝郁宜泻，肾虚宜补。
 
 耳针
 
-取穴  [子宫](https://www.gmzyjc.com/read/zjs/zjs3.4-0.1.3.5.0.md)、屏间、卵巢、脾、肝、肾。
+取穴  子宫、屏间、卵巢、脾、肝、肾。
 
 剌法  中等刺激，每次取2～3穴，留针15～30分钟，隔日一次，也可耳穴埋针。
 
 〔应用例案〕
 
-丁××,女，28岁。自诉：婚后月经不调三年多。曾服中西药物治疗，未获显效。现月经周期超前一周，量多，色紫红，伴有两乳作胀，食欲差，少腹与胁部作痛。查：脉弦数。治遵《百症赋》所谓“妇人经事改常，自有[地机](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.8.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)”之治疗经验，取用[地机](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.8.md)、[血海](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.10.md)，配用[三阴交](https://www.gmzyjc.com/read/zjs/zjs3.1.4-6-0.0.1.3.6.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)、[肝俞](https://www.gmzyjc.com/read/zjs/zjs3.1.7-8-0.0.1.3.18.md)，施以除疾补泻法，留针20分钟，隔日一次。共针四次，其经期、经量、经色等即趋于正常（摘自《现代针灸医案选》）。
+丁××,女，28岁。自诉：婚后月经不调三年多。曾服中西药物治疗，未获显效。现月经周期超前一周，量多，色紫红，伴有两乳作胀，食欲差，少腹与胁部作痛。查：脉弦数。治遵《百症赋》所谓“妇人经事改常，自有地机、血海”之治疗经验，取用地机、血海，配用三阴交、行间、肝俞，施以除疾补泻法，留针20分钟，隔日一次。共针四次，其经期、经量、经色等即趋于正常（摘自《现代针灸医案选》）。
 
 〔文献摘录〕
 
-月事不利：[气冲](https://www.gmzyjc.com/read/zjs/zjs3.1.1-3-0.1.3.3.30.md)、[行间](https://www.gmzyjc.com/read/zjs/zjs3.1.9-12-0.0.4.3.2.md)（《甲乙经》）。
+月事不利：气冲、行间（《甲乙经》）。
 
-根据近年来针刺治疗月经不调的资料报道，在阳关至[腰俞](https://www.gmzyjc.com/read/zjs/zjs3.2.2-0.0.1.3.2.md)间（任选一点，最好取低位的），用三棱针挑刺，效果很好。选冲、任、督、带、肝、脾、肾等经腹侧脐以下和背侧第二腰椎以下的部位，用[梅花](https://www.gmzyjc.com/read/bc/bc11-0.0.20.0.0.md)针进行叩刺，也可奏效（《针灸研究进展》）。
+根据近年来针刺治疗月经不调的资料报道，在阳关至腰俞间（任选一点，最好取低位的），用三棱针挑刺，效果很好。选冲、任、督、带、肝、脾、肾等经腹侧脐以下和背侧第二腰椎以下的部位，用梅花针进行叩刺，也可奏效（《针灸研究进展》）。
 
 复习思考题
 

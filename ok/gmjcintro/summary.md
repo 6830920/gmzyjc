@@ -14,4 +14,3 @@ template: summary.html
 * [电子版录入规范]($guifan.md)
 * [免费领取光明中医电子版]($mianfei.md)
 * [原版教材]($jiaocaiyb.md)
-* [志愿者接龙]($zhiyuanzhe.md)

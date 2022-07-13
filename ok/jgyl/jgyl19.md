@@ -147,7 +147,7 @@
 
 ### **乌梅丸方**
 
-**乌梅**<small>三百个<、small>  **细辛**<small>六两<、small>  **附子**<small>六两，炮<、small>  **黄连**<small>一斤<、small>  **当归**<small>四两<、small>  **黄柏**<small>六两<、small>  **桂枝**<small>六两<、small>  **人参**<small>六两<、small>  **干姜**<small>十两<、small>  **川椒**<small>四两，去汗<、small>
+**乌梅**<small>三百个</small>  **细辛**<small>六两</small>  **附子**<small>六两，炮</small>  **黄连**<small>一斤</small>  **当归**<small>四两</small>  **黄柏**<small>六两</small>  **桂枝**<small>六两</small>  **人参**<small>六两</small>  **干姜**<small>十两</small>  **川椒**<small>四两，去汗</small>
 
 **上十味，异捣筛，合治之，以苦酒渍乌梅一宿，去核，蒸之五升米下，饭熟捣成泥，和药令相得，内臼中，与蜜杵二千下，丸如梧子大，先食饮服一丸，日三服，稍加至二十丸。禁生冷滑臭等食。**
 

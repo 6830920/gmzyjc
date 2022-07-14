@@ -10,7 +10,13 @@
 
 由于教材编写时间仓促，又竭力于继承与创新,不足之处在所难免，敬希学员和广大读者惠赐宝贵意见，以便在再版时修订。
 
-光明中医函授大学教育研究室
+<div style="text-align: right">光明中医函授大学教育研究室</div>
 
-一九八五年十月四日
+<div style="text-align: right">一九八五年十月四日</div>
+
+<div style="text-align: center">
+<img src="img/lianxiok.jpg" style="zoom:60%;" />
+</div>
+
+
 

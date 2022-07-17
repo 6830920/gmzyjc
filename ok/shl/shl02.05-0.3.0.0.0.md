@@ -236,7 +236,7 @@
 
 **服桂枝汤，大汗出后，大烦渴不解，脉洪大者，白虎加人参汤主之。[26]**
 
-**知母**<small>六两</small> **石膏**<small>一斤，碎，绵裹</small> **甘草**<small>炙，</small>二两 **粳米**<small>六合</small> **人参**<small>三两</small>
+**知母**<small>六两</small> **石膏**<small>一斤，碎，绵裹</small> **甘草**<small>炙，二两</small> **粳米**<small>六合</small> **人参**<small>三两</small>
 
 **上五味，以水一斗，煮米熟，汤成去滓。温服一升，日三服。**
 

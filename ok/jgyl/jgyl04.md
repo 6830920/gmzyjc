@@ -150,7 +150,7 @@
 
 ### 柴胡桂姜汤
 
-**治疟寒多微有热，或但寒不热。**<sub>服一剂如神。</sub>
+**治疟寒多微有热，或但寒不热。**<small>服一剂如神。</small>
 
 **柴胡**<small>半斤</small> **桂枝**<small>三两，去皮</small> **干姜**<small>二两</small> **栝蒌根**<small>四两</small> **黄芩**<small>三两</small>  **牡蛎**<small>三两，熬</small> **甘草**<small>二两，炙</small>
 

@@ -22,6 +22,7 @@ template: summary.html
 * [附录]($rmfu.md)
   * [附1：再论中医的阴阳概念]($rmfu1.md)
   * [附2：直观感受人体内部自然界与外部自然界]($rmfu2.md)
+  * [附3：中医诊断严重情况摘录]($rmfu3.md)
 
 
 

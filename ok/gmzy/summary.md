@@ -16,4 +16,3 @@ template: summary.html
 * [光明中医教材说明]($gmzy011.md)
 * [关于光明中医网校]($gmzy012.md)
 * [如何学习光明中医教材？]($gmzy012-1.md)
-* [光明中医辅导站]($gmzy013.md)

@@ -10,9 +10,10 @@
 
 ![](img/gl.png)
 
-<video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzyh.com/media/video/gl.png">
-<source id="mp4" src="https://zuoye.gmzyh.com/media/video/gl.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" width="100%"  poster="https://gmzyjx.com/media/video/gl.png">
+<source id="mp4" src="https://gmzyjx.com/media/video/gl.mp4" type="video/mp4">
 </video>
+
 
 ### 2、《中医内科学》
 
@@ -20,9 +21,10 @@
 
 ![](img/neike.png)
 
-<video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzyh.com/media/video/nk.png">
-<source id="mp4" src="https://zuoye.gmzyh.com/media/video/nk.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" width="100%"  poster="https://gmzyjx.com/media/video/nk.png">
+<source id="mp4" src="https://gmzyjx.com/media/video/nk.mp4" type="video/mp4">
 </video>
+
 
 ### 3、《针灸学》
 
@@ -34,8 +36,8 @@
 
 ![](img/zjx3.png)
 
-<video id="video" controls="" preload="none" width="100%"  poster="https://zuoye.gmzyh.com/media/video/zhenjiu.png">
-<source id="mp4" src="https://zuoye.gmzyh.com/media/video/zhenjiu.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" width="100%"  poster="https://gmzyjx.com/media/video/zhenjiu.png">
+<source id="mp4" src="https://gmzyjx.com/media/video/zhenjiu.mp4" type="video/mp4">
 </video>
 
 

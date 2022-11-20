@@ -15,10 +15,6 @@
 ## 完成度
 
 
-
-全部教材扫描版下载。[下载链接](https://drive.weixin.qq.com/s?k=AK8AFgezAAwPXGICzb ) 。
-
-
 ## 历史进度
 
 #### 进度汇报1（2019年8月-2019年12月）

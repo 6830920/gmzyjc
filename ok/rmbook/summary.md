@@ -3,6 +3,7 @@ template: summary.html
 ---
 
 * [作者简介]($rm000.md)
+* [书评节选]($rmsp.md)
 * [绪言]($rm00.md)
 * [第一章 阴阳平衡]($rm01.md)
 * [第二章 天地自然]($rm02.md)

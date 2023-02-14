@@ -20,11 +20,10 @@
 
 本书的内容到此为止！至于更高级的诊治部分，我会与光明中医的学员们一同研究，把深奥难懂的教材内容用浅显的语言表达出来。如果内容达到一定的量，以后可以再汇集为一本新书。
 
-后继相关信息将发布于下面这个链接：[https://gmzyjx.com/qa/question/7012/](https://gmzyjx.com/qa/question/7012/) 。
+后继相关信息将发布于下面这个链接：[https://gmzyjx.com/qa/question/7012/](https://gmzyjx.com/qa/question/7012/) 。 
 
 李文强
 
 2023年1月1日 
 
-​	
 

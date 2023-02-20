@@ -651,7 +651,7 @@
          id="tspan3193-41"
          x="205.2168"
          y="86.759857"
-         style="stroke-width:0.264583">少阳</tspan></text>
+         style="stroke-width:0.264583">一阳</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -662,7 +662,7 @@
          id="tspan3197-5"
          x="204.98805"
          y="107.48904"
-         style="stroke-width:0.264583">厥阴</tspan></text>
+         style="stroke-width:0.264583">三阴</tspan></text>
     <text
        id="text3199-6-6"
        y="104.35593"
@@ -673,7 +673,7 @@
          y="104.35593"
          x="249.25586"
          id="tspan3197-7-3"
-         sodipodi:role="line">少阴</tspan></text>
+         sodipodi:role="line">一阴</tspan></text>
     <text
        id="text3195-0-0"
        y="68.198586"
@@ -684,7 +684,7 @@
          y="68.198586"
          x="226.78825"
          id="tspan3193-41-0"
-         sodipodi:role="line">阳明</tspan></text>
+         sodipodi:role="line">二阳</tspan></text>
     <text
        id="text3195-0-6"
        y="87.425644"
@@ -695,7 +695,7 @@
          y="87.425644"
          x="247.81786"
          id="tspan3193-41-9"
-         sodipodi:role="line">太阳</tspan></text>
+         sodipodi:role="line">三阳</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -706,6 +706,6 @@
          id="tspan3197-7-3-6"
          x="229.24847"
          y="120.43598"
-         style="stroke-width:0.264583">太阴</tspan></text>
+         style="stroke-width:0.264583">二阴</tspan></text>
   </g>
 </svg>

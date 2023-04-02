@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg77015"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="脉.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview77017"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.9860387"
+     inkscape:cx="120.335"
+     inkscape:cy="144.87784"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs77012"><inkscape:path-effect
+       effect="spiro"
+       id="path-effect8558"
+       is_visible="true"
+       lpeversion="1" /></defs><g
+     inkscape:label="mai"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.118398,-82.197526)"><path
+       id="path51560"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.872554;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:none;stroke-dashoffset:7.09795;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 37.554675,97.032703 c 3.144774,-4.504624 6.093302,-9.348886 10.555361,-12.692369 2.160543,-1.565239 5.126708,-2.303417 7.630961,-1.121288 5.827577,3.206436 9.243926,8.848067 12.620981,13.814557"
+       sodipodi:nodetypes="cccc"
+       sodipodi:insensitive="true"><title
+         id="title8632">脉</title></path><path
+       id="path51560-4"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.872554;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:none;stroke-dashoffset:7.09795;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481"
+       sodipodi:nodetypes="ccccc" /></g></svg>

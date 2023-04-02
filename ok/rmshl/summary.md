@@ -6,6 +6,8 @@ template: summary.html
 
 * [第一章 基础知识]($rmshl01.md)
 
+  * [1.1 脉]($rmshl01-1.md)
+
 * [第二章 风寒袭表的传变过程概述]($rmshl02.md)
 
 * [第三章 六经病特点]($rmshl03.md)

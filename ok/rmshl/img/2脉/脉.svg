@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31.679865mm"
+   height="15.272357mm"
+   viewBox="0 0 31.679865 15.272357"
+   version="1.1"
+   id="svg77015"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="脉.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview77017"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="0.37806762"
+   inkscape:cx="-550.16613"
+   inkscape:cy="-31.740353"
+   inkscape:window-width="1920"
+   inkscape:window-height="986"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer1" /><defs
+   id="defs77012"><inkscape:path-effect
+     effect="spiro"
+     id="path-effect8558"
+     is_visible="true"
+     lpeversion="1" /></defs><g
+   inkscape:label="mai"
+   inkscape:groupmode="layer"
+   id="layer1"
+   transform="translate(-85.62742,-194.00107)" />
+       
+       <g
+   id="maipath"
+   transform="translate(-48.509022,-111.80354)">
+            <path
+   id="maipath2"
+   style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.872554;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:none;stroke-dashoffset:7.09795;stroke-opacity:1;paint-order:fill markers stroke"
+   d="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
+   sodipodi:nodetypes="cccc"
+   sodipodi:insensitive="true">
+       <title
+   id="title4035">脉</title>
+         
+        <animate
+   id="aniDown"
+   attributeName="d"
+   from="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
+   to="m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481"
+   dur="0.4s"
+   begin="click;aniUp.end"
+   end="click"
+   fill="freeze" />
+        <animate
+   id="aniUp"
+   attributeName="d"
+   to="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
+   from="m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481"
+   dur="0.4s"
+   begin="aniDown.end;"
+   fill="freeze"
+   end="click" />
+         
+         </path>
+       
+       
+       
+       </g>
+       
+       
+       </svg>

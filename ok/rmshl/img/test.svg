@@ -57,7 +57,8 @@
    y="160"
    x="160"
    id="text7871"
-   style="display:inline">     马       <animate
+   style="display:inline">     马       
+   <animate
    attributeName="x"
    from="160"
    to="60"

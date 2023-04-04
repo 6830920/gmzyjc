@@ -109,14 +109,16 @@
    dur="0.8s"
    keyTimes="0;0.5;1"
    restart="whenNotActive"
-   begin="beginG.click"
-   end="endG.click"
-   repeatCount="indefinite"
+   begin="0;beginG.click"
+   end="8s"
+   
+    repeatCount="100"
    fill="freeze" />
          
          </path>
        
        
+   <!-- repeatCount="indefinite" -->
        
        </g>
        

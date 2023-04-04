@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="31.679865mm"
-   height="15.272357mm"
-   viewBox="0 0 31.679865 15.272357"
+   width="58.133972mm"
+   height="18.984638mm"
+   viewBox="0 0 58.133973 18.984638"
    version="1.1"
    id="svg77015"
    xml:space="preserve"
@@ -24,9 +24,9 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
    showgrid="false"
-   inkscape:zoom="0.37806762"
-   inkscape:cx="-550.16613"
-   inkscape:cy="-31.740353"
+   inkscape:zoom="6.3899825"
+   inkscape:cx="138.18504"
+   inkscape:cy="12.832586"
    inkscape:window-width="1920"
    inkscape:window-height="986"
    inkscape:window-x="-11"
@@ -41,11 +41,56 @@
    inkscape:label="mai"
    inkscape:groupmode="layer"
    id="layer1"
-   transform="translate(-85.62742,-194.00107)" />
+   transform="translate(-85.62742,-191.66162)">
+   
+   
+   <rect
+     style="fill:#00ff3a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.933669"
+     id="beginBtn"
+     width="17.142092"
+     height="7.5772896"
+     x="126.6193"
+     y="191.66162"
+     rx="1.7005944"
+     ry="0.92830896"
+     ><title
+       id="title10642">启动</title></rect>
+    
+    <rect
+     style="fill:#ff8600;fill-opacity:1;fill-rule:evenodd;stroke-width:0.933669"
+     id="endBtn"
+     width="17.142092"
+     height="7.5772896"
+     x="126.53648"
+     y="203.06897"
+     rx="1.7005944"
+     ry="0.92830896" /><text
+     xml:space="preserve"
+     style="font-size:5.64444px;fill:#ff8600;fill-opacity:1;stroke-width:0.246856;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:0.264583, 0.79375;paint-order:fill markers stroke"
+     x="129.55914"
+     y="197.49986"
+     id="text10646"><tspan
+       sodipodi:role="line"
+       id="tspan10644"
+       style="stroke-width:0.246856"
+       x="129.55914"
+       y="197.49986">启动</tspan></text>
+       
+       <text
+     xml:space="preserve"
+     style="font-size:5.64444px;fill:#120900;fill-opacity:1;stroke-width:0.246856;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:0.264583, 0.79375;paint-order:fill markers stroke"
+     x="129.54381"
+     y="208.92763"
+     id="text10646-5"><tspan
+       sodipodi:role="line"
+       id="tspan10644-1"
+       style="fill:#120900;fill-opacity:1;stroke-width:0.246856"
+       x="129.54381"
+       y="208.92763">停止</tspan></text></g>
        
        <g
    id="maipath"
-   transform="translate(-48.509022,-111.80354)">
+   transform="translate(-48.509022,-109.46409)">
             <path
    id="maipath2"
    style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.872554;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:none;stroke-dashoffset:7.09795;stroke-opacity:1;paint-order:fill markers stroke"
@@ -55,30 +100,25 @@
        <title
    id="title4035">脉</title>
          
+  
         <animate
-   id="aniDown"
+   id="aniMai"
    attributeName="d"
-   from="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
-   to="m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481"
-   dur="0.4s"
-   begin="click;aniUp.end"
-   end="click"
+   values="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143;m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481;m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
+   dur="0.8s"
+   keyTimes="0;0.5;1"
+   restart="whenNotActive"
+   begin="beginBtn.click"
+   end = "endBtn.click"
+
+    repeatCount="indefinite"
+   
    fill="freeze" />
-        <animate
-   id="aniUp"
-   attributeName="d"
-   to="m 48.945299,126.63873 c 3.14477,-4.50463 6.093295,-9.3489 10.555361,-12.69238 2.160541,-1.56524 5.126707,-2.30342 7.630962,-1.12129 3.399235,1.45468 5.768721,4.45153 8.005195,7.27313 1.621605,2.12066 3.115113,4.33478 4.615793,6.54143"
-   from="m 47.473608,127.78338 c 4.02809,-3.92784 7.508583,-6.32116 9.717759,-7.37862 2.756894,-1.06828 6.027746,-1.34119 8.598262,-0.75541 3.664281,0.82519 3.592219,1.11421 6.349299,2.52011 3.362256,2.68877 4.242038,3.90159 6.141991,5.61481"
-   dur="0.4s"
-   begin="aniDown.end;"
-   fill="freeze"
-   end="click" />
          
          </path>
        
        
        
        </g>
-       
        
        </svg>

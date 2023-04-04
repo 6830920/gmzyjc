@@ -25,7 +25,7 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="6.3899825"
-   inkscape:cx="138.18504"
+   inkscape:cx="125.82194"
    inkscape:cy="12.832586"
    inkscape:window-width="1920"
    inkscape:window-height="986"
@@ -44,7 +44,10 @@
    transform="translate(-85.62742,-191.66162)">
    
    
-   <rect
+   
+    
+    <g
+   id="beginG"><rect
      style="fill:#00ff3a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.933669"
      id="beginBtn"
      width="17.142092"
@@ -52,19 +55,8 @@
      x="126.6193"
      y="191.66162"
      rx="1.7005944"
-     ry="0.92830896"
-     ><title
-       id="title10642">启动</title></rect>
-    
-    <rect
-     style="fill:#ff8600;fill-opacity:1;fill-rule:evenodd;stroke-width:0.933669"
-     id="endBtn"
-     width="17.142092"
-     height="7.5772896"
-     x="126.53648"
-     y="203.06897"
-     rx="1.7005944"
-     ry="0.92830896" /><text
+     ry="0.92830896"><title
+       id="title10642">启动</title></rect><text
      xml:space="preserve"
      style="font-size:5.64444px;fill:#ff8600;fill-opacity:1;stroke-width:0.246856;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:0.264583, 0.79375;paint-order:fill markers stroke"
      x="129.55914"
@@ -74,9 +66,18 @@
        id="tspan10644"
        style="stroke-width:0.246856"
        x="129.55914"
-       y="197.49986">启动</tspan></text>
+       y="197.49986">启动</tspan></text></g>
        
-       <text
+       <g
+   id="endG"><rect
+     style="fill:#ff8600;fill-opacity:1;fill-rule:evenodd;stroke-width:0.933669"
+     id="endBtn"
+     width="17.142092"
+     height="7.5772896"
+     x="126.53648"
+     y="203.06897"
+     rx="1.7005944"
+     ry="0.92830896" /><text
      xml:space="preserve"
      style="font-size:5.64444px;fill:#120900;fill-opacity:1;stroke-width:0.246856;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4.9;stroke-dasharray:0.264583, 0.79375;paint-order:fill markers stroke"
      x="129.54381"
@@ -86,7 +87,7 @@
        id="tspan10644-1"
        style="fill:#120900;fill-opacity:1;stroke-width:0.246856"
        x="129.54381"
-       y="208.92763">停止</tspan></text></g>
+       y="208.92763">停止</tspan></text></g></g>
        
        <g
    id="maipath"
@@ -108,11 +109,9 @@
    dur="0.8s"
    keyTimes="0;0.5;1"
    restart="whenNotActive"
-   begin="beginBtn.click"
-   end = "endBtn.click"
-
-    repeatCount="indefinite"
-   
+   begin="beginG.click"
+   end="endG.click"
+   repeatCount="indefinite"
    fill="freeze" />
          
          </path>

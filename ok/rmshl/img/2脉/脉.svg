@@ -110,9 +110,9 @@
    keyTimes="0;0.5;1"
    restart="whenNotActive"
    begin="0;beginG.click"
-   end="8s"
+   end="endG.click"
    
-    repeatCount="100"
+    repeatCount="10"
    fill="freeze" />
          
          </path>

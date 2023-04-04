@@ -123,13 +123,8 @@
 每个部位的脉搏状态，代表该部位的阴阳气血状态。当该部位气血平衡时，对应脉象应来去从容，节律均匀，力度和缓有力，频率不快不慢，宽度不大不小，不滑不涩，不弦不动。此为脉的平衡点。
 
 
-<embed src="img/2脉/脉.svg" width="300" height="200" type="image/svg-xml" />
 
-
-
-<object type="image/svg+xml" data="img/2脉/脉.svg" width="300" height="200"></object>
-
-
+<object id="rentisvg" width="800" height="100" data="./img/2脉/脉.svg" type="image/svg+xml"/>
 
 
 

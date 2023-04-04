@@ -124,12 +124,9 @@
 
 
 
-<object id="rentisvg" width="800" height="100" data="./img/2脉/脉.svg" type="image/svg+xml"></object>
+<object id="rentisvg" width="800" height="100" data="./img/2脉/脉.svg" type="image/svg+xml">脉搏跳动动画</object>
 
 
-
-
-![](img/2脉/脉.svg)
 
 随着各种情况的变化，气血会随之变化，体现在脉象也会有相应的变化，不超出平衡范围的话，皆为正常。比如出现适度的偏大偏小、偏数偏迟、偏滑偏涩、偏弦偏动等等，如与其身体状态相匹配，皆是正常的。
 

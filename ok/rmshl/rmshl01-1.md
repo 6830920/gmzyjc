@@ -124,7 +124,7 @@
 
 
 
-<object id="rentisvg" width="800" height="100" data="./img/2脉/脉.svg" type="image/svg+xml"/>
+<object id="rentisvg" width="800" height="100" data="./img/2脉/脉.svg" type="image/svg+xml"></object>
 
 
 

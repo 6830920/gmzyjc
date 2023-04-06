@@ -3,6 +3,8 @@ template: summary.html
 
 ---
 
+* [作者]($mj00.md)
+
 * [序]($mj000.md)
 
 * [卷一]($mj001.md)

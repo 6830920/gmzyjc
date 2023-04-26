@@ -42,4 +42,3 @@
 
 
 
-![](img/rulianxi.jpg)

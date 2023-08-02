@@ -15,8 +15,9 @@
 <div style="text-align: right">一九八五年十月四日</div>
 
 <div style="text-align: center">
-<img src="img/lianxiok.jpg" style="zoom:60%;" />
+<img src="img/gmzylianxi.jpg" style="zoom:60%;" />
 </div>
+
 
 
 

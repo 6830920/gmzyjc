@@ -10,7 +10,7 @@
 
 助教老师微信：
 
-![](img/lianxi2.png)
+![](img/gmzylianxi.jpg)
 
 教材截图：
 

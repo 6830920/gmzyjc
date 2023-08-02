@@ -26,5 +26,5 @@
 
 其它任何疑问请联系助教老师： 
 
-![](img/lianxi2.png)
+![](img/gmzylianxi.jpg)
 

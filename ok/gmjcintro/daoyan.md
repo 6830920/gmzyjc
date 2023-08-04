@@ -14,11 +14,12 @@
 
 <div style="text-align: right">一九八五年十月四日</div>
 
+------
+
+光明中医网址：gmzyjx.com
+
 <div style="text-align: center">
-<img src="img/gmzylianxi.jpg" style="zoom:60%;" />
+<img src="img/gmzylianxi.jpg" style="zoom:80%;" />
 </div>
-
-
-
 
 

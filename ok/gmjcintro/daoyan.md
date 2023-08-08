@@ -16,10 +16,15 @@
 
 ------
 
-光明中医网址：gmzyjx.com
+#### 联系我们：
+
+光明中医网址：gmzyjx.com，gmzyjc.com
+
+微信二维码：
 
 <div style="text-align: center">
 <img src="img/gmzylianxi.jpg" style="zoom:80%;" />
 </div>
+
 
 

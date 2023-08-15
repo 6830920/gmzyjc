@@ -58,8 +58,7 @@
 
 有疑问请联系助教江老师：
 
-![](img/qiyeliaxi2.png)
-
+![](img/gmzylianxi.jpg)
 
 
 

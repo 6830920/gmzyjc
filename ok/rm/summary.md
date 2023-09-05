@@ -8,7 +8,7 @@ template: summary.html
 * [第一章 阴阳平衡]($rm01.md)
 * [第二章 天地自然]($rm02.md)
 * [第三章 中医人体观念]($rm03.md)
-  
+
   * [3.1 人体基本概念及运转机制]($rm03-1.md)
   * [3.2人体元气]($rm03-2.md)
   * [3.3人体地气]($rm03-3.md)
@@ -24,6 +24,7 @@ template: summary.html
   * [附1：再论中医的阴阳概念]($rmfu1.md)
   * [附2：直观感受人体内部自然界与外部自然界]($rmfu2.md)
   * [附3：中医诊断严重情况摘录]($rmfu3.md)
+* [外篇]($rm-waipian-zhibing.md)
 
 
 

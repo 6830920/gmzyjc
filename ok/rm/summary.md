@@ -19,7 +19,7 @@ template: summary.html
   * [3.4人体天气]($rm03-4.md)
   * [3.5精]($rm03-5.md)
   * [3.6神]($rm03-6.md)
-  
+
 * [第四章 人体运行框架]($rm04.md)
 
 * [第五章 人体部位的划分及病证的轻重传变]($rm05.md)
@@ -34,7 +34,13 @@ template: summary.html
   * [附1：再论中医的阴阳概念]($rmfu1.md)
   * [附2：直观感受人体内部自然界与外部自然界]($rmfu2.md)
   * [附3：中医诊断严重情况摘录]($rmfu3.md)
+
+* [外篇]($rm-waipian.md)
+
+  * [治病主导思想]($rm-waipian-zhibing.md)
+
   
+
   
 
 

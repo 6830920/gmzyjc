@@ -28,7 +28,7 @@
 
 十一肋端章门是，乳下二肋寻**期门**。
 
-<img src="img/图120.jpg" style="zoom:80%;" />
+<img src="./img/图120.jpg" style="zoom:80%;" />
 
 图120足厥阴肝经循行示意图
 

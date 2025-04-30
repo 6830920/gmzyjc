@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="fangjian_huafen.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    id="svg1694"
    version="1.1"
    viewBox="0 0 242.72667 158.85507"
    height="158.85507mm"
-   width="242.72667mm">
+   width="242.72667mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs1688">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2773">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2769" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2771" />
+    </linearGradient>
     <inkscape:path-effect
        lpeversion="1"
        is_visible="true"
@@ -264,26 +276,40 @@
        x2="112.27486"
        y2="29.339762"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2773"
+       id="radialGradient2775"
+       cx="239.59406"
+       cy="117.04602"
+       fx="239.59406"
+       fy="117.04602"
+       r="10.035531"
+       gradientTransform="matrix(1,0,0,0.48661174,0,60.090052)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="-11"
-     inkscape:window-x="1525"
+     inkscape:window-x="-11"
      inkscape:window-height="986"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="312.59686"
-     inkscape:cx="431.47728"
+     inkscape:cy="312.2505"
+     inkscape:cx="295.21866"
      inkscape:zoom="0.88070314"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1691">
     <rdf:RDF>
@@ -292,7 +318,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -309,17 +335,17 @@
        x="183.34015"
        y="91.566628" />
     <path
-       style="fill:#000000;fill-opacity:0.47426471;stroke:#000000;stroke-width:0.259355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000300;fill-opacity:0.20206186;stroke:#000000;stroke-width:0.259355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 237.85129,90.94742 -41.03123,64.57194 -13.47991,0.27361 V 90.95834 Z"
        id="path3968-4"
        sodipodi:nodetypes="ccccc" />
     <path
        id="path3968-0-1"
        d="m 237.85129,90.94742 42.18914,65.15431 13.8603,-0.30878 V 90.958343 Z"
-       style="fill:#ffaaaa;fill-opacity:0.07264958;stroke:#000000;stroke-width:0.26299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#000001;fill-opacity:0.07264961;stroke:#000000;stroke-width:0.26299px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#0a0000;fill-opacity:0.59191179;stroke:#000000;stroke-width:0.260464px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#010001;fill-opacity:0.37938145;stroke:#000000;stroke-width:0.260464px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 237.9213,90.94742 -41.22793,64.81436 83.34706,0.33995 z"
        id="path3985-4" />
     <rect
@@ -333,16 +359,16 @@
        sodipodi:nodetypes="ccccc"
        id="path3968"
        d="M 238.0196,91.577955 196.86167,24.583666 183.34015,24.299793 v 67.266832 z"
-       style="fill:#ffaaaa;fill-opacity:0.64957267;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#fffdfd;fill-opacity:0.82268041;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccc"
-       style="fill:#ff6f62;fill-opacity:1;stroke:#000000;stroke-width:0.266927px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#fffcfc;fill-opacity:0.63092786;stroke:#000000;stroke-width:0.266927px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 238.0196,91.577955 42.04761,-67.345686 13.8138,0.319158 v 67.01524 z"
        id="path3968-0" />
     <path
        id="path3985"
        d="M 238.0196,91.577955 196.86167,24.583666 280.06721,24.232269 Z"
-       style="fill:#ff4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:0.90515465;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
        y="21.306898"
        x="51.73999"
@@ -377,14 +403,14 @@
        height="64.226334"
        width="110.56058"
        id="rect3161"
-       style="opacity:0.44868;fill:#2b1900;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.325165;stroke-dashoffset:0" />
+       style="opacity:0.44868;fill:#010100;fill-opacity:0.34432992;fill-rule:evenodd;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.325165;stroke-dashoffset:0" />
     <rect
        y="21.306898"
        x="51.73999"
        height="67.26683"
        width="109.97221"
        id="rect3145"
-       style="opacity:0.44868;fill:#ffaaaa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.325165;stroke-dashoffset:0" />
+       style="opacity:0.44868;fill:#fffcfc;fill-opacity:0.93195879;fill-rule:evenodd;stroke:#000000;stroke-width:0.325165;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.325165, 0.325165;stroke-dashoffset:0" />
     <rect
        y="21.306898"
        x="51.73999"
@@ -419,14 +445,18 @@
          sodipodi:role="line">电暖气3000瓦</tspan></text>
     <text
        transform="translate(-5.7629454,-4.2374602)"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2331);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2331);fill:#000000;fill-opacity:1;stroke:none"
        id="text2329"
        xml:space="preserve"><tspan
          x="100.59375"
-         y="165.34603"><tspan
-           style="shape-inside:url(#rect2331)">制冷空调</tspan><tspan
-           style="shape-inside:url(#rect2331)">2</tspan><tspan
-           style="shape-inside:url(#rect2331)">P</tspan></tspan></text>
+         y="165.34603"
+         id="tspan2811"><tspan
+           style="shape-inside:url(#rect2331)"
+           id="tspan2805">制冷空调</tspan><tspan
+           style="shape-inside:url(#rect2331)"
+           id="tspan2807">2</tspan><tspan
+           style="shape-inside:url(#rect2331)"
+           id="tspan2809">P</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.506593;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.506593, 0.506593;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
        d="m 74.442476,112.09284 c -7.735846,-14.925897 -7.735846,-33.608462 0,-48.534359 0.220317,-0.42509 0.446423,-0.847179 0.678235,-1.266111"
@@ -541,7 +571,7 @@
        x="64.074776"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#000000;fill-opacity:1"
          y="133.33673"
          x="64.074776"
          id="tspan3197"
@@ -567,7 +597,7 @@
          id="tspan3197-7"
          x="120.3595"
          y="132.30656"
-         style="stroke-width:0.264583">阴中阳</tspan></text>
+         style="stroke-width:0.264583;fill:#000000;fill-opacity:1">阴中阳</tspan></text>
     <rect
        style="fill:#ffff00;fill-opacity:0;stroke:#000000;stroke-width:0.565941;stroke-miterlimit:10"
        id="rect2257-2"
@@ -603,13 +633,17 @@
     <text
        xml:space="preserve"
        id="text2329-6"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2331-0);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2331-0);fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(125.83722,-1.2445647)"><tspan
          x="100.59375"
-         y="165.34603"><tspan
-           style="shape-inside:url(#rect2331-0)">制冷空调</tspan><tspan
-           style="shape-inside:url(#rect2331-0)">2</tspan><tspan
-           style="shape-inside:url(#rect2331-0)">P</tspan></tspan></text>
+         y="165.34603"
+         id="tspan2819"><tspan
+           style="shape-inside:url(#rect2331-0)"
+           id="tspan2813">制冷空调</tspan><tspan
+           style="shape-inside:url(#rect2331-0)"
+           id="tspan2815">2</tspan><tspan
+           style="shape-inside:url(#rect2331-0)"
+           id="tspan2817">P</tspan></tspan></text>
     <path
        inkscape:original-d="m 206.04264,115.08574 c 6.4e-4,-16.177719 6.4e-4,-32.355839 0,-48.534364 -6.3e-4,-16.178519 0.4528,-0.843672 0.67824,-1.266111"
        inkscape:path-effect="#path-effect3808"
@@ -654,7 +688,7 @@
          style="stroke-width:0.264583">一阳</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#010202;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="204.98805"
        y="107.48904"
        id="text3199-3"><tspan
@@ -662,14 +696,14 @@
          id="tspan3197-5"
          x="204.98805"
          y="107.48904"
-         style="stroke-width:0.264583">三阴</tspan></text>
+         style="stroke-width:0.264583;fill:#010202;fill-opacity:1">三阴</tspan></text>
     <text
        id="text3199-6-6"
        y="104.35593"
        x="249.25586"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#020101;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="stroke-width:0.264583"
+         style="stroke-width:0.264583;fill:#020101;fill-opacity:1"
          y="104.35593"
          x="249.25586"
          id="tspan3197-7-3"
@@ -698,7 +732,7 @@
          sodipodi:role="line">三阳</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="229.24847"
        y="120.43598"
        id="text3199-6-6-9"><tspan
@@ -706,6 +740,6 @@
          id="tspan3197-7-3-6"
          x="229.24847"
          y="120.43598"
-         style="stroke-width:0.264583">二阴</tspan></text>
+         style="stroke-width:0.264583;fill-opacity:1;fill:#020202">二阴</tspan></text>
   </g>
 </svg>

@@ -38,7 +38,7 @@
 
 欲知**丝竹空**何在，眼眶外缘上眉梢。
 
-<img src="img/图90.jpg" style="zoom:80%;" />
+<img src="./img/图90.jpg" style="zoom:80%;" />
 
 图90手少阳三焦经循行示意图
 

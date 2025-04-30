@@ -74,7 +74,7 @@
 
 **桂枝加芍药汤方**
 
-**桂枝** <small>三两，去皮</small>  **芍药**<small>六两</small>**甘草**<small>二两，炙</small>  **大枣**<small>十二枚，擘</small> **生姜**<small>三两，切</small>
+**桂枝** <small>三两，去皮</small>  **芍药**<small>六两</small>  **甘草**<small>二两，炙</small>  **大枣**<small>十二枚，擘</small> **生姜**<small>三两，切</small>
 
 **上五味，以水七升，煮取三升，去滓，温分三服。本云桂枝汤今加芍药。**
 
